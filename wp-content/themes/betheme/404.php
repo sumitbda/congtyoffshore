@@ -16,61 +16,64 @@ $translate['404-btn'] = mfn_opts_get('translate') ? mfn_opts_get('translate-404-
 
 <head>
 
-<meta charset="<?php bloginfo('charset'); ?>" />
-<?php wp_head(); ?>
+    <meta charset="<?php bloginfo('charset'); ?>"/>
+    <?php wp_head(); ?>
 
 </head>
 
 <?php
-	$customID = mfn_opts_get('error404-page');
-	$body_class = '';
-	if ($customID) {
-		$body_class .= 'custom-404';
-	}
+$customID = mfn_opts_get('error404-page');
+$body_class = '';
+if ($customID) {
+    $body_class .= 'custom-404';
+}
 ?>
 
 <body <?php body_class($body_class); ?>>
 
-	<?php if ($customID): ?>
+<?php if ($customID): ?>
 
-		<div id="Content">
-			<div class="content_wrapper clearfix">
+    <div id="Content">
+        <div class="content_wrapper clearfix">
 
-				<div class="sections_group">
-					<?php
-						$mfn_builder = new Mfn_Builder_Front($customID, true);
-						$mfn_builder->show();
-					?>
-				</div>
+            <div class="sections_group">
+                <?php
+                $mfn_builder = new Mfn_Builder_Front($customID, true);
+                $mfn_builder->show();
+                ?>
+            </div>
 
-				<?php get_sidebar(); ?>
+            <?php get_sidebar(); ?>
 
-			</div>
-		</div>
+        </div>
+    </div>
 
-	<?php else: ?>
+<?php else: ?>
 
-		<div id="Error_404">
-			<div class="container">
-				<div class="column one">
+    <div id="Error_404">
+        <div class="container">
+            <div class="column one">
 
-					<div class="error_pic">
-						<i class="<?php echo esc_attr(mfn_opts_get('error404-icon', 'icon-traffic-cone')); ?>"></i>
-					</div>
+                <div class="error_pic">
+                    <i class="<?php echo esc_attr(mfn_opts_get('error404-icon', 'icon-traffic-cone')); ?>"></i>
+                </div>
 
-					<div class="error_desk">
-						<h2><?php echo esc_html($translate['404-title']); ?></h2>
-						<h4><?php echo esc_html($translate['404-subtitle']); ?></h4>
-						<p><span class="check"><?php echo wp_kses_post($translate['404-text']); ?></span> <a class="button button_filled" href="<?php echo esc_url(site_url()); ?>"><?php echo esc_html($translate['404-btn']); ?></a></p>
-					</div>
+                <div class="error_desk">
+                    <h2><?php echo esc_html($translate['404-title']); ?></h2>
+                    <h4><?php echo esc_html($translate['404-subtitle']); ?></h4>
+                    <p><span class="check"><?php echo wp_kses_post($translate['404-text']); ?></span> <a
+                                class="button button_filled"
+                                href="<?php echo esc_url(site_url()); ?>"><?php echo esc_html($translate['404-btn']); ?></a>
+                    </p>
+                </div>
 
-				</div>
-			</div>
-		</div>
+            </div>
+        </div>
+    </div>
 
-	<?php endif; ?>
+<?php endif; ?>
 
-	<?php wp_footer(); ?>
+<?php wp_footer(); ?>
 
 </body>
 </html>

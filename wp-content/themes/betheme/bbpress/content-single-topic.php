@@ -11,50 +11,50 @@
 
 <div id="bbpress-forums">
 
-	<?php if ( bbp_allow_search() ) : ?>
+    <?php if (bbp_allow_search()) : ?>
 
-		<div class="bbp-search-form">
+        <div class="bbp-search-form">
 
-			<?php bbp_get_template_part( 'form', 'search' ); ?>
+            <?php bbp_get_template_part('form', 'search'); ?>
 
-		</div>
+        </div>
 
-	<?php endif; ?>
-	
-	<?php bbp_forum_subscription_link(); ?>
+    <?php endif; ?>
 
-	<?php do_action( 'bbp_template_before_single_topic' ); ?>
+    <?php bbp_forum_subscription_link(); ?>
 
-	<?php if ( post_password_required() ) : ?>
+    <?php do_action('bbp_template_before_single_topic'); ?>
 
-		<?php bbp_get_template_part( 'form', 'protected' ); ?>
+    <?php if (post_password_required()) : ?>
 
-	<?php else : ?>
+        <?php bbp_get_template_part('form', 'protected'); ?>
 
-		<?php bbp_topic_tag_list(); ?>
+    <?php else : ?>
 
-		<?php bbp_single_topic_description(); ?>
+        <?php bbp_topic_tag_list(); ?>
 
-		<?php if ( bbp_show_lead_topic() ) : ?>
+        <?php bbp_single_topic_description(); ?>
 
-			<?php bbp_get_template_part( 'content', 'single-topic-lead' ); ?>
+        <?php if (bbp_show_lead_topic()) : ?>
 
-		<?php endif; ?>
+            <?php bbp_get_template_part('content', 'single-topic-lead'); ?>
 
-		<?php if ( bbp_has_replies() ) : ?>
+        <?php endif; ?>
 
-			<?php bbp_get_template_part( 'pagination', 'replies' ); ?>
+        <?php if (bbp_has_replies()) : ?>
 
-			<?php bbp_get_template_part( 'loop',       'replies' ); ?>
+            <?php bbp_get_template_part('pagination', 'replies'); ?>
 
-			<?php bbp_get_template_part( 'pagination', 'replies' ); ?>
+            <?php bbp_get_template_part('loop', 'replies'); ?>
 
-		<?php endif; ?>
+            <?php bbp_get_template_part('pagination', 'replies'); ?>
 
-		<?php bbp_get_template_part( 'form', 'reply' ); ?>
+        <?php endif; ?>
 
-	<?php endif; ?>
+        <?php bbp_get_template_part('form', 'reply'); ?>
 
-	<?php do_action( 'bbp_template_after_single_topic' ); ?>
+    <?php endif; ?>
+
+    <?php do_action('bbp_template_after_single_topic'); ?>
 
 </div>

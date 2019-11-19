@@ -28,13 +28,13 @@ class WP_Comments_List_Table extends WP_List_Table {
 	/**
 	 * Constructor.
 	 *
-	 * @since 3.1.0
-	 *
-	 * @see WP_List_Table::__construct() for more information on default arguments.
+	 * @param array $args An associative array of arguments.
+	 *@see WP_List_Table::__construct() for more information on default arguments.
 	 *
 	 * @global int $post_id
 	 *
-	 * @param array $args An associative array of arguments.
+	 * @since 3.1.0
+	 *
 	 */
 	public function __construct( $args = array() ) {
 		global $post_id;
@@ -138,9 +138,9 @@ class WP_Comments_List_Table extends WP_List_Table {
 		/**
 		 * Filters the arguments for the comment query in the comments list table.
 		 *
-		 * @since 5.1.0
-		 *
 		 * @param array $args An array of get_comments() arguments.
+		 *@since 5.1.0
+		 *
 		 */
 		$args = apply_filters( 'comments_list_table_query_args', $args );
 
@@ -184,10 +184,10 @@ class WP_Comments_List_Table extends WP_List_Table {
 		/**
 		 * Filters the number of comments listed per page in the comments list table.
 		 *
-		 * @since 2.6.0
-		 *
 		 * @param int    $comments_per_page The number of comments to list per page.
 		 * @param string $comment_status    The comment status name. Default 'All'.
+		 *@since 2.6.0
+		 *
 		 */
 		return apply_filters( 'comments_per_page', $comments_per_page, $comment_status );
 	}
@@ -203,6 +203,306 @@ class WP_Comments_List_Table extends WP_List_Table {
 		} else {
 			_e( 'No comments found.' );
 		}
+	}
+
+	/**
+	 * @return string|false
+	 */
+	public function current_action() {
+		if ( isset( $_REQUEST['delete_all'] ) || isset( $_REQUEST['delete_all2'] ) ) {
+			return 'delete_all';
+		}
+
+		return parent::current_action();
+	}
+
+	/**
+	 * @return array
+	 *@global int $post_id
+	 *
+	 */
+	public function get_columns() {
+		global $post_id;
+
+		$columns = array();
+
+		if ( $this->checkbox ) {
+			$columns['cb'] = '<input type="checkbox" />';
+		}
+
+		$columns['author']  = __( 'Author' );
+		$columns['comment'] = _x( 'Comment', 'column name' );
+
+		if ( ! $post_id ) {
+			/* translators: Column name or table row header. */
+			$columns['response'] = __( 'In Response To' );
+		}
+
+		$columns['date'] = _x( 'Submitted On', 'column name' );
+
+		return $columns;
+	}
+
+	/**
+	 * Displays the comments table.
+	 *
+	 * Overrides the parent display() method to render extra comments.
+	 *
+	 * @since 3.1.0
+	 */
+	public function display() {
+		wp_nonce_field( 'fetch-list-' . get_class( $this ), '_ajax_fetch_list_nonce' );
+
+		$this->display_tablenav( 'top' );
+
+		$this->screen->render_screen_reader_content( 'heading_list' );
+
+		?>
+<table class="wp-list-table <?php echo implode( ' ', $this->get_table_classes() ); ?>">
+	<thead>
+	<tr>
+		<?php $this->print_column_headers(); ?>
+	</tr>
+	</thead>
+
+	<tbody id="the-comment-list" data-wp-lists="list:comment">
+		<?php $this->display_rows_or_placeholder(); ?>
+	</tbody>
+
+	<tbody id="the-extra-comment-list" data-wp-lists="list:comment" style="display: none;">
+		<?php
+			/*
+			 * Back up the items to restore after printing the extra items markup.
+			 * The extra items may be empty, which will prevent the table nav from displaying later.
+			 */
+			$items       = $this->items;
+			$this->items = $this->extra_items;
+			$this->display_rows_or_placeholder();
+			$this->items = $items;
+		?>
+	</tbody>
+
+	<tfoot>
+	<tr>
+		<?php $this->print_column_headers( false ); ?>
+	</tr>
+	</tfoot>
+
+</table>
+		<?php
+
+		$this->display_tablenav( 'bottom' );
+	}
+
+	/**
+	 * @param WP_Comment $item
+	 *@global WP_Comment $comment Global comment object.
+	 *
+	 * @global WP_Post    $post    Global post object.
+	 */
+	public function single_row( $item ) {
+		global $post, $comment;
+
+		$comment = $item;
+
+		$the_comment_class = wp_get_comment_status( $comment );
+		if ( ! $the_comment_class ) {
+			$the_comment_class = '';
+		}
+		$the_comment_class = join( ' ', get_comment_class( $the_comment_class, $comment, $comment->comment_post_ID ) );
+
+		if ( $comment->comment_post_ID > 0 ) {
+			$post = get_post( $comment->comment_post_ID );
+		}
+		$this->user_can = current_user_can( 'edit_comment', $comment->comment_ID );
+
+		echo "<tr id='comment-$comment->comment_ID' class='$the_comment_class'>";
+		$this->single_row_columns( $comment );
+		echo "</tr>\n";
+
+		unset( $GLOBALS['post'], $GLOBALS['comment'] );
+	}
+
+	/**
+	 * @param WP_Comment $comment The comment object.
+	 */
+	public function column_cb( $comment ) {
+		if ( $this->user_can ) {
+			?>
+		<label class="screen-reader-text" for="cb-select-<?php echo $comment->comment_ID; ?>"><?php _e( 'Select comment' ); ?></label>
+		<input id="cb-select-<?php echo $comment->comment_ID; ?>" type="checkbox" name="delete_comments[]" value="<?php echo $comment->comment_ID; ?>" />
+			<?php
+		}
+	}
+
+	/**
+	 * @param WP_Comment $comment The comment object.
+	 */
+	public function column_comment( $comment ) {
+		echo '<div class="comment-author">';
+			$this->column_author( $comment );
+		echo '</div>';
+
+		if ( $comment->comment_parent ) {
+			$parent = get_comment( $comment->comment_parent );
+			if ( $parent ) {
+				$parent_link = esc_url( get_comment_link( $parent ) );
+				$name        = get_comment_author( $parent );
+				printf(
+					/* translators: %s: Comment link. */
+					__( 'In reply to %s.' ),
+					'<a href="' . $parent_link . '">' . $name . '</a>'
+				);
+			}
+		}
+
+		comment_text( $comment );
+
+		if ( $this->user_can ) {
+			/** This filter is documented in wp-admin/includes/comment.php */
+			$comment_content = apply_filters( 'comment_edit_pre', $comment->comment_content );
+			?>
+		<div id="inline-<?php echo $comment->comment_ID; ?>" class="hidden">
+			<textarea class="comment" rows="1" cols="1"><?php echo esc_textarea( $comment_content ); ?></textarea>
+			<div class="author-email"><?php echo esc_attr( $comment->comment_author_email ); ?></div>
+			<div class="author"><?php echo esc_attr( $comment->comment_author ); ?></div>
+			<div class="author-url"><?php echo esc_attr( $comment->comment_author_url ); ?></div>
+			<div class="comment_status"><?php echo $comment->comment_approved; ?></div>
+		</div>
+			<?php
+		}
+	}
+
+	/**
+	 * @param WP_Comment $comment The comment object.
+	 *@global string $comment_status
+	 *
+	 */
+	public function column_author( $comment ) {
+		global $comment_status;
+
+		$author_url = get_comment_author_url( $comment );
+
+		$author_url_display = untrailingslashit( preg_replace( '|^http(s)?://(www\.)?|i', '', $author_url ) );
+		if ( strlen( $author_url_display ) > 50 ) {
+			$author_url_display = wp_html_excerpt( $author_url_display, 49, '&hellip;' );
+		}
+
+		echo '<strong>';
+		comment_author( $comment );
+		echo '</strong><br />';
+		if ( ! empty( $author_url_display ) ) {
+			printf( '<a href="%s">%s</a><br />', esc_url( $author_url ), esc_html( $author_url_display ) );
+		}
+
+		if ( $this->user_can ) {
+			if ( ! empty( $comment->comment_author_email ) ) {
+				/** This filter is documented in wp-includes/comment-template.php */
+				$email = apply_filters( 'comment_email', $comment->comment_author_email, $comment );
+
+				if ( ! empty( $email ) && '@' !== $email ) {
+					printf( '<a href="%1$s">%2$s</a><br />', esc_url( 'mailto:' . $email ), esc_html( $email ) );
+				}
+			}
+
+			$author_ip = get_comment_author_IP( $comment );
+			if ( $author_ip ) {
+				$author_ip_url = add_query_arg(
+					array(
+						's'    => $author_ip,
+						'mode' => 'detail',
+					),
+					admin_url( 'edit-comments.php' )
+				);
+				if ( 'spam' === $comment_status ) {
+					$author_ip_url = add_query_arg( 'comment_status', 'spam', $author_ip_url );
+				}
+				printf( '<a href="%1$s">%2$s</a>', esc_url( $author_ip_url ), esc_html( $author_ip ) );
+			}
+		}
+	}
+
+	/**
+	 * @param WP_Comment $comment The comment object.
+	 */
+	public function column_date( $comment ) {
+		$submitted = sprintf(
+			/* translators: 1: Comment date, 2: Comment time. */
+			__( '%1$s at %2$s' ),
+			/* translators: Comment date format. See https://secure.php.net/date */
+			get_comment_date( __( 'Y/m/d' ), $comment ),
+			/* translators: Comment time format. See https://secure.php.net/date */
+			get_comment_date( __( 'g:i a' ), $comment )
+		);
+
+		echo '<div class="submitted-on">';
+		if ( 'approved' === wp_get_comment_status( $comment ) && ! empty( $comment->comment_post_ID ) ) {
+			printf(
+				'<a href="%s">%s</a>',
+				esc_url( get_comment_link( $comment ) ),
+				$submitted
+			);
+		} else {
+			echo $submitted;
+		}
+		echo '</div>';
+	}
+
+	/**
+	 * @param WP_Comment $comment The comment object.
+	 */
+	public function column_response( $comment ) {
+		$post = get_post();
+
+		if ( ! $post ) {
+			return;
+		}
+
+		if ( isset( $this->pending_count[ $post->ID ] ) ) {
+			$pending_comments = $this->pending_count[ $post->ID ];
+		} else {
+			$_pending_count_temp              = get_pending_comments_num( array( $post->ID ) );
+			$pending_comments                 = $_pending_count_temp[ $post->ID ];
+			$this->pending_count[ $post->ID ] = $pending_comments;
+		}
+
+		if ( current_user_can( 'edit_post', $post->ID ) ) {
+			$post_link  = "<a href='" . get_edit_post_link( $post->ID ) . "' class='comments-edit-item-link'>";
+			$post_link .= esc_html( get_the_title( $post->ID ) ) . '</a>';
+		} else {
+			$post_link = esc_html( get_the_title( $post->ID ) );
+		}
+
+		echo '<div class="response-links">';
+		if ( 'attachment' === $post->post_type ) {
+			$thumb = wp_get_attachment_image( $post->ID, array( 80, 60 ), true );
+			if ( $thumb ) {
+				echo $thumb;
+			}
+		}
+		echo $post_link;
+		$post_type_object = get_post_type_object( $post->post_type );
+		echo "<a href='" . get_permalink( $post->ID ) . "' class='comments-view-item-link'>" . $post_type_object->labels->view_item . '</a>';
+		echo '<span class="post-com-count-wrapper post-com-count-', $post->ID, '">';
+		$this->comments_bubble( $post->ID, $pending_comments );
+		echo '</span> ';
+		echo '</div>';
+	}
+
+	/**
+	 * @param WP_Comment $comment     The comment object.
+	 * @param string     $column_name The custom column's name.
+	 */
+	public function column_default( $comment, $column_name ) {
+		/**
+		 * Fires when the default column output is displayed for a single row.
+		 *
+		 * @param string $column_name         The custom column's name.
+		 * @param int    $comment->comment_ID The custom column's unique ID number.
+		 *@since 2.8.0
+		 *
+		 */
+		do_action( 'manage_comments_custom_column', $column_name, $comment->comment_ID );
 	}
 
 	/**
@@ -315,19 +615,19 @@ class WP_Comments_List_Table extends WP_List_Table {
 		/**
 		 * Filters the comment status links.
 		 *
-		 * @since 2.5.0
-		 * @since 5.1.0 The 'Mine' link was added.
-		 *
 		 * @param string[] $status_links An associative array of fully-formed comment status links. Includes 'All', 'Mine',
 		 *                              'Pending', 'Approved', 'Spam', and 'Trash'.
+		 *@since 5.1.0 The 'Mine' link was added.
+		 *
+		 * @since 2.5.0
 		 */
 		return apply_filters( 'comment_status_links', $status_links );
 	}
 
 	/**
-	 * @global string $comment_status
-	 *
 	 * @return array
+	 *@global string $comment_status
+	 *
 	 */
 	protected function get_bulk_actions() {
 		global $comment_status;
@@ -359,10 +659,10 @@ class WP_Comments_List_Table extends WP_List_Table {
 	}
 
 	/**
-	 * @global string $comment_status
-	 * @global string $comment_type
-	 *
 	 * @param string $which
+	 *@global string $comment_type
+	 *
+	 * @global string $comment_status
 	 */
 	protected function extra_tablenav( $which ) {
 		global $comment_status, $comment_type;
@@ -383,9 +683,9 @@ class WP_Comments_List_Table extends WP_List_Table {
 				/**
 				 * Filters the comment types dropdown menu.
 				 *
-				 * @since 2.7.0
-				 *
 				 * @param string[] $comment_types An array of comment types. Accepts 'Comments', 'Pings'.
+				 *@since 2.7.0
+				 *
 				 */
 				$comment_types = apply_filters(
 					'admin_comment_types_dropdown',
@@ -418,50 +718,12 @@ class WP_Comments_List_Table extends WP_List_Table {
 		/**
 		 * Fires after the Filter submit button for comment types.
 		 *
-		 * @since 2.5.0
-		 *
 		 * @param string $comment_status The comment status name. Default 'All'.
+		 *@since 2.5.0
+		 *
 		 */
 		do_action( 'manage_comments_nav', $comment_status );
 		echo '</div>';
-	}
-
-	/**
-	 * @return string|false
-	 */
-	public function current_action() {
-		if ( isset( $_REQUEST['delete_all'] ) || isset( $_REQUEST['delete_all2'] ) ) {
-			return 'delete_all';
-		}
-
-		return parent::current_action();
-	}
-
-	/**
-	 * @global int $post_id
-	 *
-	 * @return array
-	 */
-	public function get_columns() {
-		global $post_id;
-
-		$columns = array();
-
-		if ( $this->checkbox ) {
-			$columns['cb'] = '<input type="checkbox" />';
-		}
-
-		$columns['author']  = __( 'Author' );
-		$columns['comment'] = _x( 'Comment', 'column name' );
-
-		if ( ! $post_id ) {
-			/* translators: Column name or table row header. */
-			$columns['response'] = __( 'In Response To' );
-		}
-
-		$columns['date'] = _x( 'Submitted On', 'column name' );
-
-		return $columns;
 	}
 
 	/**
@@ -478,105 +740,25 @@ class WP_Comments_List_Table extends WP_List_Table {
 	/**
 	 * Get the name of the default primary column.
 	 *
-	 * @since 4.3.0
-	 *
 	 * @return string Name of the default primary column, in this case, 'comment'.
+	 *@since 4.3.0
+	 *
 	 */
 	protected function get_default_primary_column_name() {
 		return 'comment';
 	}
 
 	/**
-	 * Displays the comments table.
-	 *
-	 * Overrides the parent display() method to render extra comments.
-	 *
-	 * @since 3.1.0
-	 */
-	public function display() {
-		wp_nonce_field( 'fetch-list-' . get_class( $this ), '_ajax_fetch_list_nonce' );
-
-		$this->display_tablenav( 'top' );
-
-		$this->screen->render_screen_reader_content( 'heading_list' );
-
-		?>
-<table class="wp-list-table <?php echo implode( ' ', $this->get_table_classes() ); ?>">
-	<thead>
-	<tr>
-		<?php $this->print_column_headers(); ?>
-	</tr>
-	</thead>
-
-	<tbody id="the-comment-list" data-wp-lists="list:comment">
-		<?php $this->display_rows_or_placeholder(); ?>
-	</tbody>
-
-	<tbody id="the-extra-comment-list" data-wp-lists="list:comment" style="display: none;">
-		<?php
-			/*
-			 * Back up the items to restore after printing the extra items markup.
-			 * The extra items may be empty, which will prevent the table nav from displaying later.
-			 */
-			$items       = $this->items;
-			$this->items = $this->extra_items;
-			$this->display_rows_or_placeholder();
-			$this->items = $items;
-		?>
-	</tbody>
-
-	<tfoot>
-	<tr>
-		<?php $this->print_column_headers( false ); ?>
-	</tr>
-	</tfoot>
-
-</table>
-		<?php
-
-		$this->display_tablenav( 'bottom' );
-	}
-
-	/**
-	 * @global WP_Post    $post    Global post object.
-	 * @global WP_Comment $comment Global comment object.
-	 *
-	 * @param WP_Comment $item
-	 */
-	public function single_row( $item ) {
-		global $post, $comment;
-
-		$comment = $item;
-
-		$the_comment_class = wp_get_comment_status( $comment );
-		if ( ! $the_comment_class ) {
-			$the_comment_class = '';
-		}
-		$the_comment_class = join( ' ', get_comment_class( $the_comment_class, $comment, $comment->comment_post_ID ) );
-
-		if ( $comment->comment_post_ID > 0 ) {
-			$post = get_post( $comment->comment_post_ID );
-		}
-		$this->user_can = current_user_can( 'edit_comment', $comment->comment_ID );
-
-		echo "<tr id='comment-$comment->comment_ID' class='$the_comment_class'>";
-		$this->single_row_columns( $comment );
-		echo "</tr>\n";
-
-		unset( $GLOBALS['post'], $GLOBALS['comment'] );
-	}
-
-	/**
 	 * Generate and display row actions links.
-	 *
-	 * @since 4.3.0
-	 *
-	 * @global string $comment_status Status for the current listed comments.
 	 *
 	 * @param WP_Comment $comment     The comment object.
 	 * @param string     $column_name Current column name.
 	 * @param string     $primary     Primary column name.
 	 * @return string|void Comment row actions output.
+	 *@since 4.3.0
+	 *
+	 * @global string $comment_status Status for the current listed comments.
+	 *
 	 */
 	protected function handle_row_actions( $comment, $column_name, $primary ) {
 		global $comment_status;
@@ -762,187 +944,5 @@ class WP_Comments_List_Table extends WP_List_Table {
 		$out .= '<button type="button" class="toggle-row"><span class="screen-reader-text">' . __( 'Show more details' ) . '</span></button>';
 
 		return $out;
-	}
-
-	/**
-	 * @param WP_Comment $comment The comment object.
-	 */
-	public function column_cb( $comment ) {
-		if ( $this->user_can ) {
-			?>
-		<label class="screen-reader-text" for="cb-select-<?php echo $comment->comment_ID; ?>"><?php _e( 'Select comment' ); ?></label>
-		<input id="cb-select-<?php echo $comment->comment_ID; ?>" type="checkbox" name="delete_comments[]" value="<?php echo $comment->comment_ID; ?>" />
-			<?php
-		}
-	}
-
-	/**
-	 * @param WP_Comment $comment The comment object.
-	 */
-	public function column_comment( $comment ) {
-		echo '<div class="comment-author">';
-			$this->column_author( $comment );
-		echo '</div>';
-
-		if ( $comment->comment_parent ) {
-			$parent = get_comment( $comment->comment_parent );
-			if ( $parent ) {
-				$parent_link = esc_url( get_comment_link( $parent ) );
-				$name        = get_comment_author( $parent );
-				printf(
-					/* translators: %s: Comment link. */
-					__( 'In reply to %s.' ),
-					'<a href="' . $parent_link . '">' . $name . '</a>'
-				);
-			}
-		}
-
-		comment_text( $comment );
-
-		if ( $this->user_can ) {
-			/** This filter is documented in wp-admin/includes/comment.php */
-			$comment_content = apply_filters( 'comment_edit_pre', $comment->comment_content );
-			?>
-		<div id="inline-<?php echo $comment->comment_ID; ?>" class="hidden">
-			<textarea class="comment" rows="1" cols="1"><?php echo esc_textarea( $comment_content ); ?></textarea>
-			<div class="author-email"><?php echo esc_attr( $comment->comment_author_email ); ?></div>
-			<div class="author"><?php echo esc_attr( $comment->comment_author ); ?></div>
-			<div class="author-url"><?php echo esc_attr( $comment->comment_author_url ); ?></div>
-			<div class="comment_status"><?php echo $comment->comment_approved; ?></div>
-		</div>
-			<?php
-		}
-	}
-
-	/**
-	 * @global string $comment_status
-	 *
-	 * @param WP_Comment $comment The comment object.
-	 */
-	public function column_author( $comment ) {
-		global $comment_status;
-
-		$author_url = get_comment_author_url( $comment );
-
-		$author_url_display = untrailingslashit( preg_replace( '|^http(s)?://(www\.)?|i', '', $author_url ) );
-		if ( strlen( $author_url_display ) > 50 ) {
-			$author_url_display = wp_html_excerpt( $author_url_display, 49, '&hellip;' );
-		}
-
-		echo '<strong>';
-		comment_author( $comment );
-		echo '</strong><br />';
-		if ( ! empty( $author_url_display ) ) {
-			printf( '<a href="%s">%s</a><br />', esc_url( $author_url ), esc_html( $author_url_display ) );
-		}
-
-		if ( $this->user_can ) {
-			if ( ! empty( $comment->comment_author_email ) ) {
-				/** This filter is documented in wp-includes/comment-template.php */
-				$email = apply_filters( 'comment_email', $comment->comment_author_email, $comment );
-
-				if ( ! empty( $email ) && '@' !== $email ) {
-					printf( '<a href="%1$s">%2$s</a><br />', esc_url( 'mailto:' . $email ), esc_html( $email ) );
-				}
-			}
-
-			$author_ip = get_comment_author_IP( $comment );
-			if ( $author_ip ) {
-				$author_ip_url = add_query_arg(
-					array(
-						's'    => $author_ip,
-						'mode' => 'detail',
-					),
-					admin_url( 'edit-comments.php' )
-				);
-				if ( 'spam' === $comment_status ) {
-					$author_ip_url = add_query_arg( 'comment_status', 'spam', $author_ip_url );
-				}
-				printf( '<a href="%1$s">%2$s</a>', esc_url( $author_ip_url ), esc_html( $author_ip ) );
-			}
-		}
-	}
-
-	/**
-	 * @param WP_Comment $comment The comment object.
-	 */
-	public function column_date( $comment ) {
-		$submitted = sprintf(
-			/* translators: 1: Comment date, 2: Comment time. */
-			__( '%1$s at %2$s' ),
-			/* translators: Comment date format. See https://secure.php.net/date */
-			get_comment_date( __( 'Y/m/d' ), $comment ),
-			/* translators: Comment time format. See https://secure.php.net/date */
-			get_comment_date( __( 'g:i a' ), $comment )
-		);
-
-		echo '<div class="submitted-on">';
-		if ( 'approved' === wp_get_comment_status( $comment ) && ! empty( $comment->comment_post_ID ) ) {
-			printf(
-				'<a href="%s">%s</a>',
-				esc_url( get_comment_link( $comment ) ),
-				$submitted
-			);
-		} else {
-			echo $submitted;
-		}
-		echo '</div>';
-	}
-
-	/**
-	 * @param WP_Comment $comment The comment object.
-	 */
-	public function column_response( $comment ) {
-		$post = get_post();
-
-		if ( ! $post ) {
-			return;
-		}
-
-		if ( isset( $this->pending_count[ $post->ID ] ) ) {
-			$pending_comments = $this->pending_count[ $post->ID ];
-		} else {
-			$_pending_count_temp              = get_pending_comments_num( array( $post->ID ) );
-			$pending_comments                 = $_pending_count_temp[ $post->ID ];
-			$this->pending_count[ $post->ID ] = $pending_comments;
-		}
-
-		if ( current_user_can( 'edit_post', $post->ID ) ) {
-			$post_link  = "<a href='" . get_edit_post_link( $post->ID ) . "' class='comments-edit-item-link'>";
-			$post_link .= esc_html( get_the_title( $post->ID ) ) . '</a>';
-		} else {
-			$post_link = esc_html( get_the_title( $post->ID ) );
-		}
-
-		echo '<div class="response-links">';
-		if ( 'attachment' === $post->post_type ) {
-			$thumb = wp_get_attachment_image( $post->ID, array( 80, 60 ), true );
-			if ( $thumb ) {
-				echo $thumb;
-			}
-		}
-		echo $post_link;
-		$post_type_object = get_post_type_object( $post->post_type );
-		echo "<a href='" . get_permalink( $post->ID ) . "' class='comments-view-item-link'>" . $post_type_object->labels->view_item . '</a>';
-		echo '<span class="post-com-count-wrapper post-com-count-', $post->ID, '">';
-		$this->comments_bubble( $post->ID, $pending_comments );
-		echo '</span> ';
-		echo '</div>';
-	}
-
-	/**
-	 * @param WP_Comment $comment     The comment object.
-	 * @param string     $column_name The custom column's name.
-	 */
-	public function column_default( $comment, $column_name ) {
-		/**
-		 * Fires when the default column output is displayed for a single row.
-		 *
-		 * @since 2.8.0
-		 *
-		 * @param string $column_name         The custom column's name.
-		 * @param int    $comment->comment_ID The custom column's unique ID number.
-		 */
-		do_action( 'manage_comments_custom_column', $column_name, $comment->comment_ID );
 	}
 }

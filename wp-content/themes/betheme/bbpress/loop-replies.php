@@ -9,72 +9,72 @@
 
 ?>
 
-<?php do_action( 'bbp_template_before_replies_loop' ); ?>
+<?php do_action('bbp_template_before_replies_loop'); ?>
 
 <ul id="topic-<?php bbp_topic_id(); ?>-replies" class="forums bbp-replies">
 
-	<li class="bbp-header">
+    <li class="bbp-header">
 
-		<div class="bbp-reply-author"><?php  _e( 'Author',  'bbpress' ); ?></div><!-- .bbp-reply-author -->
+        <div class="bbp-reply-author"><?php _e('Author', 'bbpress'); ?></div><!-- .bbp-reply-author -->
 
-		<div class="bbp-reply-content">
+        <div class="bbp-reply-content">
 
-			<?php if ( !bbp_show_lead_topic() ) : ?>
+            <?php if (!bbp_show_lead_topic()) : ?>
 
-				<?php _e( 'Posts', 'bbpress' ); ?>
+                <?php _e('Posts', 'bbpress'); ?>
 
-				<?php bbp_topic_subscription_link(); ?>
+                <?php bbp_topic_subscription_link(); ?>
 
-				<?php bbp_user_favorites_link(); ?>
+                <?php bbp_user_favorites_link(); ?>
 
-			<?php else : ?>
+            <?php else : ?>
 
-				<?php _e( 'Replies', 'bbpress' ); ?>
+                <?php _e('Replies', 'bbpress'); ?>
 
-			<?php endif; ?>
+            <?php endif; ?>
 
-		</div><!-- .bbp-reply-content -->
+        </div><!-- .bbp-reply-content -->
 
-	</li><!-- .bbp-header -->
+    </li><!-- .bbp-header -->
 
-	<li class="bbp-body">
+    <li class="bbp-body">
 
-		<?php if ( bbp_thread_replies() ) : ?>
+        <?php if (bbp_thread_replies()) : ?>
 
-			<?php bbp_list_replies(); ?>
+            <?php bbp_list_replies(); ?>
 
-		<?php else : ?>
+        <?php else : ?>
 
-			<?php while ( bbp_replies() ) : bbp_the_reply(); ?>
+            <?php while (bbp_replies()) : bbp_the_reply(); ?>
 
-				<?php bbp_get_template_part( 'loop', 'single-reply' ); ?>
+                <?php bbp_get_template_part('loop', 'single-reply'); ?>
 
-			<?php endwhile; ?>
+            <?php endwhile; ?>
 
-		<?php endif; ?>
+        <?php endif; ?>
 
-	</li><!-- .bbp-body -->
+    </li><!-- .bbp-body -->
 
-	<li class="bbp-footer">
+    <li class="bbp-footer">
 
-		<div class="bbp-reply-author"><?php  _e( 'Author',  'bbpress' ); ?></div>
+        <div class="bbp-reply-author"><?php _e('Author', 'bbpress'); ?></div>
 
-		<div class="bbp-reply-content">
+        <div class="bbp-reply-content">
 
-			<?php if ( !bbp_show_lead_topic() ) : ?>
+            <?php if (!bbp_show_lead_topic()) : ?>
 
-				<?php _e( 'Posts', 'bbpress' ); ?>
+                <?php _e('Posts', 'bbpress'); ?>
 
-			<?php else : ?>
+            <?php else : ?>
 
-				<?php _e( 'Replies', 'bbpress' ); ?>
+                <?php _e('Replies', 'bbpress'); ?>
 
-			<?php endif; ?>
+            <?php endif; ?>
 
-		</div><!-- .bbp-reply-content -->
+        </div><!-- .bbp-reply-content -->
 
-	</li><!-- .bbp-footer -->
+    </li><!-- .bbp-footer -->
 
 </ul><!-- #topic-<?php bbp_topic_id(); ?>-replies -->
 
-<?php do_action( 'bbp_template_after_replies_loop' ); ?>
+<?php do_action('bbp_template_after_replies_loop'); ?>
