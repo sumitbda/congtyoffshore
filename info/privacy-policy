@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Privacy Policy</title>
+    <meta content="Privacy Policy" name="description">
+    <meta content="Privacy Policy" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<script> commands.push(function () {
+    $(document).ready(function () {
+        $("#print-pdf").click(function () {
+            var node = document.getElementById('content_ar_single');
+            var htmlContent = node.innerHTML;
+            $("#content-print-pdf").text(htmlContent);
+            $("#fr-print-pdf").prop("action", "/print-content-pdf");
+            $("#fr-print-pdf").prop("method", "post");
+            $("#fr-print-pdf").attr('target', '_blank');
+            $("#fr-print-pdf").submit();
+        });
+    })
+}); </script>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/info/privacy-policy"
+                                                                                 target="_self" title="Privacy Policy">
+        Privacy Policy </a></div>
+</div>
+<div class="paddingtop-mobile">
+    <div class="container" id="content_ar_single"><h1>Privacy Policy</h1>
+        <div class="row margin-bt15">
+            <div class="col-md-12">
+                <div class="pull-right"><a class="download-file" id="print-pdf" style="cursor: pointer" target="_self"
+                                           title="Download"> <img
+                        align="absmiddle"
+                        alt="Download" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-file-download.svg" title="Download"> Download </a></div>
+                <div class="date-detail margin0"> Updated time: 26 Oct, 2018, 15:19 (UTC+08:00)</div>
+            </div>
+        </div>
+        <div class="content-format"><p>This privacy policy applies to www.offshorecompanycorp.com, which is owned and
+            operated by us, Offshore Company Corp. This privacy policy describes how we collect and use the personal
+            information you provide on our website. It also describes the choices available to you regarding our use of
+            your personal information, and how you can access and update this information.</p>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading clearfix"><h2>1. INFORMATION COLLECTION AND USE</h2></div>
+                    <div class="toggle-content"><p>We collect the following personal information from you.</p>
+                        <ul>
+                            <li>Contact information, such as your name, email address, mailing address and phone
+                                number
+                            </li>
+                            <li>Billing information, residential address and billing address</li>
+                            <li>Information about your business, such as company name, address, business type and
+                                owner
+                            </li>
+                        </ul>
+                        <p>We may collect the personal information of third parties when you add the names of
+                            shareholders or beneficiaries on our order forms. Collection of third-party personally
+                            identifiable information may be necessary to process and register your order for certain
+                            products or services. We will not use this information for any other commercial purpose.
+                            These third parties may contact us at <a class="__cf_email__"
+                                                                     data-cfemail="89f9fbe0ffe8fdecc9e6efeffae1e6fbeceae6e4f9e8e7f0eae6fbf9a7eae6e4"
+                                                                     href="/cdn-cgi/l/email-protection">[email&#160;protected]</a>
+                            to request that we remove this information from our database.</p>
+                        <p>We use the information we collect to:</p>
+                        <ul>
+                            <li>fulfil your order;</li>
+                            <li>send you an order confirmation;</li>
+                            <li>assess the needs of your business to determine suitable products;</li>
+                            <li>send you the requested product or information;</li>
+                            <li>respond to customer-service requests;</li>
+                            <li>send you communications;</li>
+                            <li>conduct due diligence; and</li>
+                            <li>respond to your questions and concerns.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading clearfix"><h2>2. INFORMATION SHARING</h2></div>
+                    <div class="toggle-content"><p>We will share your personal information with third parties only in
+                        the ways that are described in this privacy policy. We do not sell your personal information to
+                        third parties.</p>
+                        <h3>Service providers</h3>
+                        <p>We may provide your personal information to companies that provide services to help us with
+                            our business activities (such as processing your order/payment, registering your business or
+                            offering customer service). These companies are authorised to use your personal information
+                            only as necessary to provide these services.</p>
+                        <h3>Frames</h3>
+                        <p>Some of our pages utilise "framing techniques" to serve content to and from our service
+                            providers (such as a payment processor) while preserving the look and feel of this site.
+                            Please be aware that you are providing your personal information to these third parties and
+                            not to www.offshorecompanycorp.com.</p>
+                        <h3>Legal disclaimer</h3>
+                        <p>We may also disclose your personal information:</p>
+                        <ul>
+                            <li>as required by law, such as to comply with a subpoena, or similar legal process;</li>
+                            <li>when we believe, in good faith, that disclosure is necessary to protect our rights,
+                                protect your safety or the safety of others, investigate fraud, or respond to a
+                                government request;
+                            </li>
+                            <li>if we are involved in a merger, acquisition, or sale of all or a portion of our assets
+                                (in which case you will be notified via email and/or a prominent notice on our website
+                                of any change in ownership or uses of your personal information, as well as any choices
+                                you may have regarding your personal information); and
+                            </li>
+                            <li>to any other third party, with your prior consent to do so.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading clearfix"><h2>3. SECURITY</h2></div>
+                    <div class="toggle-content"><p>We are committed to providing the highest level of security and
+                        privacy. All online actions, including processing credit-card payments, are carried out securely
+                        using technology, supported by your browser, which encrypts all information that is sent to us.
+                        We use the best commercially available encryption on the internet. We take every precaution to
+                        protect your personal information from loss, misuse, unauthorized access, release, alteration or
+                        destruction, and keep personal information only for the purpose you have provided it for.</p>
+                        <h3>GDPR (General Data Protection Regulation) statement</h3>
+                        <p>To protect your valuable personal information, all data stored in One IBC/One IBC CPA's
+                            databases, either online or offline, will be protected in accordance with the EU's GDPR
+                            (General Data Protection Regulation Link to European Union law), which comes into full
+                            effect on May 25th 2018.</p>
+                        <p>One IBC does not collect and process data except when voluntarily provided by you. We pledge
+                            to strictly follow international security and privacy protection standards.</p>
+                        <p>We only send you the most relevant information in the Corporate Services, Taxation and
+                            Auditing industries, hand-picked by our dedicated team of professionals, who are individuals
+                            that value the privacy of personal information just like you.</p></div>
+                </div>
+            </div>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading clearfix"><h2>4. TRACKING TECHNOLOGIES/COOKIES</h2></div>
+                    <div class="toggle-content"><p>A cookie is a small text file that is stored on a user's computer for
+                        record-keeping purposes. We use cookies on this site. We do not link the information we store in
+                        cookies to any personally identifiable information you submit while on this site.</p>
+                        <p>We use both session ID cookies and persistent cookies to track users’ behaviour and to save
+                            information you put in our forms. A session ID cookie expires when you close your browser. A
+                            persistent cookie remains on your hard drive for an extended period of time. You can remove
+                            persistent cookies by following the directions provided in your internet browser's "help"
+                            directory. If you reject cookies, you may still use this site, but your ability to use some
+                            areas of this site will be limited.</p>
+                        <h3>Web beacons/gifs</h3>
+                        <p>We employ a software technology called clear gifs (aka web beacons) to help us better manage
+                            content on this site by informing us what content is effective. Clear gifs are tiny graphics
+                            with a unique identifier, similar in function to cookies, and are used to track the online
+                            movements of web users. In contrast to cookies, which are stored on a user's computer hard
+                            drive, clear gifs are embedded invisibly on web pages and are about the size of the full
+                            stop at the end of this sentence. We do not tie the information gathered by clear gifs to
+                            our customers' personally identifiable information.</p>
+                        <h3>Analytics/log files</h3>
+                        <p>As is true of most websites, we gather certain information automatically and store it in log
+                            files. This information includes your internet protocol (IP) address, browser type, internet
+                            service provider (ISP), referring/exit pages, operating system, date/time stamp, and
+                            clickstream data.</p>
+                        <p>We use this information, which does not identify individual users, to analyse trends,
+                            administer the site, track users' movements around the site, and gather demographic
+                            information about our user base as a whole. We do not link this automatically collected data
+                            to personally identifiable information.</p>
+                        <p>The use of tracking technologies by our service providers, technology partners or other
+                            third-party assets on this site (such as those involved in tracking the success of
+                            advertising) is not covered by this privacy policy. These third parties may use cookies,
+                            clear gifs, images and scripts to help them better manage their content on this site. We do
+                            not have access to or control over these technologies. We do not tie the information
+                            gathered by these third parties to our customers' or users' personally identifiable
+                            information.</p>
+                        <h3>Behavioural targeting/re-targeting</h3>
+                        <p>We partner with a third-party ad network to either display advertising on this site or to
+                            manage our advertising on other sites. Our ad-network partner uses cookies and web beacons
+                            to collect non-personally identifiable information about your activities on this website,
+                            and other websites, to provide you with targeted advertising based upon your interests. If
+                            you wish to not have this information used for the purpose of serving you with targeted ads,
+                            you may opt out by clicking here.</p>
+                        <p>Please note this does not opt you out of being served with advertising. You will continue to
+                            receive generic ads.</p></div>
+                </div>
+            </div>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading clearfix"><h2>5. SECURITY</h2></div>
+                    <div class="toggle-content"><p>The security of your personal information is important to us. When
+                        you enter sensitive information (such as credit-card, bank-account or proprietary-business
+                        information) on our order forms, we encrypt the transmission of that information using secure
+                        socket layer technology (SSL).</p>
+                        <p>We follow generally accepted standards to protect the personal information submitted to us,
+                            both during transmission and once we receive it. However, no method of transmission over the
+                            Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee
+                            its absolute security. If you have any questions about security on this site, you can
+                            contact us at <a class="__cf_email__" data-cfemail="59292b302f382d3c19363f3f2a31362b3c3a3634293837203a362b29773a363477"
+                                             href="/cdn-cgi/l/email-protection">[email&#160;protected]</a>
+                        </p></div>
+                </div>
+            </div>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading clearfix"><h2>6. ADDITIONAL INFORMATION</h2></div>
+                    <div class="toggle-content"><h3>Links to third-party sites</h3>
+                        <p>This site includes links to other websites whose privacy practices may differ from ours. When
+                            you submit personal information to any of those sites, your information is governed by their
+                            privacy policies. We encourage you to carefully read the privacy policy of any website you
+                            visit.</p>
+                        <h3>Social-media widgets</h3>
+                        <p>Our website includes social-media features (such as the Facebook and Twitter buttons, and
+                            widgets such as the "Share This" button) or interactive</p>
+                        <p>mini-programs. These features may collect your IP address and which page you are visiting on
+                            this site, and may set a cookie to enable the feature to function properly. Social-media
+                            features and widgets are either hosted by a third party or hosted directly on this site.
+                            Your interactions with these features are governed by the privacy policy of the company
+                            providing them.</p>
+                        <h3>Testimonials</h3>
+                        <p>We may display personal testimonials of satisfied customers, in addition to other
+                            endorsements, on this site. These testimonials are pulled from a third-party service
+                            provider, which may ask for your personal information, including your name and email
+                            address. Though we do not post the personally identifiable information to this site, if you
+                            wish to update or delete your testimonial, please contact the data controller.</p>
+                        <h3>Changes to this policy</h3>
+                        <p>We may update this privacy policy to reflect changes to our information practices. If we make
+                            any material changes, we will notify you by means of a notice on this site prior to the
+                            change becoming effective. We encourage you to periodically review this page for the latest
+                            information on our privacy practices.</p></div>
+                </div>
+            </div>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading clearfix"><h2>7. CONTACT US</h2></div>
+                    <div class="toggle-content"><p>If you have any questions, please contact us by email or regular mail
+                        at the following address:</p>
+                        <h3>Offshorecompanycorp.com is a wholly - owned subsidiary of One IBC Limited</h3>
+                        <ul class="list-unstyled list-contact">
+                            <li><img alt="Address"
+                                     src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-address-1540538122.png" title="Address"/> <strong>Address:</strong> Unit 1411, 14/Floor,
+                                Cosco Tower, 183 Queen's Road Central, Sheung Wan, Hong Kong.
+                            </li>
+                            <li><img alt="Telephone"
+                                     src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1540538123.png" title="Telephone"/> <strong>Telephone:</strong> <a
+                                    href="tel:+85230519188?call" target="_blank">+852 3051 9188</a></li>
+                            <li><img alt="Email"
+                                     src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-mail-1540538123.png" title="Email"/> <strong>Email:</strong> <a
+                                    href="http://offshorecompanycorp.com/contact-us"><span class="__cf_email__"
+                                                                                           data-cfemail="1b686e6b6b74696f5b747d7d687374697e7874766b7a75627874696b35787476">[email&#160;protected]</span>
+                            </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form id="fr-print-pdf" name="fr-print-pdf"><textarea hidden="hidden" id="content-print-pdf"
+                                                          name="content-print-pdf"></textarea> <input name="ar_keyword"
+                                                                                             type="hidden"
+                                                                                             value="privacy-policy">
+        <input name="ar_name" type="hidden" value="Privacy Policy"></form>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '182.68.2.233',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'info',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

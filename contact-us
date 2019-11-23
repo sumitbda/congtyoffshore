@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Contact Us</title>
+    <meta content="Contact Us" name="description">
+    <meta content="Contact Us" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/setup.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/intlTelInput.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs">
+    <div class="container"><a href="/" target="_self" title="Home">Home</a> <a href="/contact-us" target="_self"
+                                                                               title="Contact Us"> Contact Us </a></div>
+</div>
+<div class="banner banner-style2">
+    <div class="img-absolute"><img alt="Contact Us"
+                                   src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/banner-contact-us.jpg" title="Contact Us"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="bg-red"><h1>Contact Us</h1>
+                    <p class="allow-heading-white"> Please contact us for a consultation or to discuss an offshore
+                        solution that would best suit your needs. </p></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-block bg-f3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-sm-12 pull-right"><h2>Get in touch</h2>
+                <form action="/contact-us" class="contact-form" enctype="multipart/form-data" method="post"
+                      name="contactus-form">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-12">
+                                    <div class="form-group "><label for="slReason">What can we help you with <span
+                                            class="text-danger">*</span></label> <select id="slReason" name="slReason">
+                                        <option value="0">Select a Topics</option>
+                                        <optgroup label="All Services">
+                                            <option value='Company Formation'>Company Formation</option>
+                                            <option value='General'>General</option>
+                                            <option value='Hong Kong'>Hong Kong</option>
+                                            <option value='Hong Kong'>Hong Kong</option>
+                                            <option value='Viet Nam'>Viet Nam</option>
+                                            <option value='Nominee'>Nominee</option>
+                                            <option value='Delaware (United States of America)'>Delaware (United States
+                                                of America)
+                                            </option>
+                                            <option value='United Kingdom'>United Kingdom</option>
+                                            <option value='United Kingdom'>United Kingdom</option>
+                                            <option value='Change Agent'>Change Agent</option>
+                                            <option value='Hong Kong'>Hong Kong</option>
+                                            <option value='Singapore'>Singapore</option>
+                                            <option value='Singapore'>Singapore</option>
+                                            <option value='Company Renewal'>Company Renewal</option>
+                                            <option value='Singapore'>Singapore</option>
+                                            <option value='Open Bank Account'>Open Bank Account</option>
+                                            <option value='United Kingdom'>United Kingdom</option>
+                                            <option value='Accounting & Audit'>Accounting & Audit</option>
+                                            <option value='Malta'>Malta</option>
+                                            <option value='Merchant Account Online'>Merchant Account Online</option>
+                                            <option value='Switzerland'>Switzerland</option>
+                                            <option value='Tax Filling'>Tax Filling</option>
+                                            <option value='Offshore'>Offshore</option>
+                                            <option value='Netherlands'>Netherlands</option>
+                                            <option value='Shelf Company'>Shelf Company</option>
+                                            <option value='United Arab Emirates (UAE)'>United Arab Emirates (UAE)
+                                            </option>
+                                            <option value='Serviced Office'>Serviced Office</option>
+                                            <option value='Cyprus'>Cyprus</option>
+                                            <option value='Intellectual Property Service'>Intellectual Property
+                                                Service
+                                            </option>
+                                            <option value='Cayman Islands'>Cayman Islands</option>
+                                            <option value='Trust & Foundation Service'>Trust & Foundation Service
+                                            </option>
+                                            <option value='Seychelles'>Seychelles</option>
+                                            <option value='Business Licensing'>Business Licensing</option>
+                                            <option value='Belize'>Belize</option>
+                                            <option value='Company Strike Off'>Company Strike Off</option>
+                                            <option value='British Virgin Islands'>British Virgin Islands</option>
+                                            <option value='Vanuatu'>Vanuatu</option>
+                                            <option value='Labuan, Malaysia'>Labuan, Malaysia</option>
+                                        </optgroup>
+                                        <option value='Account and payment'>Account and payment</option>
+                                        <option value='Extra service options'>Extra service options</option>
+                                        <option value='Technical Inquiries'>Technical Inquiries</option>
+                                        <option value='Others'>Others</option>
+                                    </select>
+                                        <div class="msg-reason msg-error text-danger"></div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12">
+                                    <div class="form-group "><label for="txtName">Full Name <span
+                                            class="text-danger">*</span></label> <input class="form-control" id="txtName"
+                                                                                        maxlength="255" name="txtName"
+                                                                                        placeholder="Full Name" type="text"
+                                                                                        value="">
+                                        <div class="msg-name msg-error text-danger"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <div class="form-group "><label for="txtEmail">Email Address <span
+                                    class="text-danger">*</span></label> <input class="form-control" id="txtEmail"
+                                                                                maxlength="255" name="txtEmail" placeholder="Email Address"
+                                                                                type="text"
+                                                                                value="">
+                                <div class="msg-email msg-error text-danger"></div>
+                            </div>
+                            <div class="form-group "><label for="txtPhone">Phone Number <span
+                                    class="text-danger">*</span></label>
+                                <div class="form-group clearfix"><input class="form-control" id="txtPhone" maxlength="255"
+                                                                        name="txtPhone" onchange="checkNumber(this);"
+                                                                        onclick="checkNumber(this);"
+                                                                        onkeyup="checkNumber(this);"
+                                                                        placeholder="Ex: xxxxxxxxx"
+                                                                        type="text" value="">
+                                    <input id="txtTelapiCountryCode" name="txtTelapiCountryCode" type="hidden"> <input
+                                            id="txtTelapiInternationalFormat" name="txtTelapiInternationalFormat"
+                                            type="hidden" value="">
+                                    <div class="msg-phone msg-error text-danger"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <div class="form-group"><label for="txtSkype">Skype ID</label> <input class="form-control"
+                                                                                                  id="txtSkype"
+                                                                                                  maxlength="255"
+                                                                                                  name="txtSkype" placeholder="Skype ID"
+                                                                                                  type="text"
+                                                                                                  value="">
+                            </div>
+                            <div class="form-group "><label for="txtSubject">Subject <span class="text-danger">*</span></label>
+                                <input class="form-control" id="txtSubject" maxlength="255" name="txtSubject" placeholder="Subject"
+                                       type="text" value="">
+                                <div class="msg-subject msg-error text-danger"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group "><label for="txtContent">Message <span class="text-danger">*</span></label>
+                                <textarea class="form-control" id="txtContent" name="txtContent"
+                                          placeholder="Type your Message here" rows="5"></textarea>
+                                <div class="msg-content msg-error text-danger"></div>
+                            </div>
+                            <div class="form-group"><label>Attach Files</label> <label class="custom-file-upload"
+                                                                                       for="txtAttackFile1"> <span
+                                    class="choose-file">Choose Files</span> </label> <input accept="image/jpeg,image/pjpeg,image/png,image/bmp,image/x-windows-bmp,image/x-icon,image/ico,image/gif,text/plain,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/pdf,"
+                                                                                            id="txtAttackFile1"
+                                                                                            name="txtAttackFile[]"
+                                                                                            type="file">
+                                <span class="text-danger" id="getname_file1"></span> <label class="custom-file-upload"
+                                                                                            for="txtAttackFile2">
+                                    <span class="choose-file">Choose Files</span> </label> <input accept="image/jpeg,image/pjpeg,image/png,image/bmp,image/x-windows-bmp,image/x-icon,image/ico,image/gif,text/plain,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/pdf,"
+                                                                                                  id="txtAttackFile2"
+                                                                                                  name="txtAttackFile[]"
+                                                                                                  type="file">
+                                <span class="text-danger" id="getname_file2"></span> <label class="custom-file-upload"
+                                                                                            for="txtAttackFile3">
+                                    <span class="choose-file">Choose Files</span> </label> <input accept="image/jpeg,image/pjpeg,image/png,image/bmp,image/x-windows-bmp,image/x-icon,image/ico,image/gif,text/plain,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/pdf,"
+                                                                                                  id="txtAttackFile3"
+                                                                                                  name="txtAttackFile[]"
+                                                                                                  type="file">
+                                <span class="text-danger" id="getname_file3"></span>
+                                <div class="text-danger"></div>
+                                <p>(*.jpg, *.jpeg, *.png, *.gif, *.bmp, *.pdf, *.txt, *.doc, *.docx, *.xls, *.xlsx,
+                                    <strong><= 20MB/file, limit 3 files</strong>)</p></div>
+                            <div class="form-group">
+                                <div class="g-recaptcha" data-sitekey="6Ld31y0UAAAAADgYgzOaYYM6oKv86ReU-ZOfv0nI"></div>
+                                <div class="msg-captcha msg-error text-danger"></div>
+                            </div>
+                            <div class="form-group text-mobile-center">
+                                <button class="btn btn-submit" name="btnContact" type="submit">Submit</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-4 col-sm-12 pull-left "><h2>Call Us 24/7</h2>
+                <h3>Customer Services Center</h3>
+                <p>Supporting customers all related matters to the order processing, after-sales service</p>
+                <h3>Phone Number</h3>
+                <ul class="list-unstyled phone-supports">
+                    <li><a href="https://api.whatsapp.com/send?phone=6593266888" title="WhatsApp"><img
+                            alt="WhatsApp"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-whatsapp-1566974680.svg" title="WhatsApp" width="22"/><span> WhatsApp:</span> +65 93266888</a></li>
+                    <li><a href="viber://contact?number=%2B6593266888" target="_self" title="Viber"> <img
+                            alt="Viber" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1566974680.svg"
+                            title="Viber" width="22"/><span> Viber:</span> +65 93266888</a></li>
+                    <li><a href="weixin://dl/chat?6593266888" target="_self" title="wechat"> <img
+                            alt="wechat" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-wechat-1566974680.svg"
+                            title="wechat" width="22"/><span> Wechat:</span> +65 93266888</a></li>
+                    <li><a href="tel:+85230519188?call"><img
+                            alt="Hong Kong"
+                            height="15" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1540541212.svg" title="Hong Kong" width="22"/><span> Hong Kong:</span> +852 3051
+                        9188</a></li>
+                    <li><a href="tel:+6565919991?call"><img
+                            alt="Singapore"
+                            height="15" src=" https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1540541212.svg" title="Singapore" width="22"/><span> Singapore:</span> +65 6591
+                        9991</a></li>
+                    <li><a href="tel:+442071931138?call"><img
+                            alt="United Kingdom"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1540541212.svg" title="United Kingdom"/><span> United Kingdom:</span> +44 207 193 1138</a>
+                    </li>
+                    <li><a href="tel:+85230519188?call"><img
+                            alt="Australia" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1540541211.svg"
+                            title="Australia"/><span> Australia:</span> +61 390 185 385 </a></li>
+                    <li><a href="tel:+19172678538?call"><img
+                            alt="United States"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States"/><span> United States:</span> +1 917 267 8538</a>
+                    </li>
+                    <li><a href="tel:+37052664444?call"><img
+                            alt="Lithuania"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania"/><span> Lithuania:</span> +370 5266 4444</a></li>
+                </ul>
+                <p><strong>Email:</strong> <a
+                        href="/cdn-cgi/l/email-protection#acdfd9dcdcc3ded8ecc3cacadfc4c3dec9cfc3c1dccdc2d5cfc3dedc82cfc3c1"><span
+                        class="__cf_email__"
+                        data-cfemail="04777174746b7670446b6262776c6b7661676b6974656a7d676b76742a676b69">[email&#160;protected]</span></a>
+                </p>
+                <h3>Complaint Our Services</h3>
+                <p>Complaint services Receiving and solving all complaints from customers who use this site for
+                    purchasing services.</p>
+                <ul class="list-unstyled phone-supports">
+                    <li><a href="tel:+85230519188?call"><img
+                            alt="Hong Kong"
+                            height="15" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1540541212.svg" title="Hong Kong" width="22"/><span> Hong Kong:</span> +852 3051
+                        9188</a></li>
+                    <li><a href="tel:+6565919991?call"><img
+                            alt="Singapore"
+                            height="15" src=" https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1540541212.svg" title="Singapore" width="22"/><span> Singapore:</span> +65 6591
+                        9991</a></li>
+                    <li><a href="tel:+37052664444?call"><img
+                            alt="Lithuania"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania"/><span> Lithuania:</span> +370 5266 4444</a></li>
+                </ul>
+                <p><strong>Email:</strong> <a
+                        href="/cdn-cgi/l/email-protection#d7b4b8baa7bbb6beb9a397b8b1b1a4bfb8a5b2b4b8baa7b6b9aeb4b8a5a7f9b4b8ba"><span
+                        class="__cf_email__"
+                        data-cfemail="2744484a574b464e495367484141544f48554244484a5746495e444855570944484a">[email&#160;protected]</span></a>
+                </p>
+                <div><h3>Hong Kong Office</h3>
+                    <p><strong>Address:</strong> Unit 1411, 14/Floor, Cosco Tower, 183 Queen's Road Central, Sheung Wan,
+                        Hong Kong.</p>
+                    <h3>Singapore Office</h3>
+                    <p><strong>Address:</strong> 1 Raffles Place, #40-02, One Raffles Place, Office Tower 1, Singapore
+                        048616</p>
+                    <h3>Lithuania Office</h3>
+                    <p><strong>Address:</strong> Lvovo str. 25, Mažoji bure, 15th floor, LT-09320, Vilnius, Lithuania.
+                    </p></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-top40">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"><h2>Offshore Company Corp</h2>
+                <p>Our support team is always happy to answer any questions or problems about our services and
+                    solutions.</p>
+                <p><strong>Please choose your location for further information about office of each specific
+                    jurisdiction.</strong></p>
+                <div class="row">
+                    <div class="col-md-3 text-right text-mobile-center">
+                        <div class="form-group"><label></label>
+                            <div class="choose-location-title">CHOOSE YOUR LOCATION</div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-group"><label>Area</label> <select id="slAreas" name="slAreas">
+                            <option value="0">Select an Area</option>
+                            <option data-lat='17.0324' data-lng='97.6826' value='1'>Asia Pacific</option>
+                            <option data-lat='54.526' data-lng='15.2551' value='2'>Europe</option>
+                            <option data-lat='37.0902' data-lng='-95.7129' value='3'>America - Caribbean</option>
+                            <option data-lat='29.2985' data-lng='42.551' value='4'>Middle East</option>
+                            <option data-lat='-8.78319' data-lng='34.5085' value='5'>Africa</option>
+                        </select></div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-group"><label>Country</label> <select id="slJurisdiction"
+                                                                               name="slJurisdiction">
+                            <option value="">Select a country</option>
+                            <option value='HK'>Hong Kong</option>
+                            <option value='SG'>Singapore</option>
+                            <option value='WS'>Samoa</option>
+                            <option value='MH'>Marshall Islands</option>
+                            <option value='VU'>Vanuatu</option>
+                            <option value='GB'>United Kingdom</option>
+                            <option value='CH'>Switzerland</option>
+                            <option value='CY'>Cyprus</option>
+                            <option value='GI'>Gibraltar</option>
+                            <option value='MT'>Malta</option>
+                            <option value='MY'>Labuan, Malaysia</option>
+                            <option value='LU'>Luxembourg</option>
+                            <option value='LI'>Liechtenstein</option>
+                            <option value='VN'>Vietnam</option>
+                            <option value='NL'>Netherlands</option>
+                            <option value='VG'>British Virgin Islands</option>
+                            <option value='KY'>Cayman Islands</option>
+                            <option value='US'>Delaware (United States of America)</option>
+                            <option value='BZ'>Belize</option>
+                            <option value='AI'>Anguilla</option>
+                            <option value='BS'>The Bahamas</option>
+                            <option value='KN'>Saint Kitts and Nevis</option>
+                            <option value='PA'>Panama</option>
+                            <option value='VC'>Saint Vincent and the Grenadines</option>
+                            <option value='AE'>United Arab Emirates (UAE)</option>
+                            <option value='SC'>Seychelles</option>
+                            <option value='MU'>Mauritius</option>
+                        </select></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="map-wrapper">
+        <div id="map"></div>
+        <div id="office"></div>
+    </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script> var __INITIAL_COUNTRY = "in";
+var __UTILSCRIPT = "https://dusyzh85wmzqh.cloudfront.net/frontend/js/utils.min.js";
+var __SETNUMBER = ""; </script>
+<script> commands.push(function () {
+    $(document).ready(function () {
+        var cont_Tel = $("#txtPhone");
+        cont_Tel.intlTelInput({initialCountry: __INITIAL_COUNTRY, utilsScript: __UTILSCRIPT});
+        cont_Tel.intlTelInput("setNumber", __SETNUMBER);
+        $('form[name=contactus-form]').submit(function (event) {
+            var responeRecaptcha = grecaptcha.getResponse();
+            var valid = true;
+            if ($('select[name=slReason]').val() == '0') {
+                valid = false;
+                $('.msg-reason').text('Please Select a topics.');
+                $('select[name=slReason]').parent().addClass("has-error");
+            } else {
+                $('.msg-reason').text('');
+                $('select[name=slReason]').parent().removeClass("has-error");
+            }
+            if ($('input[name=txtName]').val() == '') {
+                valid = false;
+                $('.msg-name').text('Please Enter Your Full Name.');
+                $('input[name=txtName]').parent().addClass("has-error");
+            } else {
+                $('.msg-name').text('');
+                $('input[name=txtName]').parent().removeClass("has-error");
+            }
+            if ($('input[name=txtEmail]').val() == '') {
+                valid = false;
+                $('.msg-email').text('Please Enter a email.');
+                $('input[name=txtEmail]').parent().addClass("has-error");
+            } else if (!emailValid($('input[name=txtEmail]').val())) {
+                valid = false;
+                $('.msg-email').text('Email is invalid.');
+                $('input[name=txtEmail]').parent().addClass("has-error");
+            } else {
+                $('.msg-email').text('');
+                $('input[name=txtEmail]').parent().removeClass("has-error");
+            }
+            if (cont_Tel.prop("value") < 1) {
+                $(".msg-phone").text('Please Enter a phone number.');
+                cont_Tel.addClass("border-red");
+                valid = false;
+            } else {
+                $(".msg-phone").text('');
+                $('input[name=txtPhone]').parent().removeClass("has-error");
+            }
+            if (!cont_Tel.intlTelInput("isValidNumber")) {
+                $(".msg-phone").text('Your phone number is invalid.');
+                $('input[name=txtPhone]').parent().addClass("has-error");
+                valid = false;
+            } else {
+                var countryData = cont_Tel.intlTelInput("getSelectedCountryData");
+                var phoneNum = cont_Tel.intlTelInput("getNumber");
+                $('#txtTelapiInternationalFormat').val(phoneNum);
+                $('#txtTelapiCountryCode').val(countryData.iso2);
+                $('input[name=txtPhone]').parent().removeClass("has-error");
+            }
+            if ($('input[name=txtSubject]').val() == '') {
+                valid = false;
+                $('.msg-subject').text('Please Enter subject.');
+                $('input[name=txtSubject]').parent().addClass("has-error");
+            } else {
+                $('.msg-subject').text('');
+                $('input[name=txtSubject]').parent().removeClass("has-error");
+            }
+            if ($('textarea#txtContent').val().trim() == '') {
+                valid = false;
+                $('.msg-content').text('Please Enter a message.');
+                $('textarea[name=txtContent]').parent().addClass("has-error");
+            } else {
+                $('.msg-content').text('');
+                $('textarea[name=txtContent]').parent().removeClass("has-error");
+            }
+            if (responeRecaptcha.length == 0) {
+                $(".msg-captcha").text('Please click on the reCAPTCHA box.');
+                valid = false;
+            } else {
+                $(".msg-captcha").text('');
+            }
+            if (!valid) {
+                event.preventDefault();
+            }
+            if (valid) {
+                $('#l-loading').show();
+                $('button[name=btnContact]').prop('disabled', true);
+            }
+        });
+        $('input[type=file]').change(function () {
+            var arrayFileUpload = [];
+            arrayFileUpload[0] = $("#txtAttackFile1");
+            arrayFileUpload[1] = $("#txtAttackFile2");
+            arrayFileUpload[2] = $("#txtAttackFile3");
+            for (var i = 0; i < 3; i++) {
+                var countFile = arrayFileUpload[i].get(0).files.length;
+                if (countFile == 1) {
+                    var fileName = arrayFileUpload[i].get(0).files[0].name;
+                    var oneFileSize = arrayFileUpload[i].get(0).files[0].size;
+                    var ext = fileName.split('.').pop().toLowerCase();
+                    if ($.inArray(ext, ['jpg', 'jpeg', 'png', 'gif', 'bmp', 'pdf', 'txt', 'doc', 'docx', 'xls', 'xlsx']) === -1) {
+                        $(this).val('');
+                        alert('Please select correct file format.');
+                    }
+                    if (oneFileSize >= 20971520) {
+                        $(this).val('');
+                        alert('Please select file size 20MB limit.');
+                    }
+                    var files = arrayFileUpload[i].prop("files");
+                    var names = $.map(files, function (val, index) {
+                        return val.name + '<br>';
+                    });
+                    $('#getname_file' + (i + 1)).html(names);
+                }
+            }
+        });
+        var map;
+        $("#slAreas").change(function () {
+            var area_id = $("#slAreas option:selected").val();
+            if (area_id > 0) {
+                $.ajax({
+                    type: "POST",
+                    cache: false,
+                    url: "/contact-us/send-jurisdiction",
+                    data: {'area_id': area_id},
+                    success: function (data) {
+                        var getData = JSON.parse(data);
+                        $("#slJurisdiction").html('<option value="">Select a country</option>');
+                        $("#slJurisdiction").append(getData.string_json);
+                    }
+                });
+            }
+        });
+        $("#slJurisdiction").change(function () {
+            var country_code = $("#slJurisdiction option:selected").val();
+            if (country_code != "") {
+                $.ajax({
+                    type: "POST",
+                    cache: false,
+                    url: "/contact-us/send-code",
+                    data: {'country_code': country_code},
+                    success: function (data) {
+                        var getData = JSON.parse(data);
+                        var coordinatesMap = getData.coordinatesMap;
+                        var coordinatesOffices = getData.coordinatesOffices;
+                        if (typeof (coordinatesMap['lat']) !== 'undefined' && typeof (coordinatesMap['lng']) !== 'undefined') {
+                            mapLocation(parseFloat(coordinatesMap['lat']), parseFloat(coordinatesMap['lng']), coordinatesOffices);
+                        }
+                    }
+                });
+            }
+        });
+        var datalat = 17.0324;
+        var datalng = 97.6826;
+        var strOffice = '<div class=\"popup-map-content\" hidden id=\"office_1\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/hk.png\" alt=\"\" title=\"\">One IBC Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> Unit 1411, 14/Floor, Cosco Tower, 183 Queen\'s Road Central, Sheung Wan, Hong Kong.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_5\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/ae.png\" alt=\"\" title=\"\">One IBC FZE</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> T1-4F-11 RAKEZ Amenity Center, Al Hamra Industrial Zone-FZ, RAK, UAE.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_6\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/gb.png\" alt=\"\" title=\"\">One IBC Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_12\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/us.png\" alt=\"\" title=\"\">One IBC America, Inc.</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 16192 Coastal Highway, Lewes, DE 19958.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_15\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/mu.png\" alt=\"\" title=\"\">One IBC (Mauritius) Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 3rd Floor Standard Chartered Tower, Cybercity, 72201 Ebene, Republic of Mauritius.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_16\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/sc.png\" alt=\"\" title=\"\">One IBC (Seychelles) Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> Global Gateway 8, Rue de la Perle, Providence Mahe, Seychelles.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_17\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/bz.png\" alt=\"\" title=\"\">One International Business Consultancy (Belize) Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 123 Barrack Road, PO Box 322, Belize City, Belize.</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_18\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/vn.png\" alt=\"\" title=\"\">One IBC (Vietnam) Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> Asia Trade Centre Building, 507B Huynh Tan Phat Boulevard, Tan Thuan Dong Ward, District 7, Ho Chi Minh City, Vietnam.</li><li><ul> <li>Hotline: 18006758</li> <li>Mobile/Zalo/Viber/Whatsapp: +84 848777768</li> <li>Website: www.oneibc.com</li> <li>Email: vietnam@oneibc.com</li> <li>Fanpage: fb.com/oneibcvn</li></ul></li></ul></div><div class=\"popup-map-content\" hidden id=\"office_19\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/ws.png\" alt=\"\" title=\"\">One IBC (Samoa) Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> P.O. Box 6347, Pillar 9 House, Saleufi St, Apia, Samoa</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_20\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/lt.png\" alt=\"\" title=\"\">UAB &#34;One IBC&#34;</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> Lvovo str. 25, Mažoji bure, 15th floor, LT-09320, Vilnius, Lithuania.</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_2\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/hk.png\" alt=\"\" title=\"\">One IBC CPA Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> Unit 1411, 14/Floor, Cosco Tower, 183 Queen\'s Road Central, Sheung Wan, Hong Kong.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_7\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/gb.png\" alt=\"\" title=\"\">One IBC Europe LLP</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_13\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/vg.png\" alt=\"\" title=\"\">One International Business Consultancy (BVI) Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> P.O. Box 4342, Road Town Tortola, British Virgin Island.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_3\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/hk.png\" alt=\"\" title=\"\">One IBC Secretarial Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> Unit 1411, 14/Floor, Cosco Tower, 183 Queen\'s Road Central, Sheung Wan, Hong Kong.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_8\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/gb.png\" alt=\"\" title=\"\">One IBC Secretarial Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 27 Old Gloucester Street, London, United Kingdom, WC1N 3AX.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_14\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/ky.png\" alt=\"\" title=\"\">One IBC Holdings Limited</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 10 Market Street, Suite 140, Camana Bay, Grand Cayman, KY1-9006, Cayman Islands.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_4\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/sg.png\" alt=\"\" title=\"\">One IBC Pte. Ltd</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 1 Raffles Place, #40-02, One Raffles Place, Office Tower 1, Singapore 048616</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_9\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/ch.png\" alt=\"\" title=\"\">One IBC AG</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> Hinterbergstrasse 49, 6312-Steinhausen, Switzerland.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_10\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/cy.png\" alt=\"\" title=\"\">One IBC EUROPE LTD</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 15 Agiou Pavlou Str., Ledra House, Ayios Andreas, 1105, Nicosia, Cyprus.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div><div class=\"popup-map-content\" hidden id=\"office_11\" ><div class=\"close-popup-map-content\"><img src=\"https://www.offshorecompanycorp.com/frontend/images/close-popup.png\" alt=\"\" title=\"\"></div><h3><img src=\"https://d3nqrmb1lqq5py.cloudfront.net/images/flag/mt.png\" alt=\"\" title=\"\">One IBC (MALTA) LIMITED</h3><ul><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-addpress-white.png\" alt=\"\" title=\"\"> <strong class=\"title\">Address:</strong> 121, G. Agius Muscat Street, Zabbar. ZBR 3400, Malta.</li><li><img src=\"https://www.offshorecompanycorp.com/frontend/images/icon-time.png\" alt=\"\" title=\"\"> <strong class=\"title\">Working hours:</strong> 9AM - 6PM GMT+8 (Mon – Fri)</li></ul></div>';
+        var coordinates_office = [{"id": "1", "lat": "22.2855", "lng": "114.153"}, {
+            "id": "2",
+            "lat": "22.2855",
+            "lng": "114.153"
+        }, {"id": "3", "lat": "22.2855", "lng": "114.153"}, {"id": "4", "lat": "1.28511", "lng": "103.851"}, {
+            "id": "5",
+            "lat": "25.6748",
+            "lng": "55.7785"
+        }, {"id": "6", "lat": "51.5207", "lng": "-0.121983"}, {
+            "id": "7",
+            "lat": "51.5207",
+            "lng": "-0.121983"
+        }, {"id": "8", "lat": "51.5207", "lng": "-0.121983"}, {
+            "id": "9",
+            "lat": "47.1935",
+            "lng": "8.4757"
+        }, {"id": "10", "lat": "35.1753", "lng": "33.3469"}, {
+            "id": "11",
+            "lat": "35.8748",
+            "lng": "14.5348"
+        }, {"id": "12", "lat": "40.7651", "lng": "-73.9825"}, {
+            "id": "13",
+            "lat": "18.4286",
+            "lng": "-64.6185"
+        }, {"id": "14", "lat": "19.322", "lng": "-81.3781"}, {
+            "id": "15",
+            "lat": "-20.2432",
+            "lng": "57.4965"
+        }, {"id": "16", "lat": "-4.65371", "lng": "55.4873"}, {
+            "id": "17",
+            "lat": "17.5011",
+            "lng": "-88.1865"
+        }, {"id": "18", "lat": "10.7445", "lng": "106.729"}, {
+            "id": "19",
+            "lat": "-13.8347",
+            "lng": "-171.771"
+        }, {"id": "20", "lat": "54.6969", "lng": "25.2793"}];
+        $("#office").html(strOffice);
+        mapLocation(parseFloat(datalat), parseFloat(datalng), coordinates_office);
+        $('.close-popup-map-content').on('click', function () {
+            $(this).parents('.popup-map-content').fadeOut();
+        });
+    });
+});
+
+function mapLocation(lat, lng, offices) {
+    map = new google.maps.Map(document.getElementById('map'), {center: {lat: lat, lng: lng}, zoom: 2});
+    $('.popup-map-content').hide();
+    for (var i = 0; i < offices.length; i++) {
+        setMarker(offices[i]);
+    }
+};
+
+function setMarker(office) {
+    var lat = parseFloat(office['lat']);
+    var lng = parseFloat(office['lng']);
+    latlng = new google.maps.LatLng(lat, lng);
+    marker = new google.maps.Marker({position: latlng, map: map,});
+    google.maps.event.addListener(marker, 'click', function () {
+        $('.popup-map-content').hide();
+        $('#office_' + office['id']).show();
+    });
+}; </script>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsmdPoD50YCRZvgS4MhZH6KvYs1qalV7o&libraries=places&callback="></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/intlTelInput.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/login-contactus.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '182.68.2.233',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'contactus',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

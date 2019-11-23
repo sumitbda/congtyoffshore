@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Glossary | Define Glossary at Offshore Company Corp</title>
+    <meta content="Glossary, Define Glossary at Offshore Company Corp. Glossary definition, a list of terms in a special subject, field, or area of usage, with accompanying definitions"
+          name="description">
+    <meta content="Glossary, Define Glossary at Offshore Company Corp" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/glossary" target="_self"
+                                                                                 title="Glossary"> Glossary </a></div>
+</div>
+<div class="paddingtop-mobile">
+    <div class="container"><h1> Glossary </h1>
+        <div class="padding-20">
+            <ul class="alphabet list-inline">
+                <li><a href="/glossary?character=A" target="_self" title="A"> A </a></li>
+                <li><a href="/glossary?character=B" target="_self" title="B"> B </a></li>
+                <li><a href="/glossary?character=C" target="_self" title="C"> C </a></li>
+                <li><a href="/glossary?character=D" target="_self" title="D"> D </a></li>
+                <li><a href="/glossary?character=E" target="_self" title="E"> E </a></li>
+                <li><a href="/glossary?character=F" target="_self" title="F"> F </a></li>
+                <li><a href="/glossary?character=G" target="_self" title="G"> G </a></li>
+                <li><a href="/glossary?character=H" target="_self" title="H"> H </a></li>
+                <li><a href="/glossary?character=I" target="_self" title="I"> I </a></li>
+                <li><a href="/glossary?character=J" target="_self" title="J"> J </a></li>
+                <li><a href="/glossary?character=L" target="_self" title="L"> L </a></li>
+                <li><a href="/glossary?character=M" target="_self" title="M"> M </a></li>
+                <li><a href="/glossary?character=N" target="_self" title="N"> N </a></li>
+                <li><a href="/glossary?character=O" target="_self" title="O"> O </a></li>
+                <li><a href="/glossary?character=P" target="_self" title="P"> P </a></li>
+                <li><a href="/glossary?character=Q" target="_self" title="Q"> Q </a></li>
+                <li><a href="/glossary?character=R" target="_self" title="R"> R </a></li>
+                <li><a href="/glossary?character=S" target="_self" title="S"> S </a></li>
+                <li><a href="/glossary?character=T" target="_self" title="T"> T </a></li>
+                <li><a href="/glossary?character=U" target="_self" title="U"> U </a></li>
+                <li><a href="/glossary?character=V" target="_self" title="V"> V </a></li>
+                <li><a href="/glossary?character=W" target="_self" title="W"> W </a></li>
+                <li><a href="/glossary?character=Z" target="_self" title="Z"> Z </a></li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>A</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/airball" target="_self" title="Airball"> Airball </a></li>
+                        <li><a href="/glossary/anguilla" target="_self" title="Anguilla"> Anguilla </a></li>
+                        <li><a href="/glossary/anti-dilution" target="_self" title="Anti-dilution"> Anti-dilution </a>
+                        </li>
+                        <li><a href="/glossary/apostille" target="_self" title="Apostille"> Apostille </a></li>
+                        <li><a href="/glossary/articles-of-association" target="_self" title="Articles of Association">
+                            Articles of Association </a></li>
+                        <li><a href="/glossary/articles-of-association" target="_self" title="Articles of Association">
+                            Articles of Association </a></li>
+                        <li><a href="/glossary/assets" target="_self" title="Assets"> Assets </a></li>
+                        <li><a href="/glossary/audit" target="_self" title="Audit"> Audit </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>B</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/bank-secrecy" target="_self" title="Bank secrecy"> Bank secrecy </a></li>
+                        <li><a href="/glossary/basis-point-bp" target="_self" title="Basis point (“bp”)"> Basis point
+                            (“bp”) </a></li>
+                        <li><a href="/glossary/bearer-share" target="_self" title="Bearer share"> Bearer share </a></li>
+                        <li><a href="/glossary/belize" target="_self" title="Belize"> Belize </a></li>
+                        <li><a href="/glossary/board-of-directors" target="_self" title="Board of directors"> Board of
+                            directors </a></li>
+                        <li><a href="/glossary/british-virgin-islands" target="_self" title="British Virgin Islands">
+                            British Virgin Islands </a></li>
+                        <li><a href="/glossary/business-plan" target="_self" title="Business Plan"> Business Plan </a>
+                        </li>
+                        <li><a href="/glossary/bvi" target="_self" title="BVI"> BVI </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>C</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/c-corporation" target="_self" title="C Corporation"> C Corporation </a>
+                        </li>
+                        <li><a href="/glossary/capital" target="_self" title="Capital"> Capital </a></li>
+                        <li><a href="/glossary/capital-gains" target="_self" title="Capital Gains"> Capital Gains </a>
+                        </li>
+                        <li><a href="/glossary/cayman-islands" target="_self" title="Cayman Islands"> Cayman
+                            Islands </a></li>
+                        <li><a href="/glossary/central-bank" target="_self" title="Central Bank"> Central Bank </a></li>
+                        <li><a href="/glossary/certificate-of-good-standing" target="_self"
+                               title="Certificate of Good Standing"> Certificate of Good Standing </a></li>
+                        <li><a href="/glossary/certificate-of-incumbency" target="_self"
+                               title="Certificate of Incumbency"> Certificate of Incumbency </a></li>
+                        <li><a href="/glossary/civil-law" target="_self" title="Civil Law"> Civil Law </a></li>
+                        <li><a href="/glossary/collateral" target="_self" title="Collateral"> Collateral </a></li>
+                        <li><a href="/glossary/common-law" target="_self" title="Common Law"> Common Law </a></li>
+                        <li><a href="/glossary/common-stock" target="_self" title="Common Stock"> Common Stock </a></li>
+                        <li><a href="/glossary/company-domiciliation" target="_self" title="Company Domiciliation">
+                            Company Domiciliation </a></li>
+                        <li><a href="/glossary/corporate-body" target="_self" title="Corporate Body"> Corporate
+                            Body </a></li>
+                        <li><a href="/glossary/covenant" target="_self" title="Covenant"> Covenant </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>D</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/designated-director" target="_self" title="Designated Director">
+                            Designated Director </a></li>
+                        <li><a href="/glossary/designated-shareholders" target="_self" title="Designated Shareholders">
+                            Designated Shareholders </a></li>
+                        <li><a href="/glossary/dilution" target="_self" title="Dilution"> Dilution </a></li>
+                        <li><a href="/glossary/due-diligence" target="_self" title="Due Diligence"> Due Diligence </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="line-c4 hidden-sm hidden-xs"></div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>E</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/economic-beneficiary" target="_self" title="Economic Beneficiary">
+                            Economic Beneficiary </a></li>
+                        <li><a href="/glossary/entrepreneur" target="_self" title="Entrepreneur"> Entrepreneur </a></li>
+                        <li><a href="/glossary/equity" target="_self" title="Equity"> Equity </a></li>
+                        <li><a href="/glossary/estate" target="_self" title="Estate"> Estate </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>F</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/financial-year" target="_self" title="Financial Year"> Financial
+                            Year </a></li>
+                        <li><a href="/glossary/founder" target="_self" title="Founder"> Founder </a></li>
+                        <li><a href="/glossary/free-zone" target="_self" title="Free Zone"> Free Zone </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>G</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/general-meeting" target="_self" title="General Meeting"> General
+                            Meeting </a></li>
+                        <li><a href="/glossary/general-power-of-attorney" target="_self"
+                               title="General Power of Attorney"> General Power of Attorney </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>H</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/hedge-fund" target="_self" title="Hedge Fund"> Hedge Fund </a></li>
+                        <li><a href="/glossary/hong-kong" target="_self" title="Hong Kong"> Hong Kong </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="line-c4 hidden-sm hidden-xs"></div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>I</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/ibc" target="_self" title="IBC"> IBC </a></li>
+                        <li><a href="/glossary/importexport-company" target="_self" title="Import/Export Company">
+                            Import/Export Company </a></li>
+                        <li><a href="/glossary/income-tax" target="_self" title="Income Tax"> Income Tax </a></li>
+                        <li><a href="/glossary/inheritance-tax" target="_self" title="Inheritance Tax"> Inheritance
+                            Tax </a></li>
+                        <li><a href="/glossary/internet-merchant-account" target="_self"
+                               title="Internet Merchant Account"> Internet Merchant Account </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>J</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/judgment" target="_self" title="Judgment"> Judgment </a></li>
+                        <li><a href="/glossary/jurisdictions" target="_self" title="Jurisdictions"> Jurisdictions </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>L</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/legal-owner" target="_self" title="Legal Owner"> Legal Owner </a></li>
+                        <li><a href="/glossary/limited-liability-company-llc" target="_self"
+                               title="Limited liability Company (LLC)"> Limited liability Company (LLC) </a></li>
+                        <li><a href="/glossary/limited-partnership" target="_self" title="Limited Partnership"> Limited
+                            Partnership </a></li>
+                        <li><a href="/glossary/liquidation" target="_self" title="Liquidation"> Liquidation </a></li>
+                        <li><a href="/glossary/llc" target="_self" title="LLC"> LLC </a></li>
+                        <li><a href="/glossary/ltd" target="_self" title="Ltd"> Ltd </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>M</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/memorandum-of-association" target="_self"
+                               title="Memorandum of Association"> Memorandum of Association </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="line-c4 hidden-sm hidden-xs"></div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>N</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/nevis" target="_self" title="Nevis"> Nevis </a></li>
+                        <li><a href="/glossary/non-disclosure-agreement-nda" target="_self"
+                               title="Non-Disclosure Agreement (NDA)"> Non-Disclosure Agreement (NDA) </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>O</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/offshore-bank" target="_self" title="Offshore Bank"> Offshore Bank </a>
+                        </li>
+                        <li><a href="/glossary/offshore-business" target="_self" title="Offshore Business"> Offshore
+                            Business </a></li>
+                        <li><a href="/glossary/offshore-company" target="_self" title="Offshore Company"> Offshore
+                            Company </a></li>
+                        <li><a href="/glossary/offshore-formation" target="_self" title="Offshore Formation"> Offshore
+                            Formation </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>P</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/panama" target="_self" title="Panama"> Panama </a></li>
+                        <li><a href="/glossary/pari-passu" target="_self" title="Pari Passu"> Pari Passu </a></li>
+                        <li><a href="/glossary/physical-person" target="_self" title="Physical Person"> Physical
+                            Person </a></li>
+                        <li><a href="/glossary/power-of-attorney" target="_self" title="Power of Attorney"> Power of
+                            Attorney </a></li>
+                        <li><a href="/glossary/primary-shares" target="_self" title="Primary Shares"> Primary
+                            Shares </a></li>
+                        <li><a href="/glossary/public-limited-company" target="_self" title="Public Limited Company">
+                            Public Limited Company </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>Q</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/quorum" target="_self" title="Quorum"> Quorum </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="line-c4 hidden-sm hidden-xs"></div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>R</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/registered-office" target="_self" title="Registered Office"> Registered
+                            Office </a></li>
+                        <li><a href="/glossary/registered-share" target="_self" title="Registered Share"> Registered
+                            Share </a></li>
+                        <li><a href="/glossary/registration" target="_self" title="Registration"> Registration </a></li>
+                        <li><a href="/glossary/regulatory-documents" target="_self" title="Regulatory Documents">
+                            Regulatory Documents </a></li>
+                        <li><a href="/glossary/representative" target="_self" title="Representative">
+                            Representative </a></li>
+                        <li><a href="/glossary/resident-agent" target="_self" title="Resident Agent"> Resident
+                            Agent </a></li>
+                        <li><a href="/glossary/rupee" target="_self" title="Rupee"> Rupee </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>S</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/secretary" target="_self" title="Secretary"> Secretary </a></li>
+                        <li><a href="/glossary/service-provider" target="_self" title="Service Provider"> Service
+                            Provider </a></li>
+                        <li><a href="/glossary/seychelles" target="_self" title="Seychelles"> Seychelles </a></li>
+                        <li><a href="/glossary/share-capital" target="_self" title="Share Capital"> Share Capital </a>
+                        </li>
+                        <li><a href="/glossary/share-certificate" target="_self" title="Share Certificate"> Share
+                            Certificate </a></li>
+                        <li><a href="/glossary/shareholder" target="_self" title="Shareholder"> Shareholder </a></li>
+                        <li><a href="/glossary/shelf-company" target="_self" title="Shelf Company"> Shelf Company </a>
+                        </li>
+                        <li><a href="/glossary/statutes" target="_self" title="Statutes"> Statutes </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>T</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/tax-haven" target="_self" title="Tax Haven"> Tax Haven </a></li>
+                        <li><a href="/glossary/tax-law" target="_self" title="Tax Law"> Tax Law </a></li>
+                        <li><a href="/glossary/tax-system" target="_self" title="Tax System"> Tax System </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>U</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/ultra-vires" target="_self" title="Ultra Vires"> Ultra Vires </a></li>
+                        <li><a href="/glossary/unit-trust" target="_self" title="Unit Trust"> Unit Trust </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="line-c4 hidden-sm hidden-xs"></div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>V</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/venture-capital" target="_self" title="Venture Capital"> Venture
+                            Capital </a></li>
+                        <li><a href="/glossary/virtual-office" target="_self" title="Virtual Office"> Virtual
+                            Office </a></li>
+                        <li><a href="/glossary/voting-rights" target="_self" title="Voting Rights"> Voting Rights </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>W</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/wealth-tax" target="_self" title="Wealth Tax"> Wealth Tax </a></li>
+                        <li><a href="/glossary/write-off" target="_self" title="Write-Off"> Write-Off </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="alphabet-component"><h2>Z</h2>
+                    <ul class="list-unstyled">
+                        <li><a href="/glossary/Zombie" target="_self" title="Zombie"> Zombie </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="about-us">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6"><h2>About Us</h2>
+                    <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                        international market. We provide the best and most competitive value to you as valued customers
+                        to transform your goals into a solution with a clear action plan. Our Solution, Your
+                        Success. </p></div>
+                <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                         title="Read more"> Read more </a></div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="footer-link">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-xs-6">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <ul>
+                                    <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                    <li><a href="/info/universal-terms-of-service" target="_self"
+                                           title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                    <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                        Agreements </a></li>
+                                    <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                        Policy </a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <ul>
+                                    <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                        Payment Guidelines </a></li>
+                                    <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                           title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                    <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One
+                                        IBC Safeguard </a></li>
+                                    <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                        Disclaimer </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-6">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <ul>
+                                    <li><a href="/download" target="_self" title="Download Documents"> Download
+                                        Documents </a></li>
+                                    <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                        Companies </a></li>
+                                    <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries
+                                        / Jurisdictions </a></li>
+                                    <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <ul>
+                                    <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a>
+                                    </li>
+                                    <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                        Structure </a></li>
+                                    <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><h3><img
+                            alt="Call Us"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png" title="Call Us"> Call Us:</h3></div>
+                    <div class="col-md-4">
+                        <ul>
+                            <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong">
+                                <img alt="Hong Kong"
+                                     height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                                +852 3051 9188</a></li>
+                            <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                    alt="Australia"
+                                    height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                                +61 390 185 385</a></li>
+                            <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                      title="United Kingdom"><img
+                                    alt="United Kingdom"
+                                    height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                    class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 ">
+                        <ul>
+                            <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                    alt="Singapore"
+                                    height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                                +65 6591 9991</a></li>
+                            <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                    alt="United States"
+                                    height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span
+                                    class="location">United States:</span> +1 917 267 8538</a></li>
+                            <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                      title="British Virgin Islands"><img
+                                    alt="British Virgin Islands"
+                                    height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands"
+                                    width="22"><span class="location">British Virgin Islands:</span> +1 917 267 8538
+                            </a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 ">
+                        <ul>
+                            <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                    alt="Lithuania"
+                                    height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                                +370 5266 4444 </a></li>
+                            <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                    align="absmiddle"
+                                    alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65
+                                932 66888</a></li>
+                            <li><a href="viber://chat?number=+6593266888"><img
+                                    align="absmiddle"
+                                    alt="Viber" height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span
+                                    class="location"> </span> +65 932 66888</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-support-more">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                                  title="View more support phone"> View more support phone <img
+                                alt="View more support phone"
+                                src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container">
+                <ul class="footer-method">
+                    <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                             title="Visa"></li>
+                    <li><img alt="Master Card"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg" title="Master Card"></li>
+                    <li><img alt="American Express"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                    <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                             title="Paypal"></li>
+                    <li>
+                        <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                           onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                           target="popup">
+                            <img alt="Symantec"
+                                 src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                    <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style="
+                           onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                           target="popup">
+                        <img alt="Trustwave"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg" title="Trustwave"> </a></li>
+                </ul>
+                <div class="row">
+                    <div class="col-md-12"><img
+                            alt="Offshore Company Corp - Brand name of One IBC Limited"
+                            height="18"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18">
+                        Copyright ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company
+                        Service Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte.
+                        Ltd ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited
+                        liability. Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each
+                        member firm of One IBC network is legally separate and independent entities affiliated with One
+                        IBC AG (“One IBC”), a Swiss entity. Please see <a
+                                href="https://www.offshorecompanycorp.com/structure">One IBC structure</a> for further
+                        details.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div id="l-loading"
+         style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+        <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+            <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+                 style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+        </div>
+    </div>
+    <script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+    <script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+    <script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+    <script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+    <script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+    <script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+    <script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+    <script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+    <script> for (var __i = 0; __i < commands.length; __i++) {
+        commands[__i]();
+    }
+    if (typeof (dataLayer) === 'object') {
+        dataLayer.push({
+            'dynx_userIp': '171.79.57.48',
+            'dynx_userID': '',
+            'dynx_userEmail': '',
+            'dynx_userCountry': 'IN',
+            'dynx_location': 'IN',
+            'dynx_pagetype': 'glossary',
+            'dynx_incorpCountry': '',
+            'dynx_platform': 'desktop',
+            'dynx_languageCode': 'en',
+            'dynx_currency': 'USD'
+        });
+    } </script>
+    <script type="text/javascript"> function formatState(state) {
+        if (!state.id) {
+            return state.text;
+        }
+        var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+        return $state;
+    }
+
+    $("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Universal Terms Of Service</title>
+    <meta content="Universal Terms Of Service" name="description">
+    <meta content="Universal Terms Of Service" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<script> commands.push(function () {
+    $(document).ready(function () {
+        $("#print-pdf").click(function () {
+            var node = document.getElementById('content_ar_single');
+            var htmlContent = node.innerHTML;
+            $("#content-print-pdf").text(htmlContent);
+            $("#fr-print-pdf").prop("action", "/print-content-pdf");
+            $("#fr-print-pdf").prop("method", "post");
+            $("#fr-print-pdf").attr('target', '_blank');
+            $("#fr-print-pdf").submit();
+        });
+    })
+}); </script>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/info/universal-terms-of-service"
+                                                                                 target="_self"
+                                                                                 title="Universal Terms Of Service">
+        Universal Terms Of Service </a></div>
+</div>
+<div class="paddingtop-mobile">
+    <div class="container" id="content_ar_single"><h1>Universal Terms Of Service</h1>
+        <div class="row margin-bt15">
+            <div class="col-md-12">
+                <div class="pull-right"><a class="download-file" id="print-pdf" style="cursor: pointer" target="_self"
+                                           title="Download"> <img
+                        align="absmiddle"
+                        alt="Download" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-file-download.svg" title="Download"> Download </a></div>
+                <div class="date-detail margin0"> Updated time: 23 Nov, 2018, 11:19 (UTC+08:00)</div>
+            </div>
+        </div>
+        <div class="content-format">
+            <div class="menu-scroll">
+                <ul class="list-unstyled menu-tab-mobile" id="scroll-click">
+                    <li class="scroll_active" data-eleid="description1"><a href="#description1">1. OVERVIEW</a></li>
+                    <li data-eleid="description2"><a href="#description2">2. ELIGIBILITY; AUTHORITY</a></li>
+                    <li data-eleid="description3"><a href="#description3">3. ACCOUNTS; TRANSFER OF DATA ABROAD</a></li>
+                    <li data-eleid="description4"><a href="#description3">4. AVAILABILITY OF WEBSITE/SERVICES</a></li>
+                    <li data-eleid="description5"><a href="#description5">5. GENERAL RULES OF CONDUCT</a></li>
+                    <li data-eleid="description6"><a href="#description6">6. ADDITIONAL RESERVATION OF RIGHTS</a></li>
+                    <li data-eleid="description7"><a href="#description7">7. LINKS TO THIRD-PARTY WEBSITES</a></li>
+                    <li data-eleid="description8"><a href="#description8">8. LIMITATION OF LIABILITY</a></li>
+                    <li data-eleid="description9"><a href="#description9">9. FEES AND PAYMENTS</a></li>
+                    <li data-eleid="description10"><a href="#description10">10. INDEMNITY</a></li>
+                    <li data-eleid="description11"><a href="#description11">11. SUCCESSORS AND ASSIGNEES</a></li>
+                    <li data-eleid="description12"><a href="#description12">12. NO THIRD-PARTY BENEFICIARIES</a></li>
+                    <li data-eleid="description13"><a href="#description13">13. COMPLIANCE WITH LOCAL LAWS</a></li>
+                    <li data-eleid="description14"><a href="#description14">14. TITLES AND HEADINGS; INDEPENDENT
+                        COVENANTS; SEVERABILITY</a></li>
+                    <li data-eleid="description15"><a href="#description15">15. FORWARDING OF MAIL; ONE IBC'S BUSINESS
+                        ADDRESS</a></li>
+                    <li data-eleid="description16"><a href="#description16">16. RESELLER PROVISIONS</a></li>
+                    <li data-eleid="description17"><a href="#description17">17. REGISTERED AGENT SERVICES;
+                        DISCONTINUING/CANCELING REGISTERED AGENT SERVICES</a></li>
+                    <li data-eleid="description18"><a href="#description18">18. CHANGE AGENT POLICY</a></li>
+                    <li data-eleid="description19"><a href="#description19">19. TERMINATION OF REGISTERED AGENT</a></li>
+                    <li data-eleid="description20"><a href="#description20">20. TAXES, REPORTING AND LEGAL
+                        RESPONSIBILITIES</a></li>
+                    <li data-eleid="description21"><a href="#description21">21. CONTACT US</a></li>
+                </ul>
+            </div>
+            <div class="padding-20">
+                <div class="scroll-box">
+                    <div class="js-dynamic-menu id_active" data-eleid="description1" id="description1">
+                        <div class="anchollink"></div>
+                        <p>PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT
+                            INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.</p>
+                        <h2>1. OVERVIEW</h2>
+                        <p>This universal terms of service agreement ("this agreement") is entered into by and between
+                            us, Offshore Company Corp, and you, and is made effective as of the date of your first use
+                            of this website ("this site") or the date of electronic acceptance. This agreement sets
+                            forth the general terms and conditions of your use of this site and the products and
+                            services purchased or accessed through this site (individually and collectively, the
+                            "services"), and is in addition to (not in lieu of) any specific terms and conditions that
+                            apply to particular services.</p>
+                        <p>Whether you are simply browsing or using this site to purchase services, your use of this
+                            site and your electronic acceptance of this agreement signifies that you have read,
+                            understood, acknowledged and agreed to be bound by this agreement, along with the following
+                            policies and the applicable product agreements, which are incorporated herein by
+                            reference.</p>
+                        <p>The terms "we", "us" and "our" shall refer to Offshore Company Corp. The terms "you" and
+                            "your" shall refer to any individual or entity who accepts this agreement, has access to
+                            your account or uses the services. Nothing in this agreement shall be deemed to confer any
+                            third-party rights or benefits.</p>
+                        <p>We may, in our sole and absolute discretion, change or modify this agreement, and any
+                            policies or agreements which are incorporated herein, at any time, and such changes or
+                            modifications shall be effective immediately upon posting to this site. Your use of this
+                            site or the services after such changes or modifications have been made shall constitute
+                            your acceptance of this agreement as last revised. If you do not agree to be bound by this
+                            agreement as last revised, do not use (or continue to use) this site or the services. In
+                            addition, we may occasionally notify you of changes or modifications to this agreement by
+                            email. It is therefore very important that you keep your shopper account ("account")
+                            information current. We assume no liability or responsibility for your failure to receive an
+                            email notification if such failure results from an inaccurate email address.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description2" id="description2">
+                        <div class="anchollink"></div>
+                        <h2>2. ELIGIBILITY; AUTHORITY</h2>
+                        <p>This site and the services are available only to users who can form legally binding contracts
+                            under applicable law. By using this site or the services, you represent and warrant that you
+                            are:</p>
+                        <p>(i) at least eighteen (18) years of age;</p>
+                        <p>(ii) otherwise recognised as being able to form legally binding contracts under applicable
+                            law; and</p>
+                        <p>(iii) not a person barred from purchasing or receiving the services under the laws of the
+                            United States or other applicable jurisdiction.</p>
+                        <p>If you are entering into this agreement on behalf of a corporate entity, you represent and
+                            warrant that you have the legal authority to bind such corporate entity to the terms and
+                            conditions contained in this agreement, in which case the terms "you" and "your" shall refer
+                            to such corporate entity. If, after your electronic acceptance of this agreement, we find
+                            that you do not have the legal authority to bind such corporate entity, you will be
+                            personally responsible for the obligations contained in this agreement, including, but not
+                            limited to, the payment obligations. We shall not be liable for any loss or damage resulting
+                            from our reliance on any instruction, notice, document or communication reasonably believed
+                            by us to be genuine and originating from an authorised representative of your corporate
+                            entity. If there is reasonable doubt about the authenticity of any such instruction, notice,
+                            document or communication, we reserve the right to (but undertake no duty to) require
+                            additional authentication from you. You further agree to be bound by the terms of this
+                            agreement for transactions entered into by you, anyone acting as your agent and anyone who
+                            uses your account or the services, whether or not authorised by you.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description3" id="description3">
+                        <div class="anchollink"></div>
+                        <h2>3. ACCOUNTS; TRANSFER OF DATA ABROAD</h2>
+                        <h3>Accounts</h3>
+                        <p>In order to access some of the features of this site or use some of the services, you will
+                            have to create an account. You represent and warrant to us that all information you submit
+                            when you create your account is accurate, current and complete, and that you will keep your
+                            account information accurate, current and complete. If we have reason to believe that your
+                            account information is untrue, inaccurate, out of date or incomplete, we reserve the right,
+                            in our sole and absolute discretion, to suspend or terminate your account. You are solely
+                            responsible for the activity that occurs on your account, whether authorised by you or not,
+                            and you must keep your account information secure, including without limitation, your
+                            customer number/login, password, payment methods (as defined below), and shopper PIN. For
+                            security purposes, we recommend that you change your password and shopper PIN for each
+                            account at least once every six (6) months. You must notify us immediately of any breach of
+                            security or unauthorised use of your account. We will not be liable for any loss you incur
+                            due to any unauthorised use of your account. You, however, may be liable for any loss we or
+                            others incur in connection with your account, whether caused by you, or by an authorised
+                            person, or by an unauthorised person.</p>
+                        <h3>Transfer of data abroad</h3>
+                        <p>If you are visiting this site from a country other than the country in which our servers are
+                            located, your communications with us may result in the transfer of information (including
+                            your account information) across international boundaries. By visiting this site and
+                            communicating electronically with us, you consent to such transfers.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description4" id="description4">
+                        <div class="anchollink"></div>
+                        <h2>4. AVAILABILITY OF WEBSITE/SERVICES</h2>
+                        <p>Subject to the terms and conditions of this agreement and our other policies and procedures,
+                            we shall use commercially reasonable efforts to attempt to provide this site and the
+                            services twenty-four (24) hours a day, seven (7) days a week. You acknowledge and agree that
+                            from time to time this site may be inaccessible or inoperable for any reason including, but
+                            not limited to, equipment malfunctions; periodic maintenance, repairs or replacements that
+                            we undertake from time to time; or causes beyond our reasonable control or that are not
+                            reasonably foreseeable including, but not limited to, interruption or failure of
+                            telecommunication or digital transmission links, hostile network attacks, network congestion
+                            or other failures. You acknowledge and agree that we have no control over the availability
+                            of this site or the service on a continuous or uninterrupted basis, and that we assume no
+                            liability to you or any other party with regard thereto.</p>
+                        <p>You acknowledge and agree that you have the necessary rights and permissions to share all
+                            information we need to provide the services. You acknowledge and agree that the services may
+                            be provided by independent contractors or third-party service providers.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description5" id="description5">
+                        <div class="anchollink"></div>
+                        <h2>5. GENERAL RULES OF CONDUCT</h2>
+                        <p>You acknowledge and agree the following.</p>
+                        <p>Your use of this site and the services, including any content you submit, will comply with
+                            this agreement and all applicable local, state, national and international laws, rules and
+                            regulations.</p>
+                        <p>You will not collect or harvest (or permit anyone else to collect or harvest) any user
+                            content (as defined below) or any non-public or personally identifiable information about
+                            another user, or any other person or entity, without their express prior written
+                            consent.</p>
+                        <p>You will not use this site or the services in a manner (as determined by us in our sole and
+                            absolute discretion) that:</p>
+                        <ul>
+                            <li>is illegal, or promotes or encourages illegal activity;</li>
+                            <li>promotes, encourages or engages in child pornography or the exploitation of children;
+                            </li>
+                            <li>promotes, encourages or engages in terrorism or violence against people, animals, or
+                                property;
+                            </li>
+                            <li>promotes, encourages or engages in any spam or other unsolicited bulk email, or computer
+                                or network hacking or cracking;
+                            </li>
+                            <li>violates the Ryan Haight Online Pharmacy Consumer Protection Act of 2008 or similar
+                                legislation, or promotes, encourages or engages in the sale or distribution of
+                                prescription medication without a valid prescription;
+                            </li>
+                            <li>infringes the intellectual property rights of another user, or any other person or
+                                entity;
+                            </li>
+                            <li>violates the privacy or publicity rights of another user, or any other person or entity,
+                                or breaches any duty of confidentiality that you owe to another user, or any other
+                                person or entity;
+                            </li>
+                            <li>interferes with the operation of this site or the services found on it;</li>
+                            <li>contains or installs any viruses, worms, bugs, Trojan horses or other code, files or
+                                programs designed to, or capable of, disrupting, damaging or limiting the functionality
+                                of any software or hardware; or
+                            </li>
+                            <li>contains false or deceptive language, or unsubstantiated or comparative claims,
+                                regarding us or our services.
+                            </li>
+                        </ul>
+                        <p>You will not copy or distribute, in any medium, any part of this site or the services, except
+                            where expressly authorised by us.</p>
+                        <p>You will not modify or alter any part of this site, the services found on it, or the related
+                            technologies.</p>
+                        <p>You will not access Offshore Company Corp content (as defined below) or user content through
+                            any technology or means other than through this site itself, or as we may designate.</p>
+                        <p>You will not re-sell or provide the services for a commercial purpose, including any of our
+                            related technologies, without our express prior written consent.</p>
+                        <p>You agree to provide government-issued photo identification and/or government-issued business
+                            identification, as required for verification of identity, when requested.</p>
+                        <p>You are aware that we may from time to time call you about your account, and that, for the
+                            purposes of any and all such calls, you do not have any reasonable expectation of privacy
+                            during those calls. Indeed, you hereby consent to allow us, in our sole discretion, to
+                            record the entirety of such calls regardless of whether we ask you during any particular
+                            call for consent to record such call. You further acknowledge and agree that, to the extent
+                            permitted by applicable law, any such recordings may be submitted as evidence in any legal
+                            proceedings in which we are a party.</p>
+                        <p>We reserve the right to modify, change or discontinue any aspect of this site or the services
+                            including, without limitation, prices and fees for the same, at any time.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description6" id="description6">
+                        <div class="anchollink"></div>
+                        <h2>6. ADDITIONAL RESERVATION OF RIGHTS</h2>
+                        <p>We expressly reserve the right to deny, cancel, terminate, suspend, lock or modify access to
+                            (or control of) any account or services for any reason (as determined by us, in our sole and
+                            absolute discretion), including, but not limited to, the following.</p>
+                        <p>To correct mistakes made by us in offering or delivering any services</p>
+                        <p>To protect the integrity and stability of, and correct mistakes made by, any of our
+                            partners</p>
+                        <p>To assist with our fraud and abuse detection and prevention efforts</p>
+                        <p>To comply with court orders against you and any applicable local, state, national and
+                            international laws, rules and regulations</p>
+                        <p>To comply with requests of law enforcement, including subpoena requests</p>
+                        <p>To comply with any dispute resolution process</p>
+                        <p>To defend any legal action or threatened legal action without consideration of whether such
+                            legal action or threatened legal action is eventually determined to be with or without
+                            merit</p>
+                        <p>To avoid any civil or criminal liability on the part of us, our officers, directors,
+                            employees and agents, as well as our affiliates, including, but not limited to, instances
+                            where you have sued or threatened to sue us</p>
+                        <p>We expressly reserve the right to review every account for excessive space and bandwidth
+                            utilisation, and to terminate or apply additional fees to those accounts that exceed allowed
+                            levels.</p>
+                        <p>We expressly reserve the right to terminate, without notice to you, any and all services
+                            where, in our sole discretion, you are harassing or threatening us and/or any of our
+                            employees.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description7" id="description7">
+                        <div class="anchollink"></div>
+                        <h2>7. LINKS TO THIRD-PARTY WEBSITES</h2>
+                        <p>This site, and the services found on it, may contain links to third-party websites that are
+                            not owned or controlled by us. We assume no responsibility for the content, terms and
+                            conditions, privacy policies or practices of any third-party websites. In addition, we do
+                            not censor or edit the content of any</p>
+                        <p>third-party websites. By using this site, or the services found on it, you expressly release
+                            us from any and all liability arising from your use of any third-party website.</p>
+                        <p>Accordingly, we encourage you to be aware when you leave this site, or stop using the
+                            services found on it, and to review the terms and conditions, privacy policies and other
+                            governing documents of each other website that you may visit.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description8" id="description8">
+                        <div class="anchollink"></div>
+                        <h2>8. LIMITATION OF LIABILITY</h2>
+                        <p>In no event shall we, our officers, directors, employees and agents, and all third-party
+                            service providers, be liable to you or any other person or entity for any direct, indirect,
+                            incidental, special, punitive or consequential damages whatsoever, including any that may
+                            result from the following.</p>
+                        <p>The accuracy, completeness or content of this site</p>
+                        <p>The accuracy, completeness or content of any sites linked to this site (through hyperlinks,
+                            banner advertising or otherwise)</p>
+                        <p>The services found on this site or any sites linked to this site (through hyperlinks, banner
+                            advertising or otherwise)</p>
+                        <p>Personal injury or property damage of any nature whatsoever</p>
+                        <p>Third-party conduct of any nature whatsoever</p>
+                        <p>Any unauthorised access to or use of our servers and/or any and all content, personal
+                            information, financial information or other information and data stored thereon</p>
+                        <p>Any interruption or cessation of services to or from this site or any sites linked to this
+                            site (through hyperlinks, banner advertising or otherwise)</p>
+                        <p>Any viruses, worms, bugs, Trojan horses, or the like, which may be transmitted to or from
+                            this site or any sites linked to this site (through hyperlinks, banner advertising or
+                            otherwise)</p>
+                        <p>Any user content or content that is defamatory, harassing, abusive, harmful to minors or any
+                            protected class, pornographic, X-rated, obscene or otherwise objectionable</p>
+                        <p>Any loss or damage of any kind incurred as a result of your use of this site, or the services
+                            found on it, whether based on warranty, contract, tort or any other legal or equitable
+                            theory, and whether or not we are advised of the possibility of such damages</p>
+                        <p>In addition, you specifically acknowledge and agree that any action arising out of or related
+                            to this site, or the services found on it, must be commenced within one (1) year after the
+                            cause of action accrues, otherwise such action shall be permanently barred.</p>
+                        <p>In addition, you specifically acknowledge and agree that in no event shall our total
+                            aggregate liability exceed the total amount paid by you for the particular services that are
+                            the subject of the action.</p>
+                        <p>The foregoing limitation of liability shall apply to the fullest extent permitted by law, and
+                            shall survive any termination or expiration of this agreement, or your use of this site or
+                            the services found on it.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description9" id="description9">
+                        <div class="anchollink"></div>
+                        <h2>9. FEES AND PAYMENTS</h2>
+                        <p>You acknowledge and agree that we may charge any and all prices and fees to your payment
+                            method.</p>
+                        <h3>9.1. GENERAL TERMS, INCLUDING AUTOMATIC-RENEWAL TERMS</h3>
+                        <p>You agree to pay any and all prices and fees due for services purchased or obtained from this
+                            site at the time you order the services. We expressly reserve the right to change or modify
+                            our prices and fees at any time, and such changes or modifications shall be posted on this
+                            site and be effective immediately without need for further notice to you. If you have
+                            purchased or obtained services for a period of months or years, changes or modifications in
+                            prices and fees shall be effective when the services in question come up for renewal, as
+                            further described below.</p>
+                        <p>Except as prohibited in any product-specific agreement, you may pay for services by utilising
+                            any of the following payment methods.</p>
+                        <p>By providing a valid credit card/debit card</p>
+                        <p>Via an electronic cheque from your personal or business current account, as appropriate (and
+                            as defined in item 9.2. below)</p>
+                        <p>By using PayPal (as defined in item 9.3. below)</p>
+                        <p>For services that offer "Express Checkout", clicking the Express Checkout button will
+                            automatically place an order for that service and charge the primary payment method we have
+                            on file for your account. Confirmation of that order will be sent to the email address we
+                            have on file for your account. Your payment method we have on file must be kept valid if you
+                            have any active services in your account.</p>
+                        <p>You acknowledge and agree that where refunds are issued to your payment method, our issuance
+                            of a refund receipt is only confirmation that we have submitted your refund to the payment
+                            method charged at the time of the original sale, and that we have absolutely no control over
+                            when the refund will be applied towards your payment method's available balance. You further
+                            acknowledge and agree that the payment provider, and/or the individual issuing bank
+                            associated with your payment method, establish and regulate the time frames for posting your
+                            refund, and that such refund-posting time frames may range from five (5) business days to a
+                            full billing cycle, or longer.</p>
+                        <p>If you are being billed on a monthly basis, your monthly billing date will be based on the
+                            date of the month you purchased the services, unless that date falls after the 28th of the
+                            month, in which case your billing date will be the 28th of each month.</p>
+                        <p>In order to ensure that you do not experience an interruption or loss of services, most
+                            services offer an automatic-renewal option. The automatic-renewal option automatically
+                            renews the applicable service for a renewal period equal in time to the most recent service
+                            period. While the details of the automatic-renewal option vary from service to service, the
+                            services that offer an automatic-renewal option treat it as the default setting. Therefore,
+                            unless you disable the automatic-renewal option, we will automatically renew the applicable
+                            service when it comes up for renewal, and will take payment from the payment method we have
+                            on file for you, at our then current rates, which you acknowledge and agree may be higher or
+                            lower than the rates for the original service period. You may enable or disable the
+                            automatic-renewal option at any time. However, should you elect to disable the
+                            automatic-renewal option, and you fail to manually renew your services before they expire,
+                            you may experience an interruption or loss of service, and we shall not be liable to you or
+                            any third party regarding the same.</p>
+                        <p>In addition, we may participate in "recurring billing programs" or "account updater services"
+                            supported by your credit-card provider (and ultimately dependent on your bank's
+                            participation). If you are enrolled in an automatic-renewal option and we are unable to
+                            successfully charge your existing payment method, your credit-card provider (or your bank)
+                            may notify us of updates to your credit-card number and/or expiration date, or they may
+                            automatically charge your new credit card on our behalf without notification to us. In
+                            accordance with recurring billing program requirements, in the event that we are notified of
+                            an update to your credit-card number and/or expiration date, we will automatically update
+                            your payment profile on your behalf. We make no guarantees that we will request or receive
+                            updated credit-card information. You acknowledge and agree that it is your sole
+                            responsibility to modify and maintain your account settings, including, but not limited
+                            to:</p>
+                        <p>(i) setting your renewal options; and</p>
+                        <p>(ii) ensuring your associated payment methods are current and valid.</p>
+                        <p>Further, you acknowledge and agree that your failure to do so may result in the interruption
+                            or loss of services, and we shall not be liable to you or any third party regarding the
+                            same.</p>
+                        <p>If for any reason we are unable to charge your payment method for the full amount owed for
+                            the services provided, or if we receive notification of a chargeback, reversal or payment
+                            dispute, or are charged a penalty for any fee we previously charged to your payment method,
+                            you agree that we may pursue all available lawful remedies in order to obtain payment,
+                            including, but not limited to, immediate cancellation, without notice to you, of any
+                            services registered or renewed on your behalf. We also reserve the right to charge you
+                            reasonable administrative fees or processing fees for:</p>
+                        <p>(i) tasks we may perform outside the normal scope of our services;</p>
+                        <p>(ii) additional time and/or costs we may incur in providing our services; and/or</p>
+                        <p>(iii) your non-compliance with this agreement (as determined by us in our sole and absolute
+                            discretion).</p>
+                        <p>Typical administrative or processing fee scenarios include, but are not limited to:</p>
+                        <p>(i) customer service issues that require additional personal time or attention; and</p>
+                        <p>(ii) recouping any and all costs and fees, including the cost of services, incurred by us as
+                            a result of chargebacks or other payment disputes brought by you, your bank or
+                            payment-method processor.</p>
+                        <p>These administrative fees or processing fees will be charged to the payment method we have on
+                            file for you.</p>
+                        <p>We may offer product-level pricing in various currencies. However, transaction processing is
+                            supported only in HKD (Hong Kong dollars) and a select number of currency options, as
+                            displayed on this site ("supported currency" or "supported currencies"). If the currency
+                            selected is a supported currency, the transaction will be processed in the supported
+                            currency and the pricing displayed during the checkout process will be the actual amount
+                            processed and submitted to your bank for payment. If the currency selected is not a
+                            supported currency, the transaction will be processed in US dollars and the pricing
+                            displayed during the checkout process will be an estimated conversion price at the time of
+                            purchase. In either case (whether the currency selected is a supported currency or not), if
+                            the transaction is processed in a currency that differs from the currency of your bank
+                            account, you may be charged</p>
+                        <p>exchange-rate conversion fees by your bank. In addition, due to time differences between:</p>
+                        <p>(i) the time you complete the checkout process;</p>
+                        <p>(ii) the time the transaction is processed; and</p>
+                        <p>(iii) the time the transaction posts to your bank statement;</p>
+                        <p>the conversion rates may fluctuate.</p>
+                        <p>We make no representations or warranties that:</p>
+                        <p>(a) the amount submitted to your bank for payment will be the same as the amount posted to
+                            your bank statement (in the case of a supported currency); or</p>
+                        <p>(b) the estimated conversion price will be the same as either the amount processed or the
+                            amount posted to your bank statement (in the case of a</p>
+                        <p>non-supported currency), and you agree to waive any and all claims based upon such
+                            discrepancies (including any and all claims for a refund based on the foregoing).</p>
+                        <p>In addition, regardless of the selected currency, you acknowledge and agree that you may be
+                            charged Value Added Tax ("VAT"), Goods and Services Tax ("GST"), or other local fees and/or
+                            taxes, based on your bank and/or the country indicated in your billing address.</p>
+                        <p>Refund policy: Products and services available for refunds are described in detail for each
+                            service. For products and services eligible for a refund, you may request a full refund for
+                            annual plans within forty five (45) days of purchase and within 48 hours of purchase for
+                            monthly plans (each "refund period"). For refunds requested after the refund period, an
+                            in-store credit will be issued for any unused time remaining on your plan. Unused time will
+                            be calculated as the number of months remaining on the purchase term excluding the month in
+                            which the refund is requested.</p>
+                        <p>Annual plans: Any product purchased for 1 year or greater will be considered to be an annual
+                            plan under the terms of this policy. You may, within two days (2) days from the day you
+                            place your order, request a full refund of the purchase price of the product.</p>
+                        <p>Monthly plans: Any product purchased for less than 1 year will be considered to be a monthly
+                            plan under the terms of this policy. You may, within twenty four (24) hours of the time you
+                            place your order, request a full refund of the purchase price of the product.</p>
+                        <p>In no event will you be eligible for more than one refund of the same product.</p>
+                        <h3>9.2. PAY BY CHEQUE (ELECTRONIC CHEQUE)</h3>
+                        <p>By using our pay-by-cheque option ("Pay By Cheque"), you can purchase our services using an
+                            electronic cheque (from your personal or business current account, as appropriate). In
+                            connection therewith, you agree to allow us to debit the full amount of your purchase from
+                            your current account.</p>
+                        <p>It is your responsibility to keep your current account valid and funded. You acknowledge and
+                            agree that:</p>
+                        <p>(i) we reserve the right to decline a transaction for any reason (including, but not limited
+                            to, payments that fail to go through as a result of your current account no longer existing
+                            or not holding available/sufficient funds); and</p>
+                        <p>(ii) in such event, we shall be liable to you or any third party regarding the same.</p>
+                        <p>If for any reason we are unable to withdraw the full amount owed for the services provided,
+                            you agree that we may pursue all available lawful remedies in order to obtain payment.</p>
+                        <h3>9.3. PAY BY PAYPAL</h3>
+                        <p>By using our pay-by-PayPal payment option ("PayPal"), you can purchase services using PayPal.
+                            In connection therewith, you agree to allow PayPal to debit the full amount of your purchase
+                            from your PayPal account ("PayPal account") or from credit cards, bank accounts or other
+                            allowed payment methods linked to your PayPal account ("PayPal funding source").</p>
+                        <p>It is your responsibility to keep your PayPal account and PayPal funding source valid and
+                            funded, and backed by a valid credit card. You acknowledge and agree that:</p>
+                        <p>(i) PayPal reserves the right to decline a transaction for any reason (including, but not
+                            limited to, payments that fail to go through as a result of your PayPal account or PayPal
+                            funding source no longer existing or not holding available/sufficient funds); and</p>
+                        <p>(ii) in such event, neither PayPal nor we shall be liable to you or any third party regarding
+                            the same.</p>
+                        <p>If for any reason PayPal is unable to withdraw the full amount owed for your purchase, you
+                            agree that PayPal and we may pursue all available lawful remedies in order to obtain
+                            payment. You agree that if the transaction is returned unpaid, you will pay a service charge
+                            of US$25.00 or the maximum amount allowed by law, which may be debited from your PayPal
+                            account or PayPal funding source.</p>
+                        <p>By clicking the box labelled "I agree", or "Process to Payment", after the terms of the
+                            PayPal payment option, you authorise a debit of the full amount of your purchase to be taken
+                            from your PayPal account or PayPal funding source.</p>
+                        <h3>9.4. DEPOSIT AND AUTHORISED FUND PAYMENT</h3>
+                        <p>At the beginning, we will only collect 1 USD of the total service fee as a deposit for your
+                            order. The remainder of the service fee will be captured when the full service is delivered.
+                            This remaining service fee needs to be authorised, and we will request an electronic
+                            authorisation from the cardholder's issuing bank.</p>
+                        <p>If you pay by PayPal account, the remainder of the service fee will be charged to your
+                            credit/debit card.</p>
+                        <p>We can re-authorise your credit card if you order extra services from us.</p>
+                        <p>You are fully responsible for making sure your credit/debit card can cover the remaining fee.
+                            If your credit-/debit-card account does not have sufficient funds, the service may be
+                            delayed.</p>
+                        <p>After receiving the sale order and purchase order, the financial team/department will fully
+                            authorise the service fee for your order from your credit/debit card to guarantee the
+                            payment will be done. If the credit in your account is not enough, after 15 calendar days,
+                            we will not refund.</p>
+                        <p>We will refund the full deposit to you within 7 days if we cannot provide/deliver the
+                            services.</p>
+                        <h3>9.5. CURRENCY CONVERSION</h3>
+                        <p>We use USD (US dollar) as the list price for all our services.</p>
+                        <p>Complying with Government requirement, the price of services and products must be converted
+                            into HKD (Hong Kong dollar) for any payment made by credit card and SGD (Singapore dollar)
+                            for any payment by PayPal with a credit card.</p>
+                        <p>For transactions involving a currency conversion, rates are derived from the mid-market rate,
+                            which is the midpoint between the "buy" and "sell" rates from global currency markets
+                            (exchange rate fixed at 1USD = 7.8 HKD and 1USD = 1.45 SGD).</p>
+                        <p>See the mid-market rate at
+                            https://finance.yahoo.com/currency-converter/#from=USD;to=HKD;amt=1 and
+                            https://finance.yahoo.com/currency-converter/#from=USD;to=SGD;amt=1.</p>
+                        <p>The rate may differ due to currency conversion with your local currency.</p>
+                        <p>Your credit-card statement might show HKD (Hong Kong dollar) or SGD (Singapore dollar),
+                            depending on the payment method you selected.</p>
+                        <p>This term applies only to the credit-card payment option, not for other options like PayPal
+                            account or wire transfer/telephonetransfer.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description10" id="description10">
+                        <div class="anchollink"></div>
+                        <h2>10. INDEMNITY</h2>
+                        <p>You agree to protect, defend, indemnify and hold harmless us, and our officers, directors,
+                            employees, agents and third-party service providers, from and against any and all claims,
+                            demands, costs, expenses, losses, liabilities and damages of every kind and nature
+                            (including, without limitation, reasonable attorney’s fees) imposed upon or incurred by us
+                            directly or indirectly arising from:</p>
+                        <p>(i) your use of and access to this site or the services found on it;</p>
+                        <p>(ii) your violation of any provision of this agreement or the policies or agreements which
+                            are incorporated herein; and/or</p>
+                        <p>(iii) your violation of any third-party right, including, without limitation, any
+                            intellectual-property or other proprietary right.</p>
+                        <p>The indemnification obligations under this section shall survive any termination or
+                            expiration of this agreement, or your use of this site or the services found on it.</p>
+                    </div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description11" id="description11">
+                        <div class="anchollink"></div>
+                        <h2>11. SUCCESSORS AND ASSIGNEES</h2>
+                        <p>This agreement shall be binding upon, and enure to the benefit of, the parties hereto and
+                            their respective heirs, successors and assignees.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description12" id="description12">
+                        <div class="anchollink"></div>
+                        <h2>12. NO THIRD-PARTY BENEFICIARIES</h2>
+                        <p>Nothing in this agreement shall be deemed to confer any third-party rights or benefits.</p>
+                    </div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description13" id="description13">
+                        <div class="anchollink"></div>
+                        <h2>13. COMPLIANCE WITH LOCAL LAWS</h2>
+                        <p>We make no representation or warranty that the content available on this site, or the
+                            services found on it, are appropriate in every country or jurisdiction; and access to this
+                            site, or the services found on it, from countries or jurisdictions where its content is
+                            illegal, is prohibited. Users who choose to access this site, or the services found on it,
+                            are responsible for compliance with all local laws, rules and regulations.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description14" id="description14">
+                        <div class="anchollink"></div>
+                        <h2>14. TITLES AND HEADINGS; INDEPENDENT COVENANTS; SEVERABILITY</h2>
+                        <p>The titles and headings of this agreement are for convenience and ease of reference only, and
+                            shall not be utilised in any way to construe or interpret the agreement of the parties other
+                            than as set forth herein. Each covenant and agreement in this agreement shall be construed
+                            for all purposes to be a separate and independent covenant or agreement. If a court of
+                            competent jurisdiction holds any provision (or portion of a provision) of this agreement to
+                            be illegal, invalid, or otherwise unenforceable, the remaining provisions (or portions of
+                            provisions) of this agreement shall not be affected thereby, and shall be found to be valid
+                            and enforceable to the fullest extent permitted by law.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description15" id="description15">
+                        <div class="anchollink"></div>
+                        <h2>15. FORWARDING OF MAIL; ONE IBC'S BUSINESS ADDRESS</h2>
+                        <p>Under no circumstances are You to list an One IBC address as Your business address. In the
+                            event you list One IBC’s address as the business address for you or one of the entities on
+                            Your Account, One IBC reserves the right to terminate service for the Account, or resign as
+                            registered agent for any Entity on the Account, and You shall not be entitled to any refund.
+                            Additionally, You agree that the cost of any such resignation shall be Your responsibility.
+                            You agree to hold harmless and indemnify One IBC for any costs or damages related to Your
+                            unauthorized use of an One IBC address as your business address.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description16" id="description16">
+                        <div class="anchollink"></div>
+                        <h2>16. RESELLER PROVISIONS</h2>
+                        <p>If You resell certain Services offered by One IBC to Your own clients (each, a “Client”, and
+                            collectively, the “Clients”), You understand and acknowledge that any charges, fees or late
+                            fees incurred on the Account, or any successor account, shall be Your responsibility, as the
+                            Account holder. You acknowledge and agree that nonpayment of any fees or charges by a Client
+                            to You shall not relieve You of the obligation to maintain the Account, or any successor
+                            account, in good standing. If You wish to cause One IBC to resign as registered agent for an
+                            Entity (as hereinafter defined), You shall be responsible for any resignation fees incurred
+                            in the transaction. “Entity” means any entity that is linked to the Account.</p>
+                        <p>Additionally, in the event You allow the Account to become past due, abandon the Account, or
+                            fail to respond to any communication from One IBC, You acknowledge and agree that One IBC
+                            has the right to: i) contact the Clients, and request they set up their own account(s)
+                            directly with One IBC, ii) if contacted by a Client, or upon request of a Client, create a
+                            new account for the Client directly with One IBC, or iii) resign as registered agent. If One
+                            IBC elects to resign, You acknowledge that You shall be responsible for any resignation fees
+                            (in addition to any past due balances on the Account).</p>
+                        <p>You agree to provide One IBC with any Client or Entity information One IBC deems necessary to
+                            be in compliance with the requirements of a registered agent under applicable state law. If
+                            You, upon request from One IBC, fail or refuse to provide One IBC with any requested
+                            information of a Client or Entity, You hereby agree to hold harmless and indemnify One IBC
+                            to the fullest extent permitted by law for any damages, fines or losses incurred as a result
+                            of Your failure to provide One IBC with the requested information. Further, One IBC reserves
+                            the right to resign as registered agent for Your failure to provide the requested
+                            information. If One IBC elects to resign, You acknowledge that You shall be responsible for
+                            any resignation fees (in addition to any past due balances on the Account).</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description17" id="description17">
+                        <div class="anchollink"></div>
+                        <h2>17. REGISTERED AGENT SERVICES; DISCONTINUING/CANCELING REGISTERED AGENT SERVICES</h2>
+                        <p>Any Official Document (as defined below) filed by You naming One IBC as Your registered agent
+                            must state One IBC's full corporate name in the name form provided, -e.g. "One IBC Limited",
+                            "One IBC Pte. Ltd" or other form, as the case may be, including all punctuation as provided
+                            at time of order. If You prepare and file an Official Document naming One IBC as Your
+                            registered agent without using One IBC's full corporate name and/or using the correct name
+                            form for that jurisdiction, One IBC cannot guarantee that registered agent services can or
+                            will be performed on Your behalf. ONE IBC DISCLAIMS ANY RESPONSIBILITY OR LIABILITY FOR YOUR
+                            FAILURE TO CORRECTLY FORMAT ONE IBC'S NAME WHEN ASSIGNING AS REGISTERED AGENT. You hereby
+                            acknowledge and agree that You are responsible for any fees associated with amending any
+                            Official Document to correctly name One IBC as Your registered agent with the correct name
+                            form.</p>
+                        <p>You hereby acknowledge and agree that in the event (a) Your business entity voluntarily or
+                            involuntarily discontinues business operations in a jurisdiction where One IBC provides
+                            registered agent services; (b) You wish to abandon Your business entity; or (c) You wish to
+                            discontinue One IBC's registered agent services, You will satisfy at least one of the
+                            following cancellation conditions (collectively, "Cancellation Conditions"):</p>
+                        <ul>
+                            <li>The business entity must be voluntarily, judicially or administratively dissolved,
+                                withdrawn, cancelled or otherwise terminated in that jurisdiction; or
+                            </li>
+                            <li>The business entity must assign another registered agent in said jurisdiction; or</li>
+                            <li>The business entity must resign One IBC as registered agent in said jurisdiction and pay
+                                any document preparation fees (if One IBC prepares the documents), as well as all filing
+                                fees related to same.
+                            </li>
+                        </ul>
+                        <p>The business entity must have One IBC removed as the registered agent with all state
+                            government agencies in which the business entity requested that One IBC be appointed for
+                            acceptance of service of process. If, after exhausting reasonable efforts, the business
+                            entity cannot obtain sufficient documentation to evidence that One IBC has been removed as
+                            registered agent, and/or adequate proof is not attainable, the business entity must fill out
+                            and sign the Cancellation Certification. However, this provision does not apply to any
+                            listing of One IBC as registered agent with any secretary of state, and You may not use the
+                            Cancellation Certification to certify that One IBC has been removed as Registered Agent with
+                            any secretary of state pursuant to the requirements of this section. You hereby acknowledge
+                            and agree that if You do not satisfy at least one of the Cancellation Conditions before the
+                            date Your annual registered agent service fee is due, One IBC shall continue to act as
+                            registered agent in connection with that business entity, and You will continue to incur
+                            fees and late penalties (if any) in connection with such services. If, thereafter, You
+                            satisfy one of the Cancellation Conditions, You will not be entitled to a pro-rata refund.
+                            Further, You acknowledge and agree that if You have not met one of the Cancellation
+                            Conditions or You have not paid an annual registered agent service fee by its due date, One
+                            IBC may, in its sole discretion, charge You the then current registered agent service fee
+                            and any applicable tax or other charges to the payment method You provided during
+                            registration or in subsequent Account payments. Additionally, if the Account is in
+                            delinquent status or the entity is defunct, any Account contacts, including, but not limited
+                            to the Account primary contact and entity officers and/or directors shall be responsible for
+                            the payment of the Account. Upon cancellation, You agree to have One IBC removed as
+                            registered agent with any agencies in which You or Your registered entity have requested
+                            that One IBC be appointed for acceptance of service of process (the "Agencies"). You agree
+                            to provide One IBC with documentation sufficient to evidence that One IBC has been removed
+                            as registered agent for You or Your registered entity with the Agencies. You must provide
+                            such documentation prior to satisfying the Cancellation Conditions for discontinuing
+                            registered agent services set forth in this Section. You acknowledge that Your failure to
+                            provide the documentation required under this paragraph will result in a delay of Your
+                            satisfaction of the Cancellation Conditions. If, despite reasonable efforts, You cannot
+                            obtain sufficient documentation to evidence that One IBC has been removed as registered
+                            agent for You or Your registered entity, You may elect to sign the Cancellation
+                            Certification. You acknowledge that Your execution of the Cancellation Certification shall
+                            have the same effect as providing documentation under the previous paragraph and shall
+                            release One IBC of all liability to You or Your registered entity occurring after the date
+                            of the Cancellation Certification (the "Effective Date") regarding service of process and
+                            any other services provided for under this Agreement. However, this provision does not apply
+                            to any listing of One IBC. as registered agent with any secretary of state, and You may not
+                            use the Cancellation Certification to certify that One IBC has been removed as registered
+                            agent with any secretary of state. You acknowledge that upon completion of the obligations
+                            in this Section, You accept full responsibility for any service of process documents that
+                            are issued to or served on One IBC as registered agent for You or Your registered entity. In
+                            addition to all limitations of liability contained in this Agreement, You hereby release One
+                            IBC of all liability to You or Your registered entity occurring after the Effective Date
+                            regarding service of process and any other services provided for under this Agreement.</p>
+                    </div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description18" id="description18">
+                        <div class="anchollink"></div>
+                        <h2>18. CHANGE AGENT POLICY</h2>
+                        <p>If client cancels service with One IBC, client agrees to provide One IBC 60 days notice, and
+                            fill out the proper paperwork to dissolve its entity, withdraw from local authority, or
+                            change its registered agent on clients own. One IBC to file the paperwork for you for 299
+                            USD for dissolution plus government fees, from 299 USD to 599 USD for change of registered
+                            agent plus government fees depend on Jurisdiction which your company incorporated.</p>
+                        <p>If client is completely unresponsive, One IBC will file a resignation of agent after your
+                            bill is 30 days overdue. You will be charged the state filing fees for the resignation if
+                            there are any, our resignation of agent fee from 299 USD to 599 USD (not including
+                            outstanding fee which you not yet paid for previous years, penalty, annual fee from local
+                            authority where your company incorporated), for late fees will depend on authority of your
+                            company incorporated, the prorated monthly registered agent fee rate for the time period we
+                            are still acting as agent for you, and the bill will be turned over to a collection company
+                            with their additional legally collectable collection fees.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description19" id="description19">
+                        <div class="anchollink"></div>
+                        <h2>19. TERMINATION OF REGISTERED AGENT</h2>
+                        <p>IN THE EVENT ONE IBC TERMINATES THIS AGREEMENT, AND ANY SERVICES, AS A RESULT OF YOUR BREACH
+                            OF THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO NONPAYMENT OF ANY FEES, YOU AGREE TO BE
+                            RESPONSIBLE FOR AND/OR REIMBURSE ONE IBC FOR THE COST OF RESIGNING AS THE REGISTERED AGENT
+                            OF ANY OF YOUR ENTITIES.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description20" id="description20">
+                        <div class="anchollink"></div>
+                        <h2>20. TAXES, REPORTING AND LEGAL RESPONSIBILITIES</h2>
+                        <p>You are solely responsible for satisfying all tax, reporting and legal responsibilities,
+                            including but not limited to income tax, payroll tax, payroll withholding, sales and use
+                            tax, governmental reporting and other legal requirements under applicable law.</p></div>
+                    <div class="js-dynamic-menu id_active" data-eleid="description21" id="description21">
+                        <div class="anchollink"></div>
+                        <h2>21. CONTACT US</h2>
+                        <p>If you have any questions, please contact us by email or regular mail at the following
+                            address:</p>
+                        <h3>Offshorecompanycorp.com is a wholly - owned subsidiary of One IBC Limited</h3>
+                        <ul class="list-unstyled list-contact">
+                            <li><img alt="Address"
+                                     src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-address-1540538122.png" title="Address"/> <strong>Address:</strong> Unit 1411, 14/Floor,
+                                Cosco Tower, 183 Queen's Road Central, Sheung Wan, Hong Kong.
+                            </li>
+                            <li><img alt="Telephone"
+                                     src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1540538123.png" title="Telephone"/> <strong>Telephone:</strong> <a
+                                    href="tel:+85230519188?call" target="_blank">+852 3051 9188</a></li>
+                            <li><img alt="Email"
+                                     src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-mail-1540538123.png" title="Email"/> <strong>Email:</strong> <a
+                                    href="http://offshorecompanycorp.com/contact-us"><span class="__cf_email__"
+                                                                                           data-cfemail="d4a7a1a4a4bba6a094bbb2b2a7bcbba6b1b7bbb9a4b5baadb7bba6a4fab7bbb9">[email&#160;protected]</span>
+                            </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form id="fr-print-pdf" name="fr-print-pdf"><textarea hidden="hidden" id="content-print-pdf"
+                                                          name="content-print-pdf"></textarea> <input name="ar_keyword"
+                                                                                             type="hidden"
+                                                                                             value="universal-terms-of-service">
+        <input name="ar_name" type="hidden" value="Universal Terms Of Service"></form>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '182.68.2.233',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'info',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

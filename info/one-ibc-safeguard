@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>One IBC safeguard</title>
+    <meta content="One IBC safeguard" name="description">
+    <meta content="One IBC safeguard" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<script> commands.push(function () {
+    $(document).ready(function () {
+        $("#print-pdf").click(function () {
+            var node = document.getElementById('content_ar_single');
+            var htmlContent = node.innerHTML;
+            $("#content-print-pdf").text(htmlContent);
+            $("#fr-print-pdf").prop("action", "/print-content-pdf");
+            $("#fr-print-pdf").prop("method", "post");
+            $("#fr-print-pdf").attr('target', '_blank');
+            $("#fr-print-pdf").submit();
+        });
+    })
+}); </script>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/info/one-ibc-safeguard"
+                                                                                 target="_self"
+                                                                                 title="One IBC safeguard"> One IBC
+        safeguard </a></div>
+</div>
+<div class="paddingtop-mobile">
+    <div class="container" id="content_ar_single"><h1>One IBC safeguard</h1>
+        <div class="row margin-bt15">
+            <div class="col-md-12">
+                <div class="pull-right"><a class="download-file" id="print-pdf" style="cursor: pointer" target="_self"
+                                           title="Download"> <img
+                        align="absmiddle"
+                        alt="Download" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-file-download.svg" title="Download"> Download </a></div>
+                <div class="date-detail margin0"> Updated time: 24 Dec, 2018, 09:40 (UTC+08:00)</div>
+            </div>
+        </div>
+        <div class="content-format">
+            <ul class="nav nav-tabs tab-fade tab-first">
+                <li class="active"><a data-toggle="tab" href="#id1"><strong>Safeguard</strong></a></li>
+                <li><a data-toggle="tab" href="#id2"><strong>Statement on conduct</strong></a></li>
+                <li><a data-toggle="tab" href="#id3"><strong>Client KYC requirement</strong></a></li>
+                <li><a data-toggle="tab" href="#id4"><strong>AML - CTF Policy</strong></a></li>
+            </ul>
+            <div class="tab-content padding-top20">
+                <div class="tab-pane fade in active" id="id1"><h1>One IBC Safeguard</h1>
+                    <h2>What is One IBC Safeguard</h2>
+                    <p>One IBC Safeguard is designed to allow us to better protect you, support you and your accounts
+                        from fraud and financial crime. To do this we need to ensure that all the information we hold
+                        for you or your business is correct, complete and up-to-date. Changes in regulations may also
+                        mean that we require some additional information which we have not previously asked you to
+                        provide.</p>
+                    <ul>
+                        <li>Check and review all our customer accounts to check we have all the details we need.</li>
+                        <li>Be in touch to confirm, update or request new information.</li>
+                    </ul>
+                    <h3>Personal Customers</h3>
+                    <p>If you're a personal customer we're likely to need 2 types of documents from you: to confirm your
+                        identity, and to confirm your address. Occasionally we may need more information than this.</p>
+                    <h3>Business Customers</h3>
+                    <p>If you're a business customer the documents we need will depend on the size and nature of your
+                        business. However we are likely to need to confirm your legal entity structure, your beneficial
+                        owners and countries you do business with.</p>
+                    <h2>What we will do with your data?</h2>
+                    <p>The sole purpose of gathering this information is so that our systems and processes can protect
+                        both our customers and the One IBC against financial crime. We take our obligation to protect
+                        your data very seriously, so all the information you provide will be subject the One IBC's high
+                        data and security standards. The intent is only to use this information for your protection and
+                        will NOT be used by any third parties for marketing purposes.</p>
+                    <h2>What is financial crime?</h2>
+                    <p>Fraud and financial crimes are forms of theft. They tend to involve money or property that are
+                        gained illegally, and used in a deceptive or illegal manner to gain a benefit from the proceeds.
+                        In today's complex economy, financial crimes can take many forms including money laundering,
+                        sanctions breaches, fraud, tax evasion, terrorist financing, bribery and corruption.</p>
+                    <h2>What has financial crime got to do with me?</h2>
+                    <p>Financial crime can affect anyone and everyone. Your support will go a long way to help us do
+                        business safer.</p>
+                    <h2>What are Sanctions?</h2>
+                    <p>Sanctions are a policy tool which national governments and organisations such as the United
+                        Nations and European Union use to constrain and deter perceived threats to their security, or to
+                        conform international conduct to recognised international standards. Sanctions help to stop
+                        crimes like terrorism, drug trafficking and arms dealing by imposing restrictions on the
+                        business that banks can do with specific people, corporations or countries and the names of
+                        these are clearly listed on things like the Office of Foreign Assets (OFAC) sanctions list.</p>
+                    <h2>Why is financial crime an increasing concern?</h2>
+                    <p>At One IBC, addressing financial crime globally has long been one of our main priorities.</p>
+                    <p>However criminal activity has become increasingly sophisticated in recent years, and fraudsters,
+                        money launderers and others have attempted to target global networks.</p>
+                    <p>Improving the way we share and manage customer information will help us fight against the risk of
+                        financial crime. After all, it's our duty to ensure that you can do business with us safely,
+                        securely, and confidently.</p>
+                    <h2>What has financial crime got to do with you or your business?</h2>
+                    <p>As the world becomes more and more connected and information moves around at a greater pace,
+                        there are unfortunately greater opportunities for criminals to misuse the financial system.</p>
+                    <p>A key defence against money laundering is to prevent accounts being opened in false identities.
+                        We also sometimes need to verify where funds are from as part of our ongoing efforts to track
+                        our customers' legitimate funds and to protect them from financial crime. Criminals will try to
+                        appear to be law abiding citizens or businesses and therefore we need to request documentary
+                        evidence from all of our customers in order to fully protect them and their accounts.</p>
+                    <h2>Why are you asking for all this information? Don't you already have it?</h2>
+                    <p>As well as acting to safeguard our customers, One IBC has a commitment to meet regulatory and
+                        legal requirements by ensuring that the information we hold is up-to-date, complete and
+                        accurate. You might have already provided some of this information prior to this request, but to
+                        stay one step ahead of fraud and financial crime, we need to ensure we have your most up-to-date
+                        information.</p>
+                    <h2>What information do I need to provide?</h2>
+                    <p>The request you receive from us will detail all the information required, in most cases this will
+                        include a certified copy or original document verifying your residential address. For some of
+                        our customers we may also require a certified copy of your identification documentation (e.g. a
+                        valid passport). We'll advise exactly what you'll need to provide when we contact you. In
+                        certain cases we can only accept original documents which must be sent to us by post.</p>
+                    <h2>Why do you need information about my Source of Funds and Source of Wealth?</h2>
+                    <p>Regulatory and legal obligations require us to understand where funds are coming from and going
+                        to. This also helps us to protect you from fraud and financial crime.</p>
+                    <h2>What will happen if I don't provide this information?</h2>
+                    <p>We are required by our regulators to have this information. If we don't receive your up-to-date
+                        information we may no longer be able to provide you with our services. If you are having trouble
+                        gathering the information, need more time or have any further questions, please let us know and
+                        we will do our best to help.</p>
+                    <p>Documents and Certification</p>
+                    <h2>Who can certify my documents?</h2>
+                    <p>The following people can certify photocopies of your documents, on sight of the original
+                        document:</p>
+                    <ul>
+                        <li>Bank Manager of a licensed, regulated bank</li>
+                        <li>Embassy Consulate or High Commission Official of the country of issue of the documentation
+                        </li>
+                        <li>Lawyer or Notary Public*</li>
+                        <li>A Member of the Judiciary</li>
+                        <li>Actuary* of the country of issue of the documentation</li>
+                        <li>Accountant or Tax Adviser*</li>
+                    </ul>
+                    <p><i>*Who is a member of a recognised professional body</i></p>
+                    <p>If you provide original utility bills to confirm your address, these do not need to be certified.
+                        We regret that we will not be able to return these documents to you.</p>
+                    <h2>How do I certify my documents?</h2>
+                    <p>Your documents must be certified within the last three months and be in English. We can only
+                        accept certified copies that have been translated into English, providing both the foreign and
+                        English copies are certified as required.</p>
+                    <h2>How can I send my documents to you?</h2>
+                    <p>Once your documents are certified, please send them with your completed Personal Information Form
+                        to the following address: Unit 1411, 14/Floor, Cosco Tower, 183 Queen's Road Central, Sheung
+                        Wan, Hong Kong and/or scan it then send over email to <a class="__cf_email__"
+                                                                                 data-cfemail="7d0b18090914131a3d121318141f1e531e121053"
+                                                                                 href="/cdn-cgi/l/email-protection">[email&#160;protected]</a>
+                    </p></div>
+                <div class="tab-pane fade" id="id2"><h1>One IBC statement on conduct</h1>
+                    <h2>Background</h2>
+                    <p>The One IBC approach to conduct is designed to ensure that through our actions and behaviours we
+                        deliver fair outcomes for our customers and do not disrupt the orderly and transparent operation
+                        of our business. Conduct is the critical component within all business activities including,
+                        including but not limited to strategy, business models and planning, our culture and behaviours
+                        including staff recruitment/performance management, our interaction with customers, our products
+                        and services, our business operations, and our governance and oversight processes.</p>
+                    <p>Our approach to conduct is key to winning and retaining our customers’ trust and loyalty. Focus
+                        on conduct is integral to One IBC’s values and business principles and supports the Group
+                        strategy for sustainable growth and streamlining of business processes and procedures.</p>
+                    <p>One IBC has defined global outcomes relating to conduct which must be delivered by global
+                        businesses, global functions, and Operations, Services and Technology, each responsible for
+                        conduct within the scope of their activities, and must develop and maintain approaches, tailored
+                        to their markets and operations, which deliver the required global conduct outcomes.</p>
+                    <h2>Global conduct outcomes</h2>
+                    <h3>Strategy and Business Models</h3>
+                    <ul>
+                        <li>Our strategy, business models, and the decisions we make deliver fair treatment of customers
+                            and do not disrupt market integrity.
+                        </li>
+                    </ul>
+                    <h3>Culture and Behaviours</h3>
+                    <ul>
+                        <li>Our culture supports our people and empowers them to consistently do the right thing for our
+                            customers and markets in which we operate.
+                        </li>
+                        <li>Our people are competent and committed to the fair treatment of customers and not disrupting
+                            the integrity of markets.
+                        </li>
+                        <li>We are open to challenge, we acknowledge when things go wrong, we fix things and we learn
+                            from our mistakes.
+                        </li>
+                        <li>We reward and incentivise performance, behaviours and attitudes which deliver the fair
+                            treatment of customers and uphold market integrity.
+                        </li>
+                    </ul>
+                    <h3>Customer</h3>
+                    <ul>
+                        <li>We know our customers and understand their needs – we actively listen to them and ask the
+                            right questions.
+                        </li>
+                        <li>Our products are designed to meet the different needs of our customers, to be competitive
+                            and to be understandable.
+                        </li>
+                        <li>Our products and services provide a balanced exchange of value between One IBC and our
+                            customers.
+                        </li>
+                        <li>Throughout our sales and servicing we are efficient, transparent and customer-focused.</li>
+                        <li>We manage our products and services so that our customers’ experience is in line with the
+                            expectations we set.
+                        </li>
+                    </ul>
+                    <h3>Markets</h3>
+                    <ul>
+                        <li>We seek to prevent and will proactively identify actions and behaviours that constitute
+                            market misconduct, and respond appropriately.
+                        </li>
+                        <li>Trades are executed in a timely, clear and controlled manner ensuring that optimal execution
+                            is achieved for our customers and that One IBC trades are not manipulative.
+                        </li>
+                        <li>We manage conflicts of interest and appropriately handle information to reduce the
+                            opportunity for misuse
+                        </li>
+                    </ul>
+                    <h3>Governance and Oversight</h3>
+                    <ul>
+                        <li>Our governance framework provides effective oversight of how we fairly treat customers and
+                            uphold market integrity.
+                        </li>
+                        <li>We engage with regulatory bodies in a timely, open and transparent manner.</li>
+                    </ul>
+                    <p>Activity and decision making within each global business, global function, and One IBC
+                        Operations, Services and Technology is expected to provide positive contribution to the global
+                        conduct outcomes, to ensure appropriate delivery of these outcomes.</p>
+                    <h2>Complaints handling</h2>
+                    <p>Our commitment to the highest standards of conduct and their embedding within our day to day
+                        activities is illustrated for example by our policy relating to complaints handling, which
+                        supports outcome:</p>
+                    <h3><b>We are open to challenge, we acknowledge when things go wrong, we fix things and we learn
+                        from our mistakes</b></h3>
+                    <p>Our global complaints policy sets out clear standards for:</p>
+                    <ul>
+                        <li>The processes by which we investigate and resolve complaints in a timely, unbiased, and
+                            effective manner
+                        </li>
+                        <li>Providing appropriate training to staff on our complaints processes, emphasising the need
+                            for empathy with customers
+                        </li>
+                        <li>Ensuring customers are aware of how to make a complaint via a variety of channels (for
+                            example via relationship managers, face to face, telephone, on-line, in writing)
+                        </li>
+                        <li>Resolving complaints at first point of contact wherever possible, and where this is not
+                            possible, providing an acknowledgement to the customer clearly setting out next steps
+                        </li>
+                        <li>Ensuring customers are kept regularly informed of progress to resolve the complaint</li>
+                        <li>Providing responses to customers upon completion of an investigation, clearly detailing the
+                            outcome and including, where appropriate, details of remedial action and any redress
+                        </li>
+                        <li>Notification to customers of any available rights of referral or appeal if the customer is
+                            dissatisfied with the handling of, or response to, the complaint
+                        </li>
+                        <li>Regular review of any “root causes” of complaints received to identify and address any
+                            systemic issues, and to inform process improvements where applicable
+                        </li>
+                        <li>Monitoring the quality and efficiency of our complaints handling, including adherence to
+                            relevant local regulatory requirements
+                        </li>
+                    </ul>
+                    <h3>Product governance and sales</h3>
+                    <p>This conduct commitment is further illustrated by our policy and procedures in respect of product
+                        governance and sales which support the customer pillar outcomes, and encompass standards
+                        for:</p>
+                    <ul>
+                        <li>The design, approval and ongoing maintenance of appropriate products/services, matched to
+                            customer needs, knowledge and experience
+                        </li>
+                        <li>Customer communications that are clear, fair and not misleading – for example highlighting
+                            risks and benefits in equal proportion
+                        </li>
+                        <li>Procedures where advice is provided and where advice is not provided</li>
+                        <li>Ongoing services for customers, post-sale</li>
+                        <li>Regular reviews of products to ensure they remain fit for purpose, and comply with
+                            applicable laws and regulatory requirements
+                        </li>
+                        <li>Sensitivity to, and support for, customers who are, or may become, vulnerable by reason for
+                            example of illness, disability, bereavement, or other changes in life circumstances
+                        </li>
+                        <li>Fair treatment of customers during account closure or product withdrawal/maturity, for
+                            example in terms of communication of what is happening and what alternatives are available
+                        </li>
+                        <li>Oversight of any third party manufacturers or distributors of our products</li>
+                        <li>Development and maintenance of our peoples’ training and competency, and applicable licences
+                            and regulatory approvals
+                        </li>
+                    </ul>
+                    <h3>Our Charter</h3>
+                    <p>Our Charter makes clear that if our staff have concerns that the standards contained in our
+                        policies and procedures, or any other aspects of our conduct are not being adhered to, they can
+                        speak up – for example:</p>
+                    <ul>
+                        <li>Direct to their line manager, HR or Regulatory Compliance, or</li>
+                        <li>Anonymously through One IBC Confidential our multi-channel, confidential, disclosure and
+                            follow-up investigation service.
+                        </li>
+                    </ul>
+                </div>
+                <div class="tab-pane fade" id="id3"><h1>One IBC - Client KYC requirement</h1>
+                    <h2>What can I show for identification and proof of address?</h2>
+                    <h3>Your proof of identity</h3>
+                    <p>Provide one of the documents below and make sure it's both current and a certified copy (not the
+                        original).</p>
+                    <ul>
+                        <li>Your current passport or travel document (copies of passports should include all pages that
+                            contain signatures, the passport number and any extension dates where applicable)
+                        </li>
+                    </ul>
+                    <h3>Your proof of address</h3>
+                    <p>Provide one of the documents below and make sure it's both recent and certified.</p>
+                    <ul>
+                        <li>Your valid overseas driving licence (a copy, not the original)</li>
+                        <li>A utility bill (Water, Electricity ) or Telephone bill or home broadband, Sky or cable TV
+                            bill, dated within the last four months. Mobile phone bills are not acceptable.
+                        </li>
+                        <li>A bank statement. It needs to be dated within the last four months</li>
+                    </ul>
+                    <h2>How do I get my documents certified?</h2>
+                    <p>Ask one of the possible certifiers below to write the relevant statement on each of the documents
+                        they verify, if any of the documents are more than one page long ask the certifier to write the
+                        statement on the first page and sign any subsequent page.</p>
+                    <p>We can only accept the following certifiers, they must be registered and active; financial
+                        institutions, lawyers, solicitors and notaries.</p>
+                    <p>Next, ask your chosen certifier to write this on the document they are certifying:</p>
+                    <h3>For documents that contain a photo:</h3>
+                    <p>I (full name of certifier) confirm that this is an accurate copy of the original and the photo is
+                        a true reflection of the applicant.</p>
+                    <h3>For documents that don't contain a photo:</h3>
+                    <p>I (full name of certifier) confirm that this is a true copy of the original document for (full
+                        name of customer).</p>
+                    <h3>Each document must also include:</h3>
+                    <ul>
+                        <li>certifier's signature and full name, they need to sign as an individual not a company</li>
+                        <li>certifier's occupation, company, professional address and phone number, ideally on letter
+                            headed paper
+                        </li>
+                        <li>certifier's professional registration number if they have one</li>
+                        <li>date of certification</li>
+                    </ul>
+                    <p>It is important each document contains this information as without it we may not be able to
+                        accept them. The person signing the document must be active in the profession and can't be a
+                        relative, friend or someone who lives at your address. We may contact them for verification.</p>
+                    <h3>Please remember your documents must:</h3>
+                    <ul>
+                        <li>be a certified true copy</li>
+                        <li>be in English or a certified translation to English</li>
+                        <li>certification and translation must be completed by the same person</li>
+                        <li>date of certification must be within the last three months</li>
+                        <li>not be an internet or branch print out</li>
+                        <li>show your full name (not initials) and address matching your application</li>
+                    </ul>
+                    <p>The same document cannot be used twice to verify identify and address, so a different document
+                        must be used to meet the regulations and the One IBC criteria.</p></div>
+                <div class="tab-pane fade" id="id4"><h1>ANTI-MONEY LAUNDERING AND COUNTER FINANCING TERRORISM
+                    POLICY<br/> ONE IBC LIMITED</h1>
+                    <p><b>Version: 1.1</b></p>
+                    <p>First version date: 01 April 2018. Latest update: 03 September 2018</p>
+                    <h3>One IBC: One IBC LIMITED, Trust or Company Service Providers (TCSPs) licensed no.: TC001305</h3>
+                    <h2>I.INTRODUCTION</h2>
+                    <p>ONE IBC is Private Limited company, a Company Services Provider (non-financial services) support
+                        to client worldwide to incorporation company, maintain and compliance with Hong Kong Company
+                        Registry as well as other related authority. ONE IBC committed to the highest standards in
+                        effort to comply with the applicable Anti Money Laundering and Counter Financing Terrorism
+                        (AML-CFT) standards. The Policy provides an introduction to anti money laundering and counter
+                        financing terrorism regulation.</p>
+                    <p>The Management (BOD) and all employees are required to adhere the standards to protect ONE IBC
+                        and its reputation from being misused for money laundering and/or terrorist financing or other
+                        illegal purposes.</p>
+                    <p>Government has enacted laws and rules designed to implement the anti-money laundering and counter
+                        financing terrorism. The goal of these laws is to detect and prevent money laundering and
+                        potential terrorist financing. ONE IBC will adhere to applicable laws and regulations in
+                        Singapore.</p>
+                    <p>ONE IBC will verify its AML – CFT framework, goals and strategies on an periodical basis and
+                        maintain an effective program for the ONE IBC’s business that reflects the best practices for
+                        financial institution in general.</p>
+                    <h2>II.STRUCTURE AND POLICY</h2>
+                    <p>ONE IBC has active Supervisory Board under Compliance Officer, and the implementation of AML –
+                        CFT Program handled by AML – CFT Officer and all the team members (“MLRO”) which has been
+                        appointed by the Management. The MLRO is responsible for adherence to applicable AML – CFT
+                        Program derived from AML-CTF procedure.</p>
+                    <p>ONE IBC has created a set of policy and procedures concerning general AML standards and
+                        principles. The governance ensures that the standards are implemented into day-to-day
+                        operational activities. All policy and procedures are published on accessible media so it can be
+                        accessed by all employees. They are subject to periodical review to ensure their conformity with
+                        recent and updated AML – CFT regulations.</p>
+                    <p>The scope of this policy covers all aspects of the Implementation of Anti Money Laundering and
+                        Counter-Financing Terrorism Prevention Program, namely:</p>
+                    <ol>
+                        <li>Active supervision of the Board of Directors</li>
+                        <li>Policies and Procedures;</li>
+                        <li>Internal Control;</li>
+                        <li>Information Management System; and</li>
+                        <li>Human Resources and Training</li>
+                    </ol>
+                    <h2>III.CUSTOMER DUE DILIGENCE</h2>
+                    <p>ONE IBC has implemented know your customer (KYC) procedure to assure all kinds of customers are
+                        subject to identification and verification process. The KYC has been implemented in all branches
+                        and business units. The goals are ONE IBC has sufficient information and data about the
+                        customers profile, whom they deals with, and also the Ultimate Beneficial Owners (UBOs). The
+                        procedures include mandatory documents requirements, enhanced due diligence for politically
+                        exposed persons (PEPs) and customers from high risk businessess or countries, name screening,
+                        and the ongoing monitoring and updating data of all existing customers.</p>
+                    <p>ONE IBC shall refuse to support or has to close an existing clients, if the following:</p>
+                    <ul>
+                        <li>Cannot fix a reasonable belief that it knows the true identity of the customer and/or UBOs
+                            and/or the nature of business concerning the identification of the customers are not met;
+                        </li>
+                        <li>Known and/or suspected the utilization of fake documents;</li>
+                        <li>Assets that are known or suspected to be the proceeds of criminal activity;</li>
+                        <li>Enter into business relationships with individuals or entities known or suspected to be a
+                            terrorist or a criminal organisation or listed on sanction lists;
+                        </li>
+                        <li>Maintain anonymous accounts or accounts operate for shell banks.</li>
+                    </ul>
+                    <h2>IV.REGULATORY REPORTING</h2>
+                    <p>ONE IBC has an obligation to report cash transaction with certain amount based on relevant
+                        regulation, suspicious transaction/activity, and international fund transfer. Suspicious
+                        transactions must be handled and escalated with approval of Compliance Officer prior reporting
+                        to regulator.</p>
+                    <h2>V.AML - CFT ENTITY RISK ASSESSMENT</h2>
+                    <p>The AML-CFT Entity Risk Assessment is prepared by conducting inherent risk assessment activities,
+                        establishing risk tolerance, formulating mitigation and risk control measures, residual risk
+                        evaluation, applying a risk-based approach, and reviewing and evaluating approaches based on
+                        risk. AML-CFT MLRO identifies, assesses, and understands the risks of money laundering and or
+                        criminal acts of Terrorism Financing based on customer, country or geographical factors,
+                        products, services, transactions or distribution channels (delivery channels).</p>
+                    <h2>VI.SANCTIONS COMPLIANCE</h2>
+                    <p>Sanctions Compliance Implementation is important in ONE IBC activities. ONE IBC obligates to
+                        establish restrictions and controls on the movement of goods, services, and customers' funds
+                        were transacted through the products and services that provided by ONE IBC. Sanctions Compliance
+                        implementation goal is to keep ONE IBC from compliance risk, operational risk and reputational
+                        risk exposure. ONE IBC implements AML-CFT Sanctions procedure as a form of risk mitigation and
+                        guidance to relevant working units. The implementation based on ONE IBC and Sanctions
+                        regulations issued by the government/local jurisdictions, international institutions /
+                        multilateral and clearing countries.</p>
+                    <h2>VII.RECORD RETENTION</h2>
+                    <p>ONE IBC has to record all data and or information regarding customers documents, client’s
+                        companies and/or its financial transactions (if any). ONE IBC maintains customers documentations
+                        for minimum of 5 (five) years, notwithstanding to longer retention as required. ONE IBC will
+                        provide information and/or documents competent authorities as ordered by laws and regulations,
+                        when required.</p>
+                    <h2>VIII.TRAINING</h2>
+                    <p>ONE IBC has implemented AML – CFT training program for all staff. ONE IBC’s training program is
+                        tailored to the operations and business unit to assure all staffs are aware of different
+                        patterns, methods, techniques, and typologies of money laundering or terrorist financing which
+                        may occur in daily operational activities. The training programs cover policy and procedures for
+                        the implementation of AML – CFT Program as well as roles and responsibilities of employees to
+                        assist in the eradication of money laundering or terrorist financing.</p>
+                    <h2>IX.INTERNAL CONTROL</h2>
+                    <p>ONE IBC has an effective internal control system. ONE IBC’s AML – CFT Program is subject to
+                        independent control by Internal Audit function. The control demonstrates the adequacy of policy,
+                        procedures, internal monitoring, and responsibilities of working units associated with the
+                        implementation of AML – CFT Program.</p>
+                    <p>This Policy is an integral part of ONE IBC’s Anti-Money Laundering and Counter Financing
+                        Terrorism Procedure and shall take effect from 01 April, 2018.</p>
+                    <p>Regards,</p>
+                    <p>Vu Dai Duong</p>
+                    <p>Risk &amp; Compliance Manager.</p></div>
+            </div>
+        </div>
+    </div>
+    <form id="fr-print-pdf" name="fr-print-pdf"><textarea hidden="hidden" id="content-print-pdf"
+                                                          name="content-print-pdf"></textarea> <input name="ar_keyword"
+                                                                                             type="hidden"
+                                                                                             value="one-ibc-safeguard">
+        <input name="ar_name" type="hidden" value="One IBC safeguard"></form>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '171.79.57.48',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'info',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

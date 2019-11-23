@@ -1,0 +1,1713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Company Formation Service | Download &amp; Form</title>
+    <meta content="Download forms, Hong Kong Private / Public Limited Rate card, Basic Features and Standard price for Hong Kong Private Limited, United Kingdom LTD Rate card, Basic Features and Standard price for the United Kingdom Private Limited by Shares company"
+          name="description">
+    <meta content="Download forms for company formation, download forms for company incorporation, download forms of setting up a company, download forms of incorporating a company, download form of company registration"
+          name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/company-formation"
+                                                                                 target="_self"
+                                                                                 title="Company Formation"> Company
+        Formation </a> <a href="/company-formation/download" target="_self" title="Download"> Download </a></div>
+</div>
+<div id="slider">
+    <div class="container-fluid nopadding">
+        <div class="carousel slide" data-ride="carousel" id="sliders">
+            <ol class="carousel-indicators">
+                <li class="active" data-slide-to="0" data-target="#sliders"></li>
+                <li data-slide-to="1" data-target="#sliders"></li>
+                <li data-slide-to="2" data-target="#sliders"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item active ">
+                    <div class="img-slider"><img alt="Start your BVI/Nevis company today"
+                                                 class="hidden-xs"
+                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-caribbean-promotion-bvinevis-1572418448.png"
+                                                 title="Start your BVI/Nevis company today"> <img alt="Start your BVI/Nevis company today"
+                                                                                                  class="hidden-md"
+                                                                                                  src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-caribbean-promotion-bvinevis-t-1571911860.png"
+                                                                                                  title="Start your BVI/Nevis company today">
+                    </div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>Start your BVI/Nevis company today</h1>
+                            <p>and receive Extra Rewards!</p> <a class="btn btn-default"
+                                                                 href="https://www.offshorecompanycorp.com/promotion/caribbean-promotion-bvinevis"
+                                                                 target="_self"
+                                                                 title="Start your BVI/Nevis company today"> Learn
+                                More </a></div>
+                    </div>
+                </div>
+                <div class="item ">
+                    <div class="img-slider"><img alt="Prime Location with New Our Officein Singapore"
+                                                 class="hidden-xs"
+                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/change-new-office-singapore-1551673607.png"
+                                                 title="Prime Location with New Our Officein Singapore"> <img
+                            alt="Prime Location with New Our Officein Singapore"
+                            class="hidden-md"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/change-new-office-singapore-t-1551673608.png"
+                            title="Prime Location with New Our Officein Singapore"></div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>Prime Location with New Our Office<br>in Singapore</h1>
+                            <p>Hot Offer to get 3 months FREE of Singapore Virtual Office</p> <a class="btn btn-default"
+                                                                                                 href="/insight/articles/announcement-of-singapore-office-relocation"
+                                                                                                 target="_self"
+                                                                                                 title="Prime Location with New Our Officein Singapore">
+                                Learn More </a></div>
+                    </div>
+                </div>
+                <div class="item ">
+                    <div class="img-slider"><img alt="Shanghai Event"
+                                                 class="hidden-xs"
+                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/happy-chinese-new-year-2019-1547612162.png" title="Shanghai Event"> <img alt="Shanghai Event"
+                                                                                                   class="hidden-md"
+                                                                                                   src="https://dusyzh85wmzqh.cloudfront.net/uploads/happy-chinese-new-year-2019-t-1547612163.png"
+                                                                                                   title="Shanghai Event">
+                    </div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>Shanghai Event</h1>
+                            <p>25% Discount Service Fees For All Services</p> <a class="btn btn-default"
+                                                                                 href="/promotion/chinese-new-year-2019-order-and-get-20-off-now"
+                                                                                 target="_self" title="Shanghai Event">
+                                Learn More </a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="menu-back">
+    <div class="container">
+        <div class="MultiCarousel" data-interval="1000" data-slide="1" id="MultiCarousel">
+            <div class="MultiCarousel-inner">
+                <div class="item "><a href="/company-formation" target="_self" title="Featured"> Featured </a></div>
+                <div class="item "><a href="/company-formation/jurisdiction" target="_self" title="Jurisdictions">
+                    Jurisdictions </a></div>
+                <div class="item "><a href="/company-formation/how-to-set-up" target="_self" title="How To Set Up"> How
+                    To Set Up </a></div>
+                <div class="item "><a href="/company-formation/fees" target="_self" title="Fees"> Fees </a></div>
+                <div class="item "><a href="/company-formation/nominee" target="_self" title="Nominee"> Nominee </a>
+                </div>
+                <div class="item "><a href="/company-formation/change-agent" target="_self" title="Change Agent"> Change
+                    Agent </a></div>
+                <div class="item "><a href="/company-formation/company-renewal" target="_self" title="Company Renewal">
+                    Company Renewal </a></div>
+                <div class="item "><a href="/company-formation/faq" target="_self" title="FAQs"> FAQs </a></div>
+                <div class="item active"><a href="/company-formation/download" target="_self" title="Download & Form">
+                    Download & Form </a></div>
+            </div>
+            <button class="leftLst"></button>
+            <button class="rightLst"></button>
+        </div>
+    </div>
+</div>
+<div class="padding-block paddingtop-mobile clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"><h1>Company formation - Download</h1>
+                <div class="row">
+                    <div class="col-md-12"><h3>1. Application Formation Form</h3></div>
+                    <div class="col-md-12">
+                        <table class="table table-most">
+                            <thead>
+                            <tr>
+                                <th><span> Description </span></th>
+                                <th class="text-center" style="width: 20%;"> QR Code</th>
+                                <th class="text-center"> Download</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td><strong>Application for Limited Company</strong>
+                                    <div class="date-grey">PDF | 2.10 MB | Updated time: 04 Sep, 2019, 11:38
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Application form for Limited Company processing </p></td>
+                                <td align="center"><img alt="Application for Limited Company" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/application-for-limited-company-1568689855.svg"
+                                                        title="Application for Limited Company"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/download/One-IBC-Application-Formation-Form-Limited-Updated-040919.pdf"
+                                        target="_self" title="Application for Limited Company"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-md-12"><h3>2. Business Plan Form</h3></div>
+                    <div class="col-md-12">
+                        <table class="table table-most">
+                            <thead>
+                            <tr>
+                                <th><span> Description </span></th>
+                                <th class="text-center" style="width: 20%;"> QR Code</th>
+                                <th class="text-center"> Download</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td><strong>Business Plan Form</strong>
+                                    <div class="date-grey">PDF | 899.46 kB | Updated time: 04 Sep, 2019, 11:59
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Business Plan Form for Company Incorporation </p></td>
+                                <td align="center"><img alt="Business Plan Form" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/business-plan-form-1568689857.svg"
+                                                        title="Business Plan Form" width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/download/One-IBC-Form-Business-Plan-New-client-Update-040919.pdf"
+                                        target="_self" title="Business Plan Form"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-md-12"><h3>3. Information Update Form</h3></div>
+                    <div class="col-md-12">
+                        <table class="table table-most">
+                            <thead>
+                            <tr>
+                                <th><span> Description </span></th>
+                                <th class="text-center" style="width: 20%;"> QR Code</th>
+                                <th class="text-center"> Download</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td><strong>Information Update Form</strong>
+                                    <div class="date-grey">PDF | 875.49 kB | Updated time: 04 Sep, 2019, 12:22
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Information Update Form for completing the Registry’s statutory
+                                        requirements </p></td>
+                                <td align="center"><img alt="Information Update Form" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/information-update-form-1568689858.svg"
+                                                        title="Information Update Form" width="130">
+                                </td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/download/One-IBC-Information-Update-Form-Updated-040919.pdf"
+                                        target="_self" title="Information Update Form"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-md-12"><h3>4. Rate card</h3></div>
+                    <div class="col-md-12">
+                        <table class="table table-most">
+                            <thead>
+                            <tr>
+                                <th><span> Description </span></th>
+                                <th class="text-center" style="width: 20%;"> QR Code</th>
+                                <th class="text-center"> Download</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td><strong>Labuan Company (Limited by Shares) Rate card</strong>
+                                    <div class="date-grey">PDF | 859.03 kB | Updated time: 18 Sep, 2019, 16:35
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Labuan Company (Limited by Shares) </p>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/OneIBC-Labuan-Company-Malaysia-Ratecard-16092019-1568795690.pdf"
+                                        target="_self" title="Labuan Company (Limited by Shares) Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Vietnam Wholly foreign-owned LLC Rate card</strong>
+                                    <div class="date-grey">PDF | 381.67 kB | Updated time: 18 Sep, 2019, 17:23
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Vietnam Wholly foreign-owned LLC Rate card </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-VN-Wholly-foreign-owned-LLC-Ratecard-16092019-1568796437.pdf"
+                                        target="_self" title="Vietnam Wholly foreign-owned LLC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Hong Kong Private / Public Limited Rate card</strong>
+                                    <div class="date-grey">PDF | 845.86 kB | Updated time: 18 Sep, 2019, 16:35
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Hong Kong Private Limited/ Public Limited
+                                        company </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Hong-Kong-Private-Public-Limited-Ratecard-16092019-1568795689.pdf"
+                                        target="_self" title="Hong Kong Private / Public Limited Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Saint Kitts and Nevis LLC Company Rate Card</strong>
+                                    <div class="date-grey">PDF | 708.92 kB | Updated time: 18 Sep, 2019, 16:42
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Saint Kitts and Nevis LLC Company </p>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Nevis-LLC-Ratecard-16092019-1568795908.pdf"
+                                        target="_self" title="Saint Kitts and Nevis LLC Company Rate Card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>United Kingdom LTD Rate card</strong>
+                                    <div class="date-grey">PDF | 736.97 kB | Updated time: 18 Sep, 2019, 17:22
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for United Kingdom Private Limited by Shares
+                                        company </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-United-Kingdom-Private-Limited-Ratecard-16092019-1568796436.pdf"
+                                        target="_self" title="United Kingdom LTD Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Saint Kitts and Nevis NBCO Company Rate Card</strong>
+                                    <div class="date-grey">PDF | 707.73 kB | Updated time: 18 Sep, 2019, 16:42
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Saint Kitts and Nevis NBCO Company </p>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Nevis-NBCO-Ratecard-16092019-1568795908.pdf"
+                                        target="_self" title="Saint Kitts and Nevis NBCO Company Rate Card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Cayman Islands Exempted (Limited by Shares) Rate card</strong>
+                                    <div class="date-grey">PDF | 1.04 MB | Updated time: 18 Sep, 2019, 16:32
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Cayman Islands Exempted (Limited by
+                                        Shares) Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Cayma-Islands-Exempt-Private-Limited-Ratecard-16092019-1568790139.pdf"
+                                        target="_self" title="Cayman Islands Exempted (Limited by Shares) Rate card">
+                                    <img alt="Download"
+                                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Singapore EPL Rate card</strong>
+                                    <div class="date-grey">PDF | 768.64 kB | Updated time: 18 Sep, 2019, 16:46
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Singapore Exempted Private Limited
+                                        Company </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Singapore-Exempt-Private-Limited-Ratecard-16092019-1568795910.pdf"
+                                        target="_self" title="Singapore EPL Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Seychelles IBC Rate card</strong>
+                                    <div class="date-grey">PDF | 804.10 kB | Updated time: 18 Sep, 2019, 16:46
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard Price for Seychelles International Business
+                                        Company </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Seychelles-IBC-Ratecard-16092019-1568795910.pdf"
+                                        target="_self" title="Seychelles IBC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Marshall Islands IBC Rate card</strong>
+                                    <div class="date-grey">PDF | 0 bytes | Updated time: 18 Sep, 2019, 16:49
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard Price for Marshall Islands International Business
+                                        Corporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-The Marshall Islands IBC - Ratecard - 16092019-1568796436.pdf"
+                                        target="_self" title="Marshall Islands IBC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Belize IBC Rate card</strong>
+                                    <div class="date-grey">PDF | 1,016.38 kB | Updated time: 18 Sep, 2019, 16:03
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard Price for Belize International Business Company </p>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Belize-IBC-Ratecard-16092019-1568790138.pdf"
+                                        target="_self" title="Belize IBC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Anguilla IBC Rate card</strong>
+                                    <div class="date-grey">PDF | 730.19 kB | Updated time: 18 Sep, 2019, 15:29
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Anguilla IBC Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Anguilla-IBC-Ratecard-16092019-1568790137.pdf"
+                                        target="_self" title="Anguilla IBC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Delaware LLC Rate card</strong>
+                                    <div class="date-grey">PDF | 1.42 MB | Updated time: 18 Sep, 2019, 16:34
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Delaware LLC Rate card </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Delaware-LLC-Ratecard-16092019-1568790140.pdf"
+                                        target="_self" title="Delaware LLC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>British Virgin Islands BC Rate card</strong>
+                                    <div class="date-grey">PDF | 915.69 kB | Updated time: 18 Sep, 2019, 16:03
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for British Virgin Islands BC
+                                        Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-BVI-BC-Ratecard-16092019-1568790139.pdf"
+                                        target="_self" title="British Virgin Islands BC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Samoa IC Rate card</strong>
+                                    <div class="date-grey">PDF | 1.03 MB | Updated time: 18 Sep, 2019, 16:46
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Samoa IC Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Samoa-IC-Ratecard-16092019-1568795909.pdf"
+                                        target="_self" title="Samoa IC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Vanuatu IC Rate card</strong>
+                                    <div class="date-grey">PDF | 728.48 kB | Updated time: 18 Sep, 2019, 17:22
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Vanuatu IC Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Vanuatu-Ratecard-16092019-1568796437.pdf"
+                                        target="_self" title="Vanuatu IC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Panama Non resident Rate card</strong>
+                                    <div class="date-grey">PDF | 700.79 kB | Updated time: 18 Sep, 2019, 16:43
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Panama Non resident Incorporation </p>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Panama-Non-resident-Ratecard-16092019-1568795908.pdf"
+                                        target="_self" title="Panama Non resident Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Gibraltar PL Rate card</strong>
+                                    <div class="date-grey">PDF | 701.58 kB | Updated time: 18 Sep, 2019, 16:35
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Gibraltar Private Limited </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Gibraltar-Private-Limited-Ratecard-16092019-1568795688.pdf"
+                                        target="_self" title="Gibraltar PL Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>The Bahamas IBC Rate card</strong>
+                                    <div class="date-grey">PDF | 695.24 kB | Updated time: 18 Sep, 2019, 15:30
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for The Bahamas IBC Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Bahamas-IBC-Ratecard-16092019-1568790138.pdf"
+                                        target="_self" title="The Bahamas IBC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Cyprus PL Rate card</strong>
+                                    <div class="date-grey">PDF | 822.50 kB | Updated time: 18 Sep, 2019, 16:33
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Cyprus PL Company Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Cyprus-Private-Limited-Ratecard-16092019-1568790139.pdf"
+                                        target="_self" title="Cyprus PL Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Malta Rate card</strong>
+                                    <div class="date-grey">PDF | 741.30 kB | Updated time: 18 Sep, 2019, 16:37
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Malta Company Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Malta-Rate-card-16092019-1568795690.pdf"
+                                        target="_self" title="Malta Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Cayman Islands LLC Rate card</strong>
+                                    <div class="date-grey">PDF | 1.05 MB | Updated time: 18 Sep, 2019, 16:33
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Cayman Islands LLC Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Cayman-Islands-LLC-Ratecard-16092019-1568790139.pdf"
+                                        target="_self" title="Cayman Islands LLC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Switzerland LLC GmbH Rate card</strong>
+                                    <div class="date-grey">PDF | 705.41 kB | Updated time: 18 Sep, 2019, 16:48
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Switzerland LLC GmbH </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Switzerland-LLC-GmbH-Ratecard-16092019-1568796434.pdf"
+                                        target="_self" title="Switzerland LLC GmbH Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Netherlands Rate card</strong>
+                                    <div class="date-grey">PDF | 714.64 kB | Updated time: 18 Sep, 2019, 16:38
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Netherlands Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Netherland-Ratecard-16092019-1568795907.pdf"
+                                        target="_self" title="Netherlands Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Luxembourg Soparfi Rate card</strong>
+                                    <div class="date-grey">PDF | 757.04 kB | Updated time: 18 Sep, 2019, 16:36
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Netherland Soparfi Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Luxembourg-Soparfi-Ratecard-16092019-1568795690.pdf"
+                                        target="_self" title="Luxembourg Soparfi Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>One IBC - UAE (Dubai DMCC) - Ratecard - 2019</strong>
+                                    <div class="date-grey">PDF | 711.58 kB | Updated time: 18 Sep, 2019, 16:50
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> One IBC - UAE (Dubai DMCC) - Ratecard - 2019 </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-UAE-Dubai-DMCC-Ratecard-16092019-1568796436.pdf"
+                                        target="_self" title="One IBC - UAE (Dubai DMCC) - Ratecard - 2019"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Liechtenstein - AG Rate card</strong>
+                                    <div class="date-grey">PDF | 713.10 kB | Updated time: 18 Sep, 2019, 16:36
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Liechtenstein - AG </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Liechtenstein-AG-Ratecard-16092019-1568795690.pdf"
+                                        target="_self" title="Liechtenstein - AG Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Liechtenstein - Anstalt Rate card</strong>
+                                    <div class="date-grey">PDF | 714.82 kB | Updated time: 18 Sep, 2019, 16:36
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Liechtenstein - Anstalt </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Liechtenstein-Anstalt-Ratecard-16092019-1568795690.pdf"
+                                        target="_self" title="Liechtenstein - Anstalt Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Vietnam Partly foreign-owned LLC Rate card</strong>
+                                    <div class="date-grey">PDF | 321.17 kB | Updated time: 18 Sep, 2019, 17:23
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Vietnam Partly foreign-owned LLC Rate card </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-VN-Partly-foreign-owned-LLC-Ratecard-16092019-1568796437.pdf"
+                                        target="_self" title="Vietnam Partly foreign-owned LLC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>United Kingdom LLP Rate card</strong>
+                                    <div class="date-grey">PDF | 736.83 kB | Updated time: 18 Sep, 2019, 17:22
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for United Kingdom Limited Liability
+                                        Partnership company </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-United-Kingdom-LLP-Rate-card-16092019-1568796436.pdf"
+                                        target="_self" title="United Kingdom LLP Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Marshall Islands LCC Rate card</strong>
+                                    <div class="date-grey">PDF | 859.92 kB | Updated time: 18 Sep, 2019, 16:45
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard Price for Marshall Islands LCC </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/ONE-IBC-RateCard-Marshall-Islands-LLC-16092019-1568795908.pdf"
+                                        target="_self" title="Marshall Islands LCC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Delaware C - Corp or S - Corp Rate card</strong>
+                                    <div class="date-grey">PDF | 1.42 MB | Updated time: 18 Sep, 2019, 16:34
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Delaware C-Corp or S-corp
+                                        Incorporation </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Delaware-C-Corp-or-S-Corp-Ratecard-16092019-1568790139.pdf"
+                                        target="_self" title="Delaware C - Corp or S - Corp Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Belize LLC Rate card</strong>
+                                    <div class="date-grey">PDF | 1.16 MB | Updated time: 18 Sep, 2019, 16:03
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard Price for Belize Limited Liability Corporation </p>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Belize-LLC-Rate-card-16092019-1568790138.pdf"
+                                        target="_self" title="Belize LLC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Mauritius GBC1 Rate card</strong>
+                                    <div class="date-grey">PDF | 712.51 kB | Updated time: 18 Sep, 2019, 16:38
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Global Business License Category 1 </p>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Mauritius-GBC1-Ratecard-16092019-1568795691.pdf"
+                                        target="_self" title="Mauritius GBC1 Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Luxembourg Commercial Rate card</strong>
+                                    <div class="date-grey">PDF | 747.75 kB | Updated time: 18 Sep, 2019, 16:36
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Netherland Commercial Incorporation </p>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Luxembourg-Commercial-Ratecard-16092019-1568795690.pdf"
+                                        target="_self" title="Luxembourg Commercial Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Mauritius Authorised Company (AC) Rate card</strong>
+                                    <div class="date-grey">PDF | 721.21 kB | Updated time: 18 Sep, 2019, 16:37
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Mauritius Authorised Company (AC) Rate card </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Mauritius-Authorised-Company-AC-Ratecard-16092019-1568795691.pdf"
+                                        target="_self" title="Mauritius Authorised Company (AC) Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Switzerland - Sole Proprietorship - Rate card</strong>
+                                    <div class="date-grey">PDF | 809.55 kB | Updated time: 18 Sep, 2019, 16:48
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Switzerland - Sole Proprietorship - Rate card </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Switzerland-Sole-Proprietorship-Ratecard-16092019-1568796435.pdf"
+                                        target="_self" title="Switzerland - Sole Proprietorship - Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>One IBC - UAE (RAK-FZE) - Ratecard - 2019</strong>
+                                    <div class="date-grey">PDF | 709.27 kB | Updated time: 18 Sep, 2019, 17:19
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> One IBC - UAE (RAK-FZE) - Ratecard - 2019 </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-UAE-RAK-FZE-Ratecard-6092019-1568796436.pdf"
+                                        target="_self" title="One IBC - UAE (RAK-FZE) - Ratecard - 2019"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Saint Vincent - Grenadines LLC Rate card</strong>
+                                    <div class="date-grey">PDF | 0 bytes | Updated time: 18 Sep, 2019, 16:45
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Basic Features and Standard price for Saint Vincent - Grenadines LLC </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Saint-Vincent-Grenadines-St-Vincent-LLC-Rate card -16092019-1568795909.pdf"
+                                        target="_self" title="Saint Vincent - Grenadines LLC Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Switzerland Stock Corporation (AG) - Rate card</strong>
+                                    <div class="date-grey">PDF | 789.38 kB | Updated time: 18 Sep, 2019, 16:48
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Switzerland Stock Corporation (AG) - Rate card </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Switzerland-Stock-Corporation-AG-Ratecard-16092019-1568796435.pdf"
+                                        target="_self" title="Switzerland Stock Corporation (AG) - Rate card"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>One IBC - UAE (RAK-IBC) - Ratecard - 2019</strong>
+                                    <div class="date-grey">PDF | 699.53 kB | Updated time: 18 Sep, 2019, 17:21
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> One IBC - UAE (RAK-IBC) - Ratecard - 2019 </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-UAE-RAK-IBC-Ratecard-16092019-1568796436.pdf"
+                                        target="_self" title="One IBC - UAE (RAK-IBC) - Ratecard - 2019"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-md-12"><h3>5. Sample Documents</h3></div>
+                    <div class="col-md-12">
+                        <table class="table table-most">
+                            <thead>
+                            <tr>
+                                <th><span> Description </span></th>
+                                <th class="text-center" style="width: 20%;"> QR Code</th>
+                                <th class="text-center"> Download</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td><strong>Business Registration Certificate Hong Kong Sample</strong>
+                                    <div class="date-grey">PDF | 133.03 kB | Updated time: 18 Jul, 2019, 12:56
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Business Registration Certificate Hong Kong Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/business-registration-certificate-hong-kong-sample-1568689854.svg"
+                                                        title="Business Registration Certificate Hong Kong Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/Business-Registration-Certificate-Hong-Kong-Sample-1563425774.pdf"
+                                        target="_self" title="Business Registration Certificate Hong Kong Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation United Kingdom LTD Sample</strong>
+                                    <div class="date-grey">PDF | 2.27 MB | Updated time: 22 Nov, 2018, 10:57
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation United Kingdom LTD Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-united-kingdom-ltd-sample-1568689864.svg"
+                                                        title="Certificate of Incorporation United Kingdom LTD Sample"
+                                                        width="130">
+                                </td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-United-Kingdom-LTD-Sample-1542855394.pdf"
+                                        target="_self" title="Certificate of Incorporation United Kingdom LTD Sample">
+                                    <img alt="Download"
+                                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Bizfile Singapore Sample</strong>
+                                    <div class="date-grey">PDF | 5.73 MB | Updated time: 22 Nov, 2018, 11:03
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Bizfile Singapore Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/bizfile-singapore-sample-1568689891.svg"
+                                                        title="Bizfile Singapore Sample" width="130">
+                                </td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/Bizfile-Singapore-Sample-1542855811.pdf"
+                                        target="_self" title="Bizfile Singapore Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Seychelles Sample</strong>
+                                    <div class="date-grey">PDF | 2.30 MB | Updated time: 22 Nov, 2018, 11:06
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Seychelles Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-seychelles-sample-1568689892.svg"
+                                                        title="Certificate of Incorporation Seychelles Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Seychelles-Sample-1542855977.pdf"
+                                        target="_self" title="Certificate of Incorporation Seychelles Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation British Virgin Islands</strong>
+                                    <div class="date-grey">PDF | 222.12 kB | Updated time: 22 Nov, 2018, 11:07
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation British Virgin Islands" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-british-virgin-islands-1568689894.svg"
+                                                        title="Certificate of Incorporation British Virgin Islands"
+                                                        width="130">
+                                </td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-British-Virgin-Islands-Sample-1542855976.pdf"
+                                        target="_self" title="Certificate of Incorporation British Virgin Islands"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Belize Sample</strong>
+                                    <div class="date-grey">PDF | 19.33 MB | Updated time: 22 Nov, 2018, 11:17
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Belize Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-belize-sample-1568689895.svg"
+                                                        title="Certificate of Incorporation Belize Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Belize-Sample-1542856649.pdf"
+                                        target="_self" title="Certificate of Incorporation Belize Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Mauritius Sample</strong>
+                                    <div class="date-grey">PDF | 8.71 MB | Updated time: 22 Nov, 2018, 11:18
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Mauritius Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-mauritius-sample-1568689896.svg"
+                                                        title="Certificate of Incorporation Mauritius Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/CI-Mautirius-Sample-1542856647.pdf"
+                                        target="_self" title="Certificate of Incorporation Mauritius Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>COI Asian Interchange Market Inc Sample</strong>
+                                    <div class="date-grey">PDF | 404.16 kB | Updated time: 24 Dec, 2018, 11:41
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Certificate of Incorporation Interchange Market Inc (sample) </p></td>
+                                <td align="center"><img alt="COI Asian Interchange Market Inc Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/coi-asian-interchange-market-inc-sample-1568689898.svg"
+                                                        title="COI Asian Interchange Market Inc Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Asian-Interchange-Market-Inc-Sample-1542856787.pdf"
+                                        target="_self" title="COI Asian Interchange Market Inc Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Cyprus Sample</strong>
+                                    <div class="date-grey">PDF | 723.15 kB | Updated time: 22 Nov, 2018, 11:21
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Cyprus Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-cyprus-sample-1568689899.svg"
+                                                        title="Certificate of Incorporation Cyprus Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Cyrus-Sample-1542856900.pdf"
+                                        target="_self" title="Certificate of Incorporation Cyprus Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation The Bahamas Sample</strong>
+                                    <div class="date-grey">PDF | 6.19 MB | Updated time: 11 Jan, 2019, 11:57
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation The Bahamas Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-the-bahamas-sample-1568689900.svg"
+                                                        title="Certificate of Incorporation The Bahamas Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/CI-Bahamas-Sample-1542856898.pdf"
+                                        target="_self" title="Certificate of Incorporation The Bahamas Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Saint Vincent Grenadines Sample</strong>
+                                    <div class="date-grey">PDF | 2.88 MB | Updated time: 22 Nov, 2018, 11:23
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Saint Vincent Grenadines Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-saint-vincent-grenadines-sample-1568689902.svg"
+                                                        title="Certificate of Incorporation Saint Vincent Grenadines Sample"
+                                                        width="130">
+                                </td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Saint-Vincent-Sample-1542856985.pdf"
+                                        target="_self"
+                                        title="Certificate of Incorporation Saint Vincent Grenadines Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Marshall Islands Sample</strong>
+                                    <div class="date-grey">PDF | 8.10 MB | Updated time: 22 Nov, 2018, 11:23
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Marshall Islands Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-marshall-islands-sample-1568689903.svg"
+                                                        title="Certificate of Incorporation Marshall Islands Sample"
+                                                        width="130">
+                                </td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/CI-Marshall-of-Island-Sample-1542856983.pdf"
+                                        target="_self" title="Certificate of Incorporation Marshall Islands Sample">
+                                    <img alt="Download"
+                                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Anguilla Sample</strong>
+                                    <div class="date-grey">PDF | 2.00 MB | Updated time: 22 Nov, 2018, 11:24
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Anguilla Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-anguilla-sample-1568689904.svg"
+                                                        title="Certificate of Incorporation Anguilla Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Anguilla-Sample-1542857059.pdf"
+                                        target="_self" title="Certificate of Incorporation Anguilla Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Samoa Sample</strong>
+                                    <div class="date-grey">PDF | 893.05 kB | Updated time: 23 Nov, 2018, 15:37
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Samoa Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-samoa-sample-1568689906.svg"
+                                                        title="Certificate of Incorporation Samoa Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Samoa-Sample-1542857061.pdf"
+                                        target="_self" title="Certificate of Incorporation Samoa Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Vanuatu Sample</strong>
+                                    <div class="date-grey">PDF | 5.07 MB | Updated time: 22 Nov, 2018, 11:27
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Vanuatu Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-vanuatu-sample-1568689907.svg"
+                                                        title="Certificate of Incorporation Vanuatu Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/ROGForex-Limited-Certificate-Incorporation-Vanuatu-Sample-1542857227.pdf"
+                                        target="_self" title="Certificate of Incorporation Vanuatu Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation United Arab Emirates (UAE) Sample</strong>
+                                    <div class="date-grey">PDF | 172.17 kB | Updated time: 24 Dec, 2018, 17:17
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation United Arab Emirates (UAE) Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-united-arab-emirates-(uae)-sample-1568689908.svg"
+                                                        title="Certificate of Incorporation United Arab Emirates (UAE) Sample"
+                                                        width="130">
+                                </td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-RAK-Sample-1542857308.pdf"
+                                        target="_self"
+                                        title="Certificate of Incorporation United Arab Emirates (UAE) Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Malta Sample</strong>
+                                    <div class="date-grey">PDF | 219.54 kB | Updated time: 22 Nov, 2018, 11:30
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"><img alt="Certificate of Incorporation Malta Sample" height="130"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/qrcode/certificate-of-incorporation-malta-sample-1568689910.svg"
+                                                        title="Certificate of Incorporation Malta Sample"
+                                                        width="130"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Malta-Sample-1542857385.pdf"
+                                        target="_self" title="Certificate of Incorporation Malta Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Hong Kong Sample</strong>
+                                    <div class="date-grey">PDF | 182.09 kB | Updated time: 28 Dec, 2018, 10:46
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/Certificate-of-Incorporation-Hong-Kong-Sample-1545965018.pdf"
+                                        target="_self" title="Certificate of Incorporation Hong Kong Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>N01 United Kingdom LTD Sample</strong>
+                                    <div class="date-grey">PDF | 2.18 MB | Updated time: 22 Nov, 2018, 10:58
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/N01-United-Kingdom-LTD-Sample-1542855395.pdf"
+                                        target="_self" title="N01 United Kingdom LTD Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Singapore Comparison Of The Forms Of Business Organisations</strong>
+                                    <div class="date-grey">PDF | 1.82 MB | Updated time: 22 Nov, 2018, 11:04
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/Singapore-Legal-Form-Comparison-Table-OneIBC-017-1542855814.pdf"
+                                        target="_self"
+                                        title="Singapore Comparison Of The Forms Of Business Organisations"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Memorandum And Articles of Association British Virgin Islands</strong>
+                                    <div class="date-grey">PDF | 9.33 MB | Updated time: 22 Nov, 2018, 11:07
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/MA-British-Virgin-Islands-Sample-1542855978.pdf"
+                                        target="_self"
+                                        title="Memorandum And Articles of Association British Virgin Islands"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation Cayman Island Sample</strong>
+                                    <div class="date-grey">PDF | 4.13 MB | Updated time: 24 Dec, 2018, 11:41
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Certificate of Incorporation Cayman Island (Sample) </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/COI-Cayman-Sample-1542856775.pdf"
+                                        target="_self" title="Certificate of Incorporation Cayman Island Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Memorandum And Articles of Association Samoa Sample</strong>
+                                    <div class="date-grey">PDF | 1.28 MB | Updated time: 22 Nov, 2018, 11:25
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/MA-Samoa-Sample-1542857139.pdf"
+                                        target="_self" title="Memorandum And Articles of Association Samoa Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Memorandum and Articles of Association United Arab Emirates (UAE)
+                                    Sample</strong>
+                                    <div class="date-grey">PDF | 1.31 MB | Updated time: 04 Jan, 2019, 11:52
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/memorandum-articles-association-united-arab-emirates-1546573935.pdf"
+                                        target="_self"
+                                        title="Memorandum and Articles of Association United Arab Emirates (UAE) Sample">
+                                    <img alt="Download"
+                                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Memorandum And Articles of Association Malta Sample</strong>
+                                    <div class="date-grey">PDF | 6.64 MB | Updated time: 22 Nov, 2018, 11:30
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/MA-Malta-Sample-1542857386.pdf"
+                                        target="_self" title="Memorandum And Articles of Association Malta Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Memorandum And Articles of Association Hong Kong Sample</strong>
+                                    <div class="date-grey">PDF | 7.06 MB | Updated time: 28 Dec, 2018, 10:45
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/Memorandum-Articles-Association-Hong-Kong-Sample-1545965019.pdf"
+                                        target="_self" title="Memorandum And Articles of Association Hong Kong Sample">
+                                    <img alt="Download"
+                                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate of Incorporation United Kingdom LLP Sample</strong>
+                                    <div class="date-grey">PDF | 2.30 MB | Updated time: 22 Nov, 2018, 10:59
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/CI-United-Kingdom-LLP-Sample-1542855392.pdf"
+                                        target="_self" title="Certificate of Incorporation United Kingdom LLP Sample">
+                                    <img alt="Download"
+                                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Singapore Standard Industrial Classification SSIC</strong>
+                                    <div class="date-grey">XLS | 369.00 kB | Updated time: 02 Jan, 2019, 11:49
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Singapore Standard Industrial Classification SSIC </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/singapore-standard-industrial-classification-ssic-1546400810.xls"
+                                        target="_self" title="Singapore Standard Industrial Classification SSIC"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>NNC1 Hong Kong Sample</strong>
+                                    <div class="date-grey">PDF | 4.70 MB | Updated time: 28 Dec, 2018, 10:44
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/NNC1-Hong-Kong-Sample-1545965020.pdf"
+                                        target="_self" title="NNC1 Hong Kong Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>LLIN01 United Kingdom LLP Sample</strong>
+                                    <div class="date-grey">PDF | 4.87 MB | Updated time: 22 Nov, 2018, 11:00
+                                        (UTC+08:00)
+                                    </div>
+                                </td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/LLIN01-United-Kingdom-LLP-Sample-1542855394.pdf"
+                                        target="_self" title="LLIN01 United Kingdom LLP Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Certificate Confirming Singapore Company Incorporation Sample</strong>
+                                    <div class="date-grey">PDF | 168.70 kB | Updated time: 02 Jan, 2019, 11:50
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Certificate Confirming Singapore Company Incorporation Sample </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/certificate-confirming-singapore-company-incorporation-sample-1546400856.pdf"
+                                        target="_self"
+                                        title="Certificate Confirming Singapore Company Incorporation Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Constitution of Singapore Company Sample</strong>
+                                    <div class="date-grey">PDF | 430.91 kB | Updated time: 02 Jan, 2019, 11:50
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Constitution of Singapore Company Sample </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/constitution-of-singapore-company-sample-1546400857.pdf"
+                                        target="_self" title="Constitution of Singapore Company Sample"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            <tr>
+                                <td><strong>Trademark registration MT4 form</strong>
+                                    <div class="date-grey">PDF | 72.55 kB | Updated time: 03 Jan, 2019, 16:28
+                                        (UTC+08:00)
+                                    </div>
+                                    <p> Trademark registration MT4 form </p></td>
+                                <td align="center"></td>
+                                <td class="download"><a
+                                        href="https://dusyzh85wmzqh.cloudfront.net/uploads/trademark-registration-mt4-form-1546504121.pdf"
+                                        target="_self" title="Trademark registration MT4 form"> <img
+                                        alt="Download"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '182.68.2.233',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'offshorecompanyformation',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Payment Guidelines</title>
+    <meta content="Payment Guidelines" name="description">
+    <meta content="Payment Guidelines" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<script> commands.push(function () {
+    $(document).ready(function () {
+        $("#print-pdf").click(function () {
+            var node = document.getElementById('content_ar_single');
+            var htmlContent = node.innerHTML;
+            $("#content-print-pdf").text(htmlContent);
+            $("#fr-print-pdf").prop("action", "/print-content-pdf");
+            $("#fr-print-pdf").prop("method", "post");
+            $("#fr-print-pdf").attr('target', '_blank');
+            $("#fr-print-pdf").submit();
+        });
+    })
+}); </script>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/info/payment-guidelines"
+                                                                                 target="_self"
+                                                                                 title="Payment Guidelines"> Payment
+        Guidelines </a></div>
+</div>
+<div class="paddingtop-mobile">
+    <div class="container" id="content_ar_single"><h1>Payment Guidelines</h1>
+        <div class="row margin-bt15">
+            <div class="col-md-12">
+                <div class="pull-right"><a class="download-file" id="print-pdf" style="cursor: pointer" target="_self"
+                                           title="Download"> <img
+                        align="absmiddle"
+                        alt="Download" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-file-download.svg" title="Download"> Download </a></div>
+                <div class="date-detail margin0"> Updated time: 03 Jun, 2019, 11:26 (UTC+08:00)</div>
+            </div>
+        </div>
+        <div class="content-format">
+            <p>
+                <style type="text/css"> .block-bank {
+                    float: left;
+                    width: 49%;
+                    height: 320px;
+                    border-radius: 3px;
+                    margin: 10px 5px 10px 5px;
+                    padding: 10px 10px 10px 10px;
+                    webkit-box-shadow: inset 0px -1px 0px 2px #CCCCCC;
+                    -moz-box-shadow: inset 0px -1px 0px 2px #CCCCCC;
+                    box-shadow: inset 0px -1px 0px 2px #CCCCCC;
+                    border-radius: 3px;
+                }
+
+                .block-bank ul {
+                    margin: 0px 0px 0px 0px;
+                    list-style: disc;
+                }
+
+                .block-bank ul li {
+                    list-style: disc;
+                }
+
+                @media all and (max-width: 1024px) {
+                    .block-bank {
+                        width: 100%;
+                        height: auto;
+                    }
+
+                    .block-bank ul {
+                        margin: 0px 0px 0px 0px;
+                        list-style: square;
+                    }
+                }
+
+                @media all and (max-width: 500px) {
+                    .block-bank {
+                        width: 100%;
+                        height: auto;
+                    }
+
+                    .block-bank ul {
+                        margin: 0px 0px 0px 0px;
+                        list-style: square;
+                    }
+                }
+
+                @media all and (max-width: 355px) {
+                    .block-bank {
+                        width: 100%;
+                        height: auto;
+                    }
+
+                    .block-bank ul {
+                        margin: 0px 0px 0px 0px;
+                        list-style: square;
+                    }
+                } </style>
+            </p>
+            <p>You agree to pay the fees charged by Offshore Company Corp. Offshore Company Corp’s schedule of fees can
+                be found in the price list available on the website. Offshore Company Corp start an execution phase only
+                after the receipt of the full payment of the fees. All fees and charges are payable in the currency
+                nominated by Offshore Company Corp, which is USD (US dollar).</p>
+            <p style="text-align: center;"><a
+                    href="https://dusyzh85wmzqh.cloudfront.net/uploads/OneIBC-Bank-Wire-Payment-Ins-USD-EUR-Update-03-June-019-1559531581.pdf">
+                <button class="btn btn-primary btn-lg" type="button">Download Bank Wire Payment Instructions</button>
+            </a></p>
+            <p><b>We offer 3 methods of payment as below:</b></p>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading heading-red clearfix"><h2>1. Pay by Bank Wire Transfer</h2></div>
+                    <div class="toggle-content"><p><strong>Note:</strong></p>
+                        <ul>
+                            <li>Purpose of transfer: This field is mandatory to apply the funds.</li>
+                            <li>The invoice number must be provided together with payment. If you are paying for
+                                multiple invoices, please provide all invoice numbers in full and separated by " / "
+                                with a space before and after.
+                            </li>
+                            <li>Your payment has to include all bank charges, intermediary bank charges, agent fees, and
+                                all local and overseas relevant charges.
+                            </li>
+                            <li>For questions about our bank account information, please email&#160;<strong><a
+                                    class="__cf_email__" data-cfemail="98ebede8e8f7eaecd8f7fefeebf0f7eafdfbf7f5e8f9f6e1fbf7eae8b6fbf7f5"
+                                    href="/cdn-cgi/l/email-protection">[email&#160;protected]</a></strong>&#160;or
+                                call us on&#160;<strong>+852 8199 0468</strong>.
+                            </li>
+                        </ul>
+                        <div class="toggles nopadding">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><h2>USD Currency</h2></div>
+                                <div class="toggle-content">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="block-bank"><h3>1.1.1. Bank Account in Hong Kong – HSBC Bank
+                                                Ltd</h3> <img
+                                                    alt="Bank in Hong Kong"
+                                                    height="40" src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-hsbc-1541587974.svg" title="Bank in Hong Kong"
+                                                    width="193"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <b>One IBC Limited</b></li>
+                                                    <li>Beneficiary Bank Name: The Hong Kong and Shanghai Banking
+                                                        Corporation Limited
+                                                    </li>
+                                                    <li>Beneficiary Bank Address: 141 Des Voeux Road Central, Hong
+                                                        Kong.
+                                                    </li>
+                                                    <li>Account Number (USD): <b>652483900838</b></li>
+                                                    <li>Beneficiary Bank SWIFT code: <b>HSBCHKHHHKH</b></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>HSBC Bank USA
+                                                        NA, New York, USA.</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>MRMDUS33</strong></em></li>
+                                                </ul>
+                                            </div>
+                                            <div class="block-bank"><h3>1.1.2. Bank Account in Singapore – HSBC Bank
+                                                Ltd</h3> <img
+                                                    alt="Bank Account in Singapore – HSBC Bank Ltd"
+                                                    height="40"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-hsbc-1541587974.svg" title="Bank Account in Singapore – HSBC Bank Ltd"
+                                                    width="215"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Pte. Ltd</strong></li>
+                                                    <li>Beneficiary Bank Name: The Hong Kong and Shanghai Banking
+                                                        Corporation Limited
+                                                    </li>
+                                                    <li>Beneficiary Bank Address: 19-00 HSBC Building, 21 Collyer Quay,
+                                                        Singapore 049320 Singapore
+                                                    </li>
+                                                    <li>Account Number (USD): <strong>260226071179</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>HSBCSGSGXXX</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>HSBC Bank USA
+                                                        NA, New York, USA</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>MRMDUS33</strong></em></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="block-bank"><h3>1.1.3. Bank Account in Singapore – OCBC Bank
+                                                Ltd</h3> <img
+                                                    alt="Bank in Singapore: OCBC Bank"
+                                                    height="40"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-ocbc-1540539178.svg" title="Bank in Singapore: OCBC Bank" width="215"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Limited</strong></li>
+                                                    <li>Beneficiary Bank Name: Oversea-Chinese Banking Corporation
+                                                        Limited
+                                                    </li>
+                                                    <li>Beneficiary Bank Address: 65 Chulia Street #01 01 Singapore,
+                                                        049513.
+                                                    </li>
+                                                    <li>Account Number (USD): <strong>503291262301</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>OCBCSGSG</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>JPMorgan
+                                                        Chase Bank, New York, USA</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>CHASUS33</strong></em></li>
+                                                </ul>
+                                            </div>
+                                            <div class="block-bank"><h3>1.1.4. Bank Account in Cyprus – Bank of Cyprus
+                                                Ltd</h3> <img
+                                                    alt="Bank Account in Cyprus – Bank of Cyprus Ltd"
+                                                    height="43"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-cyrus-1540539177.svg" title="Bank Account in Cyprus – Bank of Cyprus Ltd"
+                                                    width="231"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Limited</strong></li>
+                                                    <li>Beneficiary Bank Name: BANK OF CYPRUS PUBLIC COMPANY LTD</li>
+                                                    <li>Beneficiary Bank Address: 51 Stassinos Street, Ayia Paraskevi,
+                                                        P.O. Box 21472, CY1599 Nicosia, Cyprus.
+                                                    </li>
+                                                    <li>Account Number (USD): <strong>357031677454</strong></li>
+                                                    <li>IBAN: <strong>CY90002001950000357031677454</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>BCYPCY2N</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>Citibank NA,
+                                                        New York, USA</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>CITIUS33XXX</strong></em></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="block-bank"><h3>1.1.5. Bank Account in Mauritius – ABC
+                                                Banking</h3> <img
+                                                    alt="Bank Account in Mauritius – ABC Banking"
+                                                    height="40" src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-abc-1540539176.svg"
+                                                    title="Bank Account in Mauritius – ABC Banking"
+                                                    width="215"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Limited</strong></li>
+                                                    <li>Beneficiary Bank Name: ABC Banking Corporation Ltd</li>
+                                                    <li>Beneficiary Bank Address: WEAL House, Duke of Edinburgh Avenue,
+                                                        Place D’Armes, 11328, Port Louis, Mauritius.
+                                                    </li>
+                                                    <li>Account Number (USD): <strong>002801003350701</strong></li>
+                                                    <li>IBAN (USD): <strong>MU15ABCK2702801003350701000USD</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>ABCKMUMU</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>Standard
+                                                        Chartered Bank, New York, USA.</strong></em></li>
+                                                    <li><em style="color:#06F">Account No of Correspondent Bank:
+                                                        <strong>3582028108001</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>SCBLUS33</strong></em></li>
+                                                </ul>
+                                            </div>
+                                            <div class="block-bank"><h3>1.1.6. Bank Account in Puerto Rico - Euro
+                                                Pacific Intl. Bank Inc.</h3> <img
+                                                    alt="Bank Account in Puerto Rico - Euro Pacific Intl. Bank Inc."
+                                                    height="40"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-euro-1540539177.svg"
+                                                    title="Bank Account in Puerto Rico - Euro Pacific Intl. Bank Inc." width="215"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Limited</strong></li>
+                                                    <li>Beneficiary Bank Name: Euro Pacific Intl. Bank Inc.</li>
+                                                    <li>Beneficiary Bank Address: 53 Palmeras St., 10th Floor, San Juan,
+                                                        00901, Puerto Rico.
+                                                    </li>
+                                                    <li>Account Number (USD): <strong>1000565179</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>EUPNPRSJXXX</strong></li>
+                                                    <li>ABA Routing Number: <strong>021502820</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>Federal
+                                                        Reserve Bank of New York</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>FRNYUS33XXX</strong></em></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><h2>EUR Currency</h2></div>
+                                <div class="toggle-content">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="block-bank"><h3>1.2.1. Bank Account in Hong Kong – HSBC Bank
+                                                Ltd</h3> <img
+                                                    alt="Bank in Hong Kong"
+                                                    height="40" src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-hsbc-1544000927.svg" title="Bank in Hong Kong"
+                                                    width="193"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Limited</strong></li>
+                                                    <li>Beneficiary Bank Name: The Hong Kong and Shanghai Banking
+                                                        Corporation Limited
+                                                    </li>
+                                                    <li>Beneficiary Bank Address: 141 Des Voeux Road Central, Hong
+                                                        Kong.
+                                                    </li>
+                                                    <li>Account Number (EUR): <strong>652483900838</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>HSBCHKHHHKH</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>HSBC Bank
+                                                        plc, London.</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>MIDLGB22</strong></em></li>
+                                                </ul>
+                                            </div>
+                                            <div class="block-bank"><h3>1.2.2. Bank Account in Singapore – HSBC Bank
+                                                Ltd</h3> <img
+                                                    alt="Bank Account in Singapore – HSBC Bank Ltd"
+                                                    height="40"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-hsbc-1544000927.svg" title="Bank Account in Singapore – HSBC Bank Ltd"
+                                                    width="193"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Pte. Ltd</strong></li>
+                                                    <li>Beneficiary Bank Name: The Hong Kong and Shanghai Banking
+                                                        Corporation Limited, Singapore Branch.
+                                                    </li>
+                                                    <li>Beneficiary Bank Address: 21 Collyer Quay, HSBC Building Level
+                                                        1, Singapore 049320.
+                                                    </li>
+                                                    <li>Account Number (EUR): <strong>260226071178</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>HSBCHKHHHKH</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>HSBC
+                                                        France.</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>CCFRFRPP</strong></em></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="block-bank"><h3>1.2.3. Bank Account in Cyprus – Bank of Cyprus
+                                                Ltd</h3> <img
+                                                    alt="Bank Account in Cyprus – Bank of Cyprus Ltd"
+                                                    height="40"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-cyrus-1540539177.svg" title="Bank Account in Cyprus – Bank of Cyprus Ltd"
+                                                    width="215"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Limited</strong></li>
+                                                    <li>Beneficiary Bank Name: BANK OF CYPRUS PUBLIC COMPANY LTD</li>
+                                                    <li>Beneficiary Bank Address: 51 Stassinos Street, Ayia Paraskevi,
+                                                        P.O. Box 21472, CY1599 Nicosia, Cyprus.
+                                                    </li>
+                                                    <li>Account Number (EUR): <strong>357031677403</strong></li>
+                                                    <li>IBAN: <strong>CY12002001950000357031677403</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>BCYPCY2N</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>Deutsche Bank
+                                                        AG, Frankfurt/M</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>DEUTDEFFXXX</strong></em></li>
+                                                </ul>
+                                            </div>
+                                            <div class="block-bank"><h3>1.2.4. Bank Account in Mauritius – ABC
+                                                Banking</h3> <img
+                                                    alt="Bank Account in Mauritius – ABC Banking"
+                                                    height="40"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-abc-1540539176.svg" title="Bank Account in Mauritius – ABC Banking"
+                                                    width="215"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Limited</strong></li>
+                                                    <li>Beneficiary Bank Name: ABC Banking Corporation Ltd</li>
+                                                    <li>Beneficiary Bank Address: WEAL House, Duke of Edinburgh Avenue,
+                                                        Place D’Armes, 11328, Port Louis, Mauritius.
+                                                    </li>
+                                                    <li>Account Number (EUR): 002801003350702</li>
+                                                    <li>IBAN (EUR): <strong>MU20ABCK2702801003350702000EUR</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>ABCKMUMU</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>Societe
+                                                        Generale Paris France.</strong></em></li>
+                                                    <li><em style="color:#06F">Account No of Correspondent Bank:
+                                                        <strong>001016145690</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>SOGEFRPP</strong></em></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="block-bank"><h3>1.2.5. Bank Account in Puerto Rico - Euro
+                                                Pacific Intl. Bank Inc</h3> <img
+                                                    alt="Bank Account in Puerto Rico - Euro Pacific Intl. Bank Inc"
+                                                    height="40"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/bank-euro-1540539177.svg"
+                                                    title="Bank Account in Puerto Rico - Euro Pacific Intl. Bank Inc" width="215"/>
+                                                <ul>
+                                                    <li>Beneficiary Name: <strong>One IBC Limited</strong></li>
+                                                    <li>Beneficiary Bank Name: Euro Pacific Intl. Bank Inc</li>
+                                                    <li>Beneficiary Bank Address: 53 Palmeras St., 10th Floor, San Juan,
+                                                        00901, Puerto Rico.
+                                                    </li>
+                                                    <li>Account Number (EUR): <strong>1000565233</strong></li>
+                                                    <li>Beneficiary Bank SWIFT code: <strong>EUPNPRSJXXX</strong></li>
+                                                    <li><em style="color:#06F">Correspondent Bank: <strong>National
+                                                        Westminster Bank PLC</strong></em></li>
+                                                    <li><em style="color:#06F">Swift Code of Correspondent Bank:
+                                                        <strong>NWBKGB2LXXX</strong></em></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading heading-red clearfix"><h2>2. Settle the payment by credit/debit card
+                        (Visa, Mastercard and American Express)</h2></div>
+                    <div class="toggle-content"><p>For your convenience, payments can be made over the Internet using
+                        your Credit/Debit card.</p>
+                        <p><strong>List of Credit Card we accepted for this option:</strong></p>
+                        <p><img alt="Visa" height="40"
+                                src="https://dusyzh85wmzqh.cloudfront.net/uploads/visa-1540540604.svg" title="Visa"
+                                width="90"/><img alt="Master" height="43"
+                                                   src="https://dusyzh85wmzqh.cloudfront.net/uploads/master-1540540604.svg"
+                                                   title="Master" width="74"/><img
+                                alt="Amex" height="40"
+                                src="https://dusyzh85wmzqh.cloudfront.net/uploads/amex-1540540603.svg" title="Amex" width="42"/></p>
+                        <p>When you go to payment page, you have provide to us:</p>
+                        <ol>
+                            <li>Your billing information: relate to Billing person name, Country, ZIP code...</li>
+                            <li>Your credit card information: Relate to Credit Card number, Expiry date, CVV or CVC.
+                            </li>
+                        </ol>
+                        <p>All information you provided over secure connection via TLS/SSL, we are comply with PCI-DSS
+                            (Payment Card Industry - Data Security Standard) for your transaction.</p>
+                        <ul>
+                            <li>If you have any questions regarding credit card transactions, please contact: <a
+                                    class="__cf_email__" data-cfemail="c3b0b6b3b3acb1b783aca5a5b0abacb1a6a0acaeb3a2adbaa0acb1b3eda0acae"
+                                    href="/cdn-cgi/l/email-protection">[email&#160;protected]</a>
+                            </li>
+                            <li>If your transaction is processed successfully you will see confirmation page.</li>
+                            <li>If your transaction is declined, you will see the following decline page. The decline
+                                pages will vary depending on the reason for the rejection.
+                            </li>
+                        </ul>
+                        <p>You will receive a confirmation email shortly after your payment has been validated and
+                            accepted.</p></div>
+                </div>
+            </div>
+            <div class="toggles nopadding">
+                <div class="toggle-item">
+                    <div class="toggle-heading heading-red clearfix"><h2>3. Payment by Paypal or Credit/Debit Card via
+                        Paypal (www.paypal.com)</h2></div>
+                    <div class="toggle-content"><p>Paypal is the payment gateway accept credit/debit card, or by itself,
+                        because this is the most popular e-wallet payment now, and it is allowed many online payments
+                        method.</p>
+                        <div class="toggles nopadding">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><h2>3.1 Credit/Debit Card via Paypal</h2></div>
+                                <div class="toggle-content"><p><b>List of Credit Card we accepted for this option:</b>
+                                </p>
+                                    <p><img alt="Visa" height="40"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/visa-1540540604.svg"
+                                            title="Visa" width="90"/><img
+                                            alt="Master"
+                                            height="40" src="https://dusyzh85wmzqh.cloudfront.net/uploads/master-1540540604.svg" title="Master" width="53"/><img
+                                            alt="Discover"
+                                            height="40" src="https://dusyzh85wmzqh.cloudfront.net/uploads/discover-1540541079.svg" title="Discover" width="209"/><img
+                                            alt="Amex"
+                                            height="40" src="https://dusyzh85wmzqh.cloudfront.net/uploads/amex-1540540603.svg" title="Amex" width="42"/></p>
+                                    <p>In your bank statement, your transaction will be shown:<strong> OneIBC or
+                                        PAYPAL*OneIBC or Galaxy One Limited</strong>. It depends on your issue bank
+                                        country.</p>
+                                    <p>When you go to payment page, you have to provide us:</p>
+                                    <ol>
+                                        <li>Your billing information: relate to Billing person name, Country, ZIP
+                                            code...
+                                        </li>
+                                        <li>Your credit card information: Relate to Credit Card number, Expiry date, CVV
+                                            or CVC
+                                        </li>
+                                    </ol>
+                                    <p>Information is provided over secure connection TLS/SSL. We comply with PCI-DSS
+                                        (Payment Card Industry – Data Security Standard) for transactions.</p>
+                                    <ul>
+                                        <li>If you have any questions regarding credit-card transactions, please contact
+                                            <a class="__cf_email__" data-cfemail="d6a5a3a6a6b9a4a296b9b0b0a5beb9a4b3b5b9bba6b7b8afb5b9a4a6f8b5b9bbf8"
+                                               href="/cdn-cgi/l/email-protection">[email&#160;protected]</a>
+                                        </li>
+                                        <li>If your transaction is processed successfully, you will see a confirmation
+                                            page.
+                                        </li>
+                                        <li>If your transaction is declined, you will see the following decline page.
+                                            The decline pages will vary depending on the reason for the rejection.
+                                        </li>
+                                    </ul>
+                                    <p>You will receive an email confirmation shortly after your payment has been
+                                        validated and accepted.</p></div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><h2>3.2. Pay by Paypal Account</h2></div>
+                                <div class="toggle-content"><p><img align="right" alt="Paypal" height="40" src="https://dusyzh85wmzqh.cloudfront.net/uploads/paypal-1540540604.svg"
+                                                                    title="Paypal"
+                                                                    width="138"/>With
+                                    this option, you just need to log in to your PayPal account to make the payment for
+                                    your order. It’s very fast and protects your payment. PayPal always protects
+                                    consumers/buyers, who can get refunds if the provider/seller does not provide
+                                    services as ordered.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form id="fr-print-pdf" name="fr-print-pdf"><textarea hidden="hidden" id="content-print-pdf"
+                                                          name="content-print-pdf"></textarea> <input name="ar_keyword"
+                                                                                             type="hidden"
+                                                                                             value="payment-guidelines">
+        <input name="ar_name" type="hidden" value="Payment Guidelines"></form>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '171.79.57.48',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'info',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

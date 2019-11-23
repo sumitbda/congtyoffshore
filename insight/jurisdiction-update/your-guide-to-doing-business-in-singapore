@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Your Guide to Doing Business in Singapore</title>
+    <meta content="Your Guide to Doing Business in Singapore" name="description">
+    <meta content="Your Guide to Doing Business in Singapore" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/insight" target="_self"
+                                                                                 title="Insights"> Insights </a> <a
+            href="/insight/jurisdiction-update" target="_self" title="Jurisdiction Update"> Jurisdiction Update </a> <a
+            class="hidden-xs" href="/insight/jurisdiction-update/your-guide-to-doing-business-in-singapore"
+            target="_self" title="Your Guide to Doing Business in Singapore"> Your Guide to Doing Business in
+        Singapore </a></div>
+</div>
+<div class="paddingtop-mobile">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8"><h1> Your Guide to Doing Business in Singapore </h1>
+                <div class="date-detail"> Updated time: 12 Nov, 2019, 17:09 (UTC+08:00)</div>
+                <div class="content-format"><h2>Register Your Company in Singapore in 10 Simple Steps</h2>
+                    <p>Singapore has consistently topped the World Bank’s “Doing Business” report that tracks and scores
+                        the indicators of the ease of doing business in over 190 countries of the world. Particularly,
+                        Singapore’s score for indicators measuring the ‘ease of starting a business’ has always been
+                        remarkably high. It is mainly attributable to factors such as quick and easy online
+                        registration, the S$1 minimum paid-up capital requirement and low registration fees. The
+                        Accounting &amp; Corporate Regulatory Authority (ACRA) supervises the process for company
+                        registration in Singapore. The following article is an overview of the ten simple steps to
+                        register a company in Singapore.</p>
+                    <p>
+                        <img alt="Your Guide to Doing Business in Singapore"
+                             src="https://dusyzh85wmzqh.cloudfront.net/uploads/your-guide-to-doing-business-in-singapore-1573549106.png"
+                             title="Your Guide to Doing Business in Singapore"/></p>
+                    <h2>Step to Register a Company in Singapore</h2>
+                    <h3>Step 1: Finalize the Entity Type</h3>
+                    <p>Before you register the business, it is essential to choose the legal structure that is ideally
+                        suitable for the nature of your business and would maximize the tax benefits. As a Private
+                        Limited Company entity type involves higher registration cost and complex compliance
+                        requirements after registration, first-time entrepreneurs must carefully consider the
+                        implications of choosing to register a business as a private limited company. It is not prudent
+                        to absorb a compliance obligation and cost structure that is disproportionate to the scale of
+                        risks involved or incomes generated by the business.</p>
+                    <p><strong>Sole Proprietorship</strong> will fit a small business that is less risky and typically
+                        operated by the owner himself; as this would have minimal post-registration compliance
+                        obligations, the compliance cost is also minimal. However, if the business relies on the pooling
+                        of funds or other resources by two or more partners who would like to limit their liability,
+                        then a Limited Liability partnership would be an ideal choice. Notably, the chargeable profits
+                        of these two types of entities would be assessed as the income of the owners and subjected to
+                        personal tax rates.</p>
+                    <p><strong>A Private Limited Company</strong> is the common choice for businesses that have
+                        considerable risks, long-term plans, and high profits. This entity type limits the liability of
+                        the shareholders to their subscribed share capital, allows the entity to access tax concessions,
+                        conveys a credible image and increases the potential to attract more investors or access more
+                        financing options. However, the ongoing compliance cost is higher compared to that of a Sole
+                        Proprietorship or a Limited Liability Company. After you have come up with a list of potential
+                        names, check if they are available. It is likely that the names are already reserved or
+                        registered by some other company or individuals. This name-checking step will help you to
+                        identify and shortlist the names on your list.</p>
+                    <h3>Step 2: Choose, Check, Reserve and Register a Company Name</h3>
+                    <p>Naming your business is undoubtedly an exciting experience. While you may seek suggestions from
+                        your associates and well-wishers, choose a name that is relevant to your business in the long
+                        run. You have to be mindful of the fact that ACRA will decline registration of names that are
+                        undesirable, or identical to any registered to reserved name, or unacceptable as per the
+                        direction of the Minister.</p>
+                    <p>After you have come up with a list of potential names, check if they are available. It is likely
+                        that the names are already reserved or registered by some other company or individuals. This
+                        name-checking step will help you to identify and shortlist the names on your list.</p>
+                    <p>Having shortlisted the name, your next step is to apply for the approval and reservation of the
+                        name with the ACRA. The Registrar will generally approve the name quickly, the same day, if the
+                        name complies with the guidelines and does not infringe any trademark or copyrights and does not
+                        require the approval of other agencies. For instance, names that include words such as Banks,
+                        Finance, Funds, etc. need the approval of other Monetary Authority of Singapore.</p>
+                    <p>To avoid unnecessary delay, corporate service providers like us ask our clients to provide two
+                        other choices of names in addition to their preferred choice. Once approved, the name will be
+                        remain reserved for you for 60 days from the date of application. It is advisable to complete
+                        the company incorporation within the reserved period. Nevertheless, you can seek for an extended
+                        reservation of another 60 days by filing a request.</p>
+                    <h3>Step 3: Get Required Details Ready</h3>
+                    <p>The following items must be ready before proceeding with the registration process.</p>
+                    <ul>
+                        <li>ACRA approved company name.</li>
+                        <li>Brief description of business activities.</li>
+                        <li>You need to appoint a minimum of one resident director in your company – the personal
+                            identifcation and address details.
+                        </li>
+                        <li>You can have identification anywhere between 1-50 shareholders – the personal identification
+                            and address details of each of the shareholders. In the case of corporate shareholders, the
+                            certificate of incorporation and Memorandum and Articles of Association. In the case of
+                            foreigners, their passport and overseas residential address proof, and other
+                            Know-Your-Client (KYC) information such as a bank reference letter, personal and business
+                            profile, etc.
+                        </li>
+                        <li>You need a local registered address for the company office in Singapore.</li>
+                        <li>You need to appoint an ordinarily resident person as a Company Secretary within six months
+                            from the date of company incorporation. In the case of a sole director, the director cannot
+                            act as a Company Secretary.
+                        </li>
+                        <li>You need a paid-up initial capital of minimum S$1.</li>
+                    </ul>
+                    <h3>Step 4: Register a Singapore Company</h3>
+                    <p>Upon approval of the name by ACRA, we help you proceed to register your company. After submitting
+                        the duly signed application form and all relevant documents and payment of the registration
+                        fees, the Registrar will approve the registration within one working day in most of the cases.
+                        In some rare cases, the Registrar may request additional information or documents.</p>
+                    <h3>Step 5: Issue of Certificate of Incorporation</h3>
+                    <p>When the application of registration is approved, and the Singapore company incorporation is
+                        successfully completed, ACRA will send an official email notification to confirm it. The email
+                        notification includes the company registration number and is treated as the Certificate of
+                        Incorporation in Singapore, and no hard copy is issued. However, if you need one, you can make
+                        an online request to ACRA after incorporation by paying S$50 per copy. Hard copy Certificates of
+                        Incorporation can be collected from the ACRA office the day after fling the online request.</p>
+                    <p>The Registrar also has a Business Profile created for your company upon incorporation. The
+                        Business Profile is a PDF document that has the following information:</p>
+                    <ul>
+                        <li>Company name and registration number</li>
+                        <li>Previous names for the company, if any</li>
+                        <li>Incorporation date</li>
+                        <li>Principal activities</li>
+                        <li>Paid-up capital</li>
+                        <li>Registered address</li>
+                        <li>Shareholders details</li>
+                        <li>Directors details</li>
+                        <li>Company Secretary details</li>
+                    </ul>
+                    <p>A copy of this can be requested online from ACRA by paying a nominal fee. The copy of the
+                        Certificate of Incorporation and a copy of the Business Profile are the two commonly requested
+                        documents for purposes of contracts and other transactions.</p>
+                    <h3>Step 6: Post Incorporation Formalities</h3>
+                    <p>After incorporation, the company must ensure that the following are in place</p>
+                    <ul>
+                        <li>Share certificates for each of the shareholders.</li>
+                        <li>Share register indicating shares allotted to each of the shareholders.</li>
+                        <li>Company seal for the company.</li>
+                        <li>A rubber stamp for the company.</li>
+                    </ul>
+                    <h3>Step 7: Opening a Corporate Bank Account</h3>
+                    <p>A corporate bank account is the most fundamental requirement for any business to commence its
+                        operations after its successful incorporation. As an international financial center, Singapore
+                        has a wide choice of banks, including all leading international and regional banks. However,
+                        foreigners should take note the most of the banks require the physical presence of the
+                        principles. Due to the stringent international regulatory regime, such as FATCA, AML and CFT
+                        guidelines, some banks are inﬂexible; therefore it is advisable to be physically present to shop
+                        around for the bank that renders the best service. For those who are unable to be physically
+                        present, we can try to facilitate the opening of the bank account. Typically, the following
+                        documents are needed for opening a corporate bank account.</p>
+                    <ul>
+                        <li>Completed Corporate Account Opening Forms signed by authorized signatories.</li>
+                        <li>Board of Directors Resolution sanctioning the opening of the account and the signatories to
+                            the account.
+                        </li>
+                        <li>Certified True Copy of Resolution approving the opening of the account and the signatories
+                            to the account – almost all banks have standard forms.
+                        </li>
+                        <li>Certified True Copy of Certificate of Incorporation – certified by the company secretary or
+                            one of the directors.
+                        </li>
+                        <li>Certified True Copy of Company’s Business Profile from Company Registrar – certified by the
+                            company secretary or one of the directors.
+                        </li>
+                        <li>Certified True Copy of Company’s Memorandum and Articles of Association (MAA)- must be
+                            certified by the company secretary or one of the directors.
+                        </li>
+                        <li>Certified True Copies of Passport (or Singapore IC) and Residential Address Proof of the
+                            Directors, Signatories, and Ultimate Beneficiary Owners.
+                        </li>
+                    </ul>
+                    <h3>Step 8: Obtain a Business License</h3>
+                    <p>A Certificate of Incorporation does not amount to a license to operate a business. Certain
+                        business types need special licenses. Companies operating in Food and Beverage, education,
+                        financial services or those such as employment agencies and trading companies require special
+                        licenses to operate. The company, after incorporation, must make an application for the license
+                        with the relevant government agencies. Certain cases may involve more than one license.</p>
+                    <h3>Step 9: GST Registration</h3>
+                    <p>If the projected annual revenue of your company exceeds S$1 million, you need to register for the
+                        Goods and Services Tax (GST) with the Inland Revenue Authority of Singapore (IRAS).
+                        GST-registered companies need to charge this tax to their clients on the goods and services
+                        supplies and remit this amount to the tax authorities. GST-registered companies can also claim
+                        the input tax or the GST paid on their purchases or procurements. However, if the annual revenue
+                        of your company is not projected to exceed S$1 million, you need not register for GST.</p>
+                    <h3>Step 10: Annual Filing Requirement and Ongoing Compliance</h3>
+                    <p>Singapore registered companies are required to prepare annual financial statements in accordance
+                        with the Financial Reporting Standards of Singapore. In addition, they need to declare the
+                        revenue amount and Estimated Chargeable Income (ECI) by fling the ECI form with Inland Revenue
+                        Authority of Singapore (IRAS) within three months of the Financial Year End for the company.
+                        Besides fling annual tax returns with the IRAS, a company is also required to file annual
+                        returns with ACRA within one month of holding its Annual General Meeting, which is to be held
+                        once every calendar year.</p>
+                    <p>To avoid prosecution and penalty by authorities in the event non-compliance, it is advisable to
+                        appoint a corporate service provider to promptly fulfill these annual filing and ongoing
+                        compliance obligations soon after incorporating a company.</p>
+                    <p><strong>Want to Register a New Singapore Company?</strong></p>
+                    <p>We make it easy for you to start your business in Singapore.</p>
+                    <p><a href="/order-services?action=step1&amp;type-of-service=Company&amp;country=23" target="_self"
+                          title="Contact us today!"><h3>Contact us today!</h3></a></p>
+                </div>
+                <div class="sticker-detail">
+                    <div class="small-sticker display-inline"><a class="countries"
+                                                                 href="/insight/jurisdiction-update/singapore"
+                                                                 target="_self" title="Singapore"> Singapore </a></div>
+                </div>
+                <div class="related-detail"><h2> Jurisdiction Update Singapore <img
+                        alt="Jurisdiction Update Singapore"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/arrow-right-red.png" title="Jurisdiction Update Singapore"></h2>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="image-box small-box clearfix">
+                                <div class="image"><a
+                                        href="/insight/jurisdiction-update/singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses"
+                                        target="_self" title=""> <img
+                                        alt="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses-1573607545.png"
+                                        title="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses">
+                                </a></div>
+                                <div class="text"><h3><a
+                                        href="/insight/jurisdiction-update/singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses"
+                                        target="_self"
+                                        title="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses">Singapore-Eurasian
+                                    Economic Union FTA Opens Asia for Russian Businesses</a></h3>
+                                    <div class="small-sticker display-inline"><a class="countries"
+                                                                                 href="/insight/jurisdiction-update/singapore"
+                                                                                 target="_self" title="Singapore">
+                                        Singapore </a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="image-box small-box clearfix">
+                                <div class="image"><a
+                                        href="/insight/jurisdiction-update/singapore-plans-to-boost-business-with-india-tech-sector"
+                                        target="_self" title=""> <img
+                                        alt="Singapore plans to boost business with India tech sector"
+                                        src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-singapore-plans-to-boost-business-with-india-tech-sector-1573553104.png"
+                                        title="Singapore plans to boost business with India tech sector"> </a></div>
+                                <div class="text"><h3><a
+                                        href="/insight/jurisdiction-update/singapore-plans-to-boost-business-with-india-tech-sector"
+                                        target="_self" title="Singapore plans to boost business with India tech sector">Singapore
+                                    plans to boost business with India tech sector</a></h3>
+                                    <div class="small-sticker display-inline"><a class="countries"
+                                                                                 href="/insight/jurisdiction-update/singapore"
+                                                                                 target="_self" title="Singapore">
+                                        Singapore </a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 hidden-sm hidden-xs">
+                <div class="sidebar">
+                    <div class="image-box3"><img
+                            alt="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses-1573607545.png"
+                            title="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses">
+                        <div class="text"><h3> Singapore-Eurasian Economic Union FTA Opens Asia for Russian
+                            Businesses </h3>
+                            <div class="text-right"><a
+                                    class="btn btn-read-more"
+                                    href="/insight/jurisdiction-update/singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses"
+                                    target="_self"
+                                    title="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses">Read more</a></div>
+                        </div>
+                    </div>
+                    <div class="padding-20">
+                        <div class="row">
+                            <div class="col-md-12"><h2>Jurisdiction Update</h2></div>
+                            <div class="col-md-12">
+                                <div class="image-box small-box clearfix">
+                                    <div class="image"><a
+                                            href="/insight/jurisdiction-update/taxation-2-countries-removed-from-list-of-non-cooperative-jurisdictions-5-meet-commitments"
+                                            target="_self"
+                                            title="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments"> <img
+                                            alt="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-taxation-2-countries-removed-from-list-of-non-cooperative-jurisdictions-5-meet-commitments-1573554759.png"
+                                            title="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments">
+                                    </a></div>
+                                    <div class="text"><h3><a
+                                            href="/insight/jurisdiction-update/taxation-2-countries-removed-from-list-of-non-cooperative-jurisdictions-5-meet-commitments"
+                                            target="_self"
+                                            title="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments">Taxation:
+                                        2 countries removed from list of non-cooperative jurisdictions, 5 meet
+                                        commitments</a></h3>
+                                        <div class="small-sticker display-inline"><a class="countries"
+                                                                                     href="/insight/jurisdiction-update/united-arab-emirates"
+                                                                                     target="_self"
+                                                                                     title="United Arab Emirates (UAE)">
+                                            United Arab Emirates (UAE) </a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="image-box small-box clearfix">
+                                    <div class="image"><a
+                                            href="/insight/jurisdiction-update/eu-removes-uae-switzerland-mauritius-from-tax-haven-lists"
+                                            target="_self"
+                                            title="EU removes UAE, Switzerland, Mauritius from tax haven lists"> <img
+                                            alt="EU removes UAE, Switzerland, Mauritius from tax haven lists"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-eu-removes-uae-switzerland-mauritius-from-tax-haven-lists-1573554385.png"
+                                            title="EU removes UAE, Switzerland, Mauritius from tax haven lists"> </a>
+                                    </div>
+                                    <div class="text"><h3><a
+                                            href="/insight/jurisdiction-update/eu-removes-uae-switzerland-mauritius-from-tax-haven-lists"
+                                            target="_self"
+                                            title="EU removes UAE, Switzerland, Mauritius from tax haven lists">EU
+                                        removes UAE, Switzerland, Mauritius from tax haven lists</a></h3>
+                                        <div class="small-sticker display-inline"><a class="countries"
+                                                                                     href="/insight/jurisdiction-update/united-arab-emirates"
+                                                                                     target="_self"
+                                                                                     title="United Arab Emirates (UAE)">
+                                            United Arab Emirates (UAE) </a></div>
+                                        <div class="small-sticker display-inline"><a class="countries"
+                                                                                     href="/insight/jurisdiction-update/switzerland"
+                                                                                     target="_self" title="Switzerland">
+                                            Switzerland </a></div>
+                                        <div class="small-sticker display-inline"><a class="countries"
+                                                                                     href="/insight/jurisdiction-update/mauritius"
+                                                                                     target="_self" title="Mauritius">
+                                            Mauritius </a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="image-box small-box clearfix">
+                                    <div class="image"><a
+                                            href="/insight/jurisdiction-update/vietnams-improving-competitiveness-2019-global-competitive-index"
+                                            target="_self"
+                                            title="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index"> <img
+                                            alt="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-vietnams-improving-competitiveness-2019-global-competitive-index-1573553895.png"
+                                            title="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index">
+                                    </a></div>
+                                    <div class="text"><h3><a
+                                            href="/insight/jurisdiction-update/vietnams-improving-competitiveness-2019-global-competitive-index"
+                                            target="_self"
+                                            title="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index">Vietnam’s
+                                        Improving Competitiveness: 2019 Global Competitive Index</a></h3>
+                                        <div class="small-sticker display-inline"><a class="countries"
+                                                                                     href="/insight/jurisdiction-update/vietnam"
+                                                                                     target="_self" title="Vietnam">
+                                            Vietnam </a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="image-box small-box clearfix">
+                                    <div class="image"><a
+                                            href="/insight/jurisdiction-update/singapore-plans-to-boost-business-with-india-tech-sector"
+                                            target="_self"
+                                            title="Singapore plans to boost business with India tech sector"> <img
+                                            alt="Singapore plans to boost business with India tech sector"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-singapore-plans-to-boost-business-with-india-tech-sector-1573553104.png"
+                                            title="Singapore plans to boost business with India tech sector"> </a></div>
+                                    <div class="text"><h3><a
+                                            href="/insight/jurisdiction-update/singapore-plans-to-boost-business-with-india-tech-sector"
+                                            target="_self"
+                                            title="Singapore plans to boost business with India tech sector">Singapore
+                                        plans to boost business with India tech sector</a></h3>
+                                        <div class="small-sticker display-inline"><a class="countries"
+                                                                                     href="/insight/jurisdiction-update/singapore"
+                                                                                     target="_self" title="Singapore">
+                                            Singapore </a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '122.176.233.134',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'insight',
+        'dynx_incorpCountry': 'SG',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

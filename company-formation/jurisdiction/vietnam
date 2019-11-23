@@ -1,0 +1,1571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Starting a Business in Vietnam</title>
+    <meta content="Starting a Business in Vietnam" name="description">
+    <meta content="Starting a Business in Vietnam" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs hidden-xs">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/company-formation"
+                                                                                 target="_self"
+                                                                                 title="Company Formation"> Company
+        Formation </a> <a href="/company-formation/jurisdiction" target="_self" title="Jurisdictions">
+        Jurisdictions </a> <a href="/company-formation/jurisdiction/vietnam" target="_self"
+                              title="Starting a Business in Vietnam"> Starting a Business in Vietnam </a></div>
+</div>
+<div id="slider">
+    <div class="container-fluid nopadding">
+        <div class="carousel slide" data-ride="carousel" id="sliders">
+            <ol class="carousel-indicators">
+                <li class="active" data-slide-to="1" data-target="#sliders"></li>
+                <li data-slide-to="2" data-target="#sliders"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="img-slider"><img alt="One IBC is now offering Vietnam Incorporations"
+                                                 class="hidden-xs"
+                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-one-ibc-now-offering-vietnam-incorporations-1569549262.png"
+                                                 title="One IBC is now offering Vietnam Incorporations"> <img
+                            alt="One IBC is now offering Vietnam Incorporations"
+                            class="hidden-md"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-one-ibc-now-offering-vietnam-incorporations-m-1569549263.png"
+                            title="One IBC is now offering Vietnam Incorporations"></div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>One IBC is now offering Vietnam Incorporations</h1>
+                            <p>Free 3 Months Virtual Office Services</p> <a class="btn btn-default"
+                                                                            href="https://www.offshorecompanycorp.com/promotion/one-ibc-is-now-offering-vietnam-incorporations"
+                                                                            target="_self"
+                                                                            title="One IBC is now offering Vietnam Incorporations">
+                                Learn More </a></div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="img-slider">
+                        <div class="snow"></div>
+                        <img alt="Vietnam"
+                             class="hidden-xs"
+                             src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-vietnam-1566530540.png" title="Vietnam"> <img alt="Vietnam"
+                                                                 class="hidden-md"
+                                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-vietnam-xs-1566530600.png" title="Vietnam"></div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>Set up a 100% foreign-owned company in Vietnam or The Vietnam joint
+                            venture company</h1>
+                            <p>A favorable destination for many entrepreneurs.</p>
+                            <p>A great advantage in economic development with other countries in the region.</p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="menu-back">
+    <div class="container">
+        <div class="MultiCarousel" data-interval="1000" data-slide="1" id="MultiCarousel">
+            <div class="MultiCarousel-inner">
+                <div class="item active"><a href="/company-formation/jurisdiction/vietnam" target="_self"
+                                            title="Featured"> Featured </a></div>
+                <div class="item "><a href="/company-formation/jurisdiction/vietnam/how-to-set-up" target="_self"
+                                      title="How to set up"> How to set up </a></div>
+                <div class="item "><a href="/company-formation/jurisdiction/vietnam/scope-of-service" target="_self"
+                                      title="Scope of service"> Scope of service </a></div>
+                <div class="item "><a href="/company-formation/jurisdiction/vietnam/fees" target="_self" title="Fees">
+                    Fees </a></div>
+                <div class="item "><a href="/company-formation/jurisdiction/vietnam/recommended-services" target="_self"
+                                      title="Recommended services"> Recommended services </a></div>
+                <div class="item "><a class="change-opacity" href="/company-formation/jurisdiction/vietnam/publications"
+                                      target="_self" title="Publications"> Publications <img
+                        alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-new.png" title="New">
+                </a></div>
+                <div class="item "><a href="/company-formation/jurisdiction/vietnam/promotion" target="_self"
+                                      title="Promotion"> Promotion </a></div>
+                <div class="item "><a href="/company-formation/jurisdiction/vietnam/faq" target="_self" title="FAQs">
+                    FAQs </a></div>
+                <div class="item "><a href="/company-formation/jurisdiction/vietnam/download" target="_self"
+                                      title="Download & Form"> Download & Form </a></div>
+            </div>
+            <button class="leftLst"></button>
+            <button class="rightLst"></button>
+        </div>
+    </div>
+</div>
+<div class="banner banner-style3">
+    <div class="img-absolute"><img alt="Set up a 100% foreign owned company in Vietnam (Wholly foreign-owned LLC) or The Vietnam joint venture company (Partly foreign-owned LLC)"
+                                   src="https://dusyzh85wmzqh.cloudfront.net/uploads/viet-nam-overview-1566551104.png"
+                                   title="Set up a 100% foreign owned company in Vietnam (Wholly foreign-owned LLC) or The Vietnam joint venture company (Partly foreign-owned LLC)"/>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>Set up a 100% foreign owned company in Vietnam (Wholly foreign-owned LLC) or The
+                Vietnam joint venture company (Partly foreign-owned LLC)</h2>
+                <ul>
+                    <li>The third largest market in Southeast Asia and one of the fastest-growing economies in the
+                        world.
+                    </li>
+                    <li>A commercially important "link bridge" on the world maritime map. This will be a great advantage
+                        in economic development and regional exchanges.
+                    </li>
+                    <li>Stable political background, a complete legal system and an application of information
+                        technology in state administrative management.
+                    </li>
+                    <li>Vietnam’s intellectual property laws are open and transparent.</li>
+                    <li>Skilled Workforce &amp; attraction of talents.</li>
+                    <li>Tax rate and CIT incentives of some business line and investment areas are very attractive to
+                        the investors.
+                    </li>
+                    <li>Vietnam has signed several Free Trade Agreements with countries worldwide, member of ASEAN Free
+                        Trade Area, a trade bloc agreement between Indonesia, Malaysia, Philippines, Singapore,
+                        Thailand, Laos, Myanmar, Cambodia.
+                    </li>
+                    <li>Vietnam has concluded 7 regional and bilateral FTAs, including Vietnam European Union FTA and
+                        ASEAN Hong Kong FTA as well as has 70 double tax agreements.
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6"><h2>Suitable for:</h2>
+                <ul class="list-inline media-banner">
+                    <li>
+                        <div class="media">
+                            <div class="media-left media-middle"><img
+                                    alt="Trading opportunities"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/trading-opportunities-1566545034.svg" title="Trading opportunities"/></div>
+                            <div class="media-body"><p>Trading opportunities</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media">
+                            <div class="media-left media-middle"><img
+                                    alt="Foreign direct investment"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/foreign-direct-investment-1566545296.svg" title="Foreign direct investment"/></div>
+                            <div class="media-body"><p>Foreign direct investment</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media">
+                            <div class="media-left media-middle"><img
+                                    alt="Education"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/education-1566545413.svg" title="Education"/></div>
+                            <div class="media-body"><p>Education</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media">
+                            <div class="media-left media-middle"><img
+                                    alt="High-tech productions"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/high-tech-productions-1566545742.svg" title="High-tech productions"/></div>
+                            <div class="media-body"><p>High-tech productions</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media">
+                            <div class="media-left media-middle"><img
+                                    alt="Manufacturing company"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/manufacturing-company-1566545842.svg" title="Manufacturing company"/></div>
+                            <div class="media-body"><p>Manufacturing company</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media">
+                            <div class="media-left media-middle"><img
+                                    alt="Healthcare businesses"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/healthcare-businesses-1566545931.svg" title="Healthcare businesses"/></div>
+                            <div class="media-body"><p>Healthcare businesses</p></div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="banner banner-style2">
+    <div class="img-absolute"><img alt="How To Set Up"
+                                   class="hidden-xs"
+                                   src="https://dusyzh85wmzqh.cloudfront.net/uploads/offshore-bg-how-it-work-1543819725.jpg" title="How To Set Up"/> <img alt="How To Set Up"
+                                                                                    class="hidden-md"
+                                                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/offshore-bg-how-it-work-m-1543829153.jpg"
+                                                                                    title="How To Set Up"/></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><p>&#160;</p>
+                <p>&#160;</p>
+                <h2>How to incorporate a company in Vietnam</h2>
+                <p>&#160;</p>
+                <p>&#160;</p></div>
+        </div>
+    </div>
+</div>
+<div class="tab-mg padding-bottom40 bg-f3">
+    <div class="container">
+        <div class="row highestBox">
+            <div class="col-md-3">
+                <div class="box-white">
+                    <div class="number-step">Step 1</div>
+                    <a href="/company-formation/jurisdiction/vietnam/how-to-set-up"><img
+                            alt="Preparation" src="https://dusyzh85wmzqh.cloudfront.net/uploads/setup-1-1541403174.png"
+                            title="Preparation"/></a>
+                    <h3 class="title-red"><a class="red" href="/company-formation/jurisdiction/vietnam/how-to-set-up">Preparation</a>
+                    </h3>
+                    <p><strong>Request free company name search.</strong> We check the eligibility of the name, and make
+                        suggestion if necessary.</p></div>
+            </div>
+            <div class="col-md-3">
+                <div class="box-white">
+                    <div class="number-step">Step 2</div>
+                    <a href="/company-formation/jurisdiction/vietnam/how-to-set-up"><img
+                            alt="Your Vietnam Company Details"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/setup-2-1541403174.png" title="Your Vietnam Company Details"/></a>
+                    <h3 class="title-red"><a class="red" href="/company-formation/jurisdiction/vietnam/how-to-set-up">Your
+                        Vietnam Company Details</a></h3>
+                    <ul>
+                        <li>Register or login and fill in the company names and director/ shareholder(s).</li>
+                        <li>Fill in shipping, company address or special request (if any).</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="box-white">
+                    <div class="number-step">Step 3</div>
+                    <a class="red" href="/company-formation/jurisdiction/vietnam/how-to-set-up"><img
+                            alt="Payment for Your Favorite Vietnam Company"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/setup-3-1541403174.png"
+                            title="Payment for Your Favorite Vietnam Company"/></a>
+                    <h3 class="title-red"><a class="red" href="/company-formation/jurisdiction/vietnam/how-to-set-up">Payment
+                        for Your Favorite Vietnam Company</a></h3>
+                    <p>Choose your payment method (We accept payment by Credit/Debit Card, PayPal or Wire Transfer).</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="box-white">
+                    <div class="number-step">Step 4</div>
+                    <img alt="Send the company kit to your address"
+                         src="https://dusyzh85wmzqh.cloudfront.net/uploads/setup-4-1541403175.png" title="Send the company kit to your address"/>
+                    <h3 class="title-red"><a class="red" href="/company-formation/jurisdiction/vietnam/how-to-set-up">Send
+                        the company kit to your address</a></h3>
+                    <ul>
+                        <li>You will receive soft copies of necessary documents including: Certificate of Incorporation,
+                            Business Registration, Memorandum and Articles of Association, etc. Then, your new company
+                            in a jurisdiction is ready to do business!
+                        </li>
+                        <li>You can bring the documents in company kit to open corporate bank account or we can help you
+                            with our long experience of banking support service.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 text-center padding-top20"><a
+                    class="btn btn-primary" href="/order-services?action=step1&amp;type-of-service=Company&amp;country=160"
+                    target="_self" title="Set Up Now">Set Up Now</a></div>
+        </div>
+    </div>
+</div>
+<div class="bg-f3">
+    <div class="container">
+        <div class="toggles toggles-style3 toggle-box">
+            <div class="toggle-item">
+                <div class="toggle-heading clearfix"><strong>Required documents for Vietnam company
+                    incorporation</strong></div>
+                <div class="toggle-content">
+                    <ul>
+                        <li>Scan of Notarized Passport;</li>
+                        <li>Scan of Notarized Address Proof (Utility bill such as Gas, Water, Electricity bill). For
+                            non-Vietnamese documents: legalization, translate to Vietnamese, certify the translation.
+                            For Vietnamese documents: certify true copy.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-block bg-f3">
+    <div class="container">
+        <div class="offshore-fees"><h2>Service fees for Vietnam company formation</h2>
+            <div class="row highestBox">
+                <div class="col-md-4"><p class="text-30 margin-top25 margin-bt15"><strong>From</strong></p> <span
+                        class="currencyValue price" value="949">US$ 949</span> <img
+                        alt="Service Fees"
+                        src="https://dusyzh85wmzqh.cloudfront.net/uploads/offshore-fee-1541409906.png" title="Service Fees"/></div>
+                <div class="col-md-4">
+                    <ul class="list-unstyled large-text">
+                        <li><strong>Done within 30 working days</strong></li>
+                        <li>100% successful rate</li>
+                        <li>Fast, easy &amp; highest confidential via secured systems</li>
+                        <li>Dedicated support (24/7)</li>
+                        <li>Just Order, We Do All For You</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <div class="text-center display-table">
+                        <div class="display-cell"><a
+                                class="btn btn-primary"
+                                href="/order-services?action=step1&amp;type-of-service=Company&amp;country=160" target="_self" title="Incorporate Company Now">Incorporate
+                            Company Now</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-top20">
+    <div class="container"><h2></h2>
+        <div class="row highestBox">
+            <div class="col-md-4">
+                <div class="box-white bg-f3 img-auto-center"><h3 class="text-center"> Bank Account </h3> <a
+                        href="/company-formation/jurisdiction/vietnam/bank-account" target="_self" title="Bank Account">
+                    <img alt="Bank Account"
+                         class="padding-20"
+                         src="https://dusyzh85wmzqh.cloudfront.net/uploads/2-bank-account-support-1543984861.svg" title="Bank Account"> </a>
+                    <div>
+                        <ul>
+                            <li>Our Banking experts will assist you to open a bank account in Vietnam.</li>
+                            <li>Guarantee 100% successful rate open corporate bank account in Vietnam.</li>
+                            <li>Help you optimize the probability of corporate bank account approval.</li>
+                            <li>Both resident and non-resident companies can hold international corporate bank accounts
+                                in any currency.
+                            </li>
+                            <li>Most international and several local banks offer an excellent range of corporate.</li>
+                        </ul>
+                    </div>
+                    <div class="text-center"><a class="btn btn-primary"
+                                                href="/company-formation/jurisdiction/vietnam/bank-account" target="_self" title="View more"> View more </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="box-white bg-f3 img-auto-center"><h3 class="text-center"> Business Licensing </h3> <a
+                        href="/company-formation/jurisdiction/vietnam/business-licensing" target="_self"
+                        title="Business Licensing"> <img alt="Business Licensing"
+                                                         class="padding-20"
+                                                         src="https://dusyzh85wmzqh.cloudfront.net/uploads/6-business-licencing-1543984861.svg" title="Business Licensing"> </a>
+                    <div>
+                        <ul>
+                            <li>International investors are obliged to obtain an Investment Registration Certificate
+                                (IRC) from the Department of Planning and Investment (DPI).
+                            </li>
+                            <li>A Business Registration Certificate (BRC), often referred to as an Enterprise
+                                Registration Certificate (ERC), is the second mandatory document to be obtained during
+                                the registration procedure.
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="text-center"><a class="btn btn-primary"
+                                                href="/company-formation/jurisdiction/vietnam/business-licensing" target="_self" title="View more"> View more </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="box-white bg-f3 img-auto-center"><h3 class="text-center"> Accounting and Auditing </h3> <a
+                        href="/company-formation/jurisdiction/vietnam/accounting-and-auditing" target="_self"
+                        title="Accounting and Auditing"> <img alt="Accounting and Auditing"
+                                                              class="padding-20"
+                                                              src="https://dusyzh85wmzqh.cloudfront.net/uploads/3-accounting-audit-1543984861.svg"
+                                                              title="Accounting and Auditing"> </a>
+                    <div>
+                        <ul>
+                            <li>With extensive knowledge and experience of international practice in Hongkong,
+                                Singapore, USA, Switzerland, Vietnam, and local taxation practices.
+                            </li>
+                            <li>We bring our clients advantages of our best compliment practice and most effective
+                                strategies.
+                            </li>
+                            <li>Being specialized, we provide our clients with comprehensive opinions with effective
+                                pragmatic recommendations/solutions to optimize their tax and compliance strategies in
+                                Vietnam.
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="text-center"><a class="btn btn-primary"
+                                                href="/company-formation/jurisdiction/vietnam/accounting-and-auditing" target="_self" title="View more"> View more </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row highestBox">
+            <div class="col-md-4">
+                <div class="box-white bg-f3 img-auto-center"><h3 class="text-center"> IP & Trademark </h3> <a
+                        href="/company-formation/jurisdiction/vietnam/ip-trademark" target="_self"
+                        title="IP & Trademark"> <img alt="IP & Trademark"
+                                                     class="padding-20"
+                                                     src="https://dusyzh85wmzqh.cloudfront.net/uploads/11-intellectual-property-1543984862.svg" title="IP & Trademark"> </a>
+                    <div>
+                        <ul>
+                            <li>Support you to file an application.</li>
+                            <li>Trademark registration shall be published only by the National Office of Intellectual
+                                Property of Vietnam (NOIP Vietnam).
+                            </li>
+                            <li>The procedure takes between 6 to 9 months.</li>
+                            <li>Trademark registration in Vietnam is valid for 10 years from the filing date.</li>
+                        </ul>
+                    </div>
+                    <div class="text-center"><a class="btn btn-primary"
+                                                href="/company-formation/jurisdiction/vietnam/ip-trademark" target="_self" title="View more"> View more </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="box-white bg-f3 img-auto-center"><h3 class="text-center"> Merchant Account Online </h3> <a
+                        href="/company-formation/jurisdiction/vietnam/merchant-account-online" target="_self"
+                        title="Merchant Account Online"> <img alt="Merchant Account Online"
+                                                              class="padding-20"
+                                                              src="https://dusyzh85wmzqh.cloudfront.net/uploads/9-merchant-account-online-1543984862.svg"
+                                                              title="Merchant Account Online"> </a>
+                    <div>
+                        <ul>
+                            <li>Easy and Simple Checkout</li>
+                            <li>High security with Data Tokenization and Secured Tools</li>
+                            <li>Better sale volume with Virtual Terminal offered</li>
+                            <li>Flawless payment flows for Vietnam-based companies</li>
+                            <li>No more paperwork and confusing PCI compliance procedures</li>
+                        </ul>
+                    </div>
+                    <div class="text-center"><a class="btn btn-primary"
+                                                href="/company-formation/jurisdiction/vietnam/merchant-account-online" target="_self" title="View more"> View more </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="box-white bg-f3 img-auto-center"><h3 class="text-center"> Nominee Director/Shareholder </h3>
+                    <a href="/company-formation/jurisdiction/vietnam/nominee-directorshareholder" target="_self"
+                       title="Nominee Director/Shareholder"> <img alt="Nominee Director/Shareholder"
+                                                                  class="padding-20"
+                                                                  src="https://dusyzh85wmzqh.cloudfront.net/uploads/7-nominees-1543984861.svg"
+                                                                  title="Nominee Director/Shareholder"> </a>
+                    <div>
+                        <ul>
+                            <li>Our professional nominee director/shareholder helps you fulfill the local statutory
+                                requirements.
+                            </li>
+                            <li>Managing your asset at a high level.</li>
+                            <li>Protecting your identity from the company’s documents and with the Government’ record.
+                            </li>
+                            <li>Keeping your information confidential within your company structure and the
+                                Government.
+                            </li>
+                            <li>Fully control of your company activities through Power of Attorney (POA) and Declaration
+                                of Trust (DOT).
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="text-center"><a
+                            class="btn btn-primary" href="/company-formation/jurisdiction/vietnam/nominee-directorshareholder"
+                            target="_self" title="View more"> View more </a></div>
+                </div>
+            </div>
+        </div>
+        <div class="row highestBox">
+            <div class="col-md-4">
+                <div class="box-white bg-f3 img-auto-center"><h3 class="text-center"> Serviced Office </h3> <a
+                        href="/company-formation/jurisdiction/vietnam/serviced-office" target="_self"
+                        title="Serviced Office"> <img alt="Serviced Office"
+                                                      class="padding-20"
+                                                      src="https://dusyzh85wmzqh.cloudfront.net/uploads/4-service-office-1543984861.svg" title="Serviced Office"> </a>
+                    <div><p>Ready to take your business into the next level? Take the very first step by having Service
+                        Office at the heart of Vietnam Centre Business District. This services enhances the reputation
+                        and credibility of your company by providing an address and telephone number in Vietnam.</p>
+                        <ul>
+                            <li>Prestigious city center business address</li>
+                            <li>Enhances the reputation and credibility of your company in Vietnam</li>
+                            <li>Professional call handlings</li>
+                            <li>Fully furnished office space</li>
+                            <li>Ready equipped meeting and presentation room</li>
+                            <li>Effective mail forwarding service</li>
+                        </ul>
+                    </div>
+                    <div class="text-center"><a class="btn btn-primary"
+                                                href="/company-formation/jurisdiction/vietnam/serviced-office" target="_self" title="View more"> View more </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="box-white bg-f3 img-auto-center"><h3 class="text-center"> Shelf Company </h3> <a
+                        href="/company-formation/jurisdiction/vietnam/shelf-company" target="_self"
+                        title="Shelf Company"> <img alt="Shelf Company"
+                                                    class="padding-20"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/13-shelf-company-1543984862.svg" title="Shelf Company"> </a>
+                    <div>
+                        <ul>
+                            <li>To save the time involved in taking the steps to create a new corporation.</li>
+                            <li>To show corporate longevity in order to attract consumers or investors.</li>
+                            <li>No liability risk</li>
+                            <li>No debts or obligations</li>
+                            <li>No previous business activity</li>
+                        </ul>
+                    </div>
+                    <div class="text-center"><a class="btn btn-primary"
+                                                href="/company-formation/jurisdiction/vietnam/shelf-company" target="_self" title="View more"> View more </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="characteristics?currency=USD"></div>
+<div class="padding-top20">
+    <div class="container">
+        <div class="toggles toggles-style3 toggle-box">
+            <div class="toggle-item">
+                <div class="toggle-heading clearfix"><h2><strong> Starting a Business in Vietnam Company main
+                    characteristics </strong></h2></div>
+                <div class="toggle-content"><h3 class="red ">Wholly foreign-owned LLC (100% foreign-owned company in
+                    Vietnam)</h3>
+                    <table class="table table-most">
+                        <thead>
+                        <th colspan="2"><strong> General Information </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Type of Business Entity</td>
+                            <td><strong>Wholly foreign-owned LLC</strong></td>
+                        </tr>
+                        <tr>
+                            <td> Tax by Jurisdiction on Offshore Profits</td>
+                            <td>20%</td>
+                        </tr>
+                        <tr>
+                            <td> British Based Legal System</td>
+                            <td>Law on Enterprises</td>
+                        </tr>
+                        <tr>
+                            <td> Double Tax Treaty Access</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Incorporation Time Frame (Approx., days)</td>
+                            <td>45 working days</td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Corporate Requirements </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Minimum Number of Shareholders</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td> Minimum Number of Directors</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td> Corporate Directors Permitted</td>
+                            <td>No</td>
+                        </tr>
+                        <tr>
+                            <td> Standard Authorized Capital/Shares</td>
+                            <td>US$10,000</td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Local Requirements </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Registered Office/ Registered Agent</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Company Secretary</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Local Meetings</td>
+                            <td>Anywhere</td>
+                        </tr>
+                        <tr>
+                            <td> Local Directors / Shareholders</td>
+                            <td>Local Director is required. Local Shareholders is not required</td>
+                        </tr>
+                        <tr>
+                            <td> Publicly Accessible Records</td>
+                            <td>Yes</td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Annual Requirements </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Annual Return</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Audited Accounts</td>
+                            <td>Yes</td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Incorporation Fees </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Our Service Fee (1st year)</td>
+                            <td><span class="currencyValue" value="1699"> US$ 1,699.00 </span></td>
+                        </tr>
+                        <tr>
+                            <td> Government fee & Service charged</td>
+                            <td><span class="currencyValue" value="2700"> US$ 2,700.00 </span></td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Annual Renewal Fees </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td> Our Service Fee (year 2+)</td>
+                            <td><span class="currencyValue" value="1599"> US$ 1,599.00 </span></td>
+                        </tr>
+                        <tr>
+                            <td> Government fee & Service charged</td>
+                            <td><span class="currencyValue" value="2700"> US$ 2,700.00 </span></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <h3 class="red padding-top20">Partly foreign-owned LLC (The Vietnam joint venture company)</h3>
+                    <table class="table table-most">
+                        <thead>
+                        <th colspan="2"><strong> General Information </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Type of Business Entity</td>
+                            <td><strong>Partly foreign-owned LLC</strong></td>
+                        </tr>
+                        <tr>
+                            <td> Tax by Jurisdiction on Offshore Profits</td>
+                            <td>20%</td>
+                        </tr>
+                        <tr>
+                            <td> British Based Legal System</td>
+                            <td>Law on Enterprises</td>
+                        </tr>
+                        <tr>
+                            <td> Double Tax Treaty Access</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Incorporation Time Frame (Approx., days)</td>
+                            <td>30 working days</td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Corporate Requirements </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Minimum Number of Shareholders</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td> Minimum Number of Directors</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td> Corporate Directors Permitted</td>
+                            <td>No</td>
+                        </tr>
+                        <tr>
+                            <td> Standard Authorized Capital/Shares</td>
+                            <td>US$ 50,000</td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Local Requirements </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Registered Office/ Registered Agent</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Company Secretary</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Local Meetings</td>
+                            <td>Anywhere</td>
+                        </tr>
+                        <tr>
+                            <td> Local Directors / Shareholders</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Publicly Accessible Records</td>
+                            <td>Yes</td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Annual Requirements </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Annual Return</td>
+                            <td>Yes</td>
+                        </tr>
+                        <tr>
+                            <td> Audited Accounts</td>
+                            <td>Yes</td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Incorporation Fees </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td width="50%"> Our Service Fee (1st year)</td>
+                            <td><span class="currencyValue" value="949"> US$ 949.00 </span></td>
+                        </tr>
+                        <tr>
+                            <td> Government fee & Service charged</td>
+                            <td><span class="currencyValue" value="1200"> US$ 1,200.00 </span></td>
+                        </tr>
+                        </tbody>
+                        <thead>
+                        <th colspan="2"><strong> Annual Renewal Fees </strong></th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td> Our Service Fee (year 2+)</td>
+                            <td><span class="currencyValue" value="849"> US$ 849.00 </span></td>
+                        </tr>
+                        <tr>
+                            <td> Government fee & Service charged</td>
+                            <td><span class="currencyValue" value="1200"> US$ 1,200.00 </span></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-20">
+    <div class="container"><h2>Download forms for Starting a Business in Vietnam company incorporation</h2>
+        <div class="row">
+            <div class="col-md-12"><h3>1. Application Formation Form</h3></div>
+            <div class="col-md-12">
+                <table class="table table-most">
+                    <thead>
+                    <tr>
+                        <th><span> Description </span></th>
+                        <th class="text-center" style="width: 20%;"> QR Code</th>
+                        <th class="text-center"> Download</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td><strong>Application for Limited Company</strong>
+                            <div class="date-grey">PDF | 2.10 MB | Updated time: 04 Sep, 2019, 11:38 (UTC+08:00)</div>
+                            <p> Application form for Limited Company processing </p></td>
+                        <td align="center"><img alt="Application for Limited Company" height="130"
+                                                src="https://dusyzh85wmzqh.cloudfront.net/qrcode/application-for-limited-company-1568689855.svg"
+                                                title="Application for Limited Company"
+                                                width="130"></td>
+                        <td class="download"><a
+                                href="https://dusyzh85wmzqh.cloudfront.net/download/One-IBC-Application-Formation-Form-Limited-Updated-040919.pdf"
+                                target="_self" title="Application for Limited Company"> <img
+                                alt="Download"
+                                src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-12"><h3>2. Business Plan Form</h3></div>
+            <div class="col-md-12">
+                <table class="table table-most">
+                    <thead>
+                    <tr>
+                        <th><span> Description </span></th>
+                        <th class="text-center" style="width: 20%;"> QR Code</th>
+                        <th class="text-center"> Download</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td><strong>Business Plan Form</strong>
+                            <div class="date-grey">PDF | 899.46 kB | Updated time: 04 Sep, 2019, 11:59 (UTC+08:00)</div>
+                            <p> Business Plan Form for Company Incorporation </p></td>
+                        <td align="center"><img alt="Business Plan Form" height="130"
+                                                src="https://dusyzh85wmzqh.cloudfront.net/qrcode/business-plan-form-1568689857.svg"
+                                                title="Business Plan Form" width="130"></td>
+                        <td class="download"><a
+                                href="https://dusyzh85wmzqh.cloudfront.net/download/One-IBC-Form-Business-Plan-New-client-Update-040919.pdf"
+                                target="_self" title="Business Plan Form"> <img
+                                alt="Download"
+                                src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-12"><h3>3. Information Update Form</h3></div>
+            <div class="col-md-12">
+                <table class="table table-most">
+                    <thead>
+                    <tr>
+                        <th><span> Description </span></th>
+                        <th class="text-center" style="width: 20%;"> QR Code</th>
+                        <th class="text-center"> Download</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td><strong>Information Update Form</strong>
+                            <div class="date-grey">PDF | 875.49 kB | Updated time: 04 Sep, 2019, 12:22 (UTC+08:00)</div>
+                            <p> Information Update Form for completing the Registry’s statutory requirements </p></td>
+                        <td align="center"><img alt="Information Update Form" height="130"
+                                                src="https://dusyzh85wmzqh.cloudfront.net/qrcode/information-update-form-1568689858.svg"
+                                                title="Information Update Form" width="130"></td>
+                        <td class="download"><a
+                                href="https://dusyzh85wmzqh.cloudfront.net/download/One-IBC-Information-Update-Form-Updated-040919.pdf"
+                                target="_self" title="Information Update Form"> <img
+                                alt="Download"
+                                src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-12"><h3>4. Rate card</h3></div>
+            <div class="col-md-12">
+                <table class="table table-most">
+                    <thead>
+                    <tr>
+                        <th><span> Description </span></th>
+                        <th class="text-center" style="width: 20%;"> QR Code</th>
+                        <th class="text-center"> Download</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td><strong>Vietnam Wholly foreign-owned LLC Rate card</strong>
+                            <div class="date-grey">PDF | 381.67 kB | Updated time: 18 Sep, 2019, 17:23 (UTC+08:00)</div>
+                            <p> Vietnam Wholly foreign-owned LLC Rate card </p></td>
+                        <td align="center"></td>
+                        <td class="download"><a
+                                href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-VN-Wholly-foreign-owned-LLC-Ratecard-16092019-1568796437.pdf"
+                                target="_self" title="Vietnam Wholly foreign-owned LLC Rate card"> <img
+                                alt="Download"
+                                src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Vietnam Partly foreign-owned LLC Rate card</strong>
+                            <div class="date-grey">PDF | 321.17 kB | Updated time: 18 Sep, 2019, 17:23 (UTC+08:00)</div>
+                            <p> Vietnam Partly foreign-owned LLC Rate card </p></td>
+                        <td align="center"></td>
+                        <td class="download"><a
+                                href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-VN-Partly-foreign-owned-LLC-Ratecard-16092019-1568796437.pdf"
+                                target="_self" title="Vietnam Partly foreign-owned LLC Rate card"> <img
+                                alt="Download"
+                                src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-12"><h3>5. Sample Documents</h3></div>
+            <div class="col-md-12">
+                <table class="table table-most">
+                    <thead>
+                    <tr>
+                        <th><span> Description </span></th>
+                        <th class="text-center" style="width: 20%;"> QR Code</th>
+                        <th class="text-center"> Download</th>
+                    </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-bottom40 bg-f3">
+    <div class="padding-block position-relative">
+        <div class="img-absolute"><img alt="FAQs"
+                                       src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/offshore-bg-faqs.png" title="FAQs"></div>
+        <div class="container">
+            <div class="col-md-12 textcenter-mobile"><h2>Starting a Business in Vietnam Company Formation Frequently
+                asked questions (FAQ) </h2></div>
+        </div>
+    </div>
+    <div class="container position-relative">
+        <div class="toggles-style3 row padding-topdesk">
+            <div class="toggle-item col-md-6">
+                <div class="toggle-heading clearfix"> 1. How do I register a company in Vietnam if I am a foreigner?
+                </div>
+                <div class="toggle-content"><p>Foreigners are allowed to register their company in Vietnam. In most
+                    industries, they can own 100% of the shares of their business. In a few selected industries, company
+                    registration in Vietnam is only allowed in a joint venture agreement with a Vietnamese individual or
+                    corporate shareholder. One IBC’ Vietnam company registration specialist will advise you with regards
+                    to the need for a joint venture partner.</p></div>
+            </div>
+            <div class="toggle-item col-md-6">
+                <div class="toggle-heading clearfix"> 2. Does registration of a Vietnam business differ from
+                    registration of a foreign-owned one?
+                </div>
+                <div class="toggle-content"><p>Yes. in many ways. Foreigners registering a new business in Vietnam are
+                    notably required to open a capital account in the country, which they will have to use in other to
+                    inject their company’s share capital.</p></div>
+            </div>
+            <div class="toggle-item col-md-6">
+                <div class="toggle-heading clearfix"> 3. In Order to Carry Out an Investment Project in Vietnam in WFOE
+                    or JV Form, must an Investor Set Up a Vietnamese Legal Entity?
+                </div>
+                <div class="toggle-content"><p>Not necessarily. A foreign investor may set up a new legal entity as a
+                    wholly foreign-owned enterprise (“WFOE”) or as a JV (and contribute capital to this entity): in this
+                    case, an investor must apply both for an investment registration certifcate (“IRC”) and an
+                    enterprise registration certifcate (“ERC”), which was formerly called a business registration
+                    certifcate (“BRC”). A foreign investor may also contribute capital to an existing legal entity in
+                    Vietnam, which does not require an issuance of an IRC or ERC.</p>
+                    <p>Thus, in respect of foreign investors carrying out their frst project in Vietnam, the
+                        incorporation of the Vietnamese legal entity takes place simultaneously with the licensing of
+                        their frst project. In other words, a foreign investor cannot incorporate a legal entity without
+                        a project. However, subsequent to the frst project, an investor may carry out additional
+                        projects either using the established legal entity or by setting up a new entity. </p></div>
+            </div>
+            <div class="toggle-item col-md-6">
+                <div class="toggle-heading clearfix"> 4. What types of Vietnamese legal entities are available?</div>
+                <div class="toggle-content"><p>A foreign investor (just like a local investor) may select one of the
+                    following Vietnamese legal entities to carry out a project:</p>
+                    <ul>
+                        <li>A limited liability company (“LLC”), in the form of either a single-member LLC (“SLLC”) or
+                            an LLC with two or more (up to a maximum of 50) members (“MLLC”).
+                        </li>
+                        <li>A shareholding or joint stock company (“JSC”) which is a company with at least three
+                            shareholders but no maximum number of shareholders.
+                        </li>
+                        <li>A general partnership or a limited liability partnership.</li>
+                        <li>A private enterprise (akin to a sole proprietorship).</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="toggle-item col-md-6">
+                <div class="toggle-heading clearfix"> 5. What factors should a foreign investor consider in deciding
+                    whether to choose a JV (Partly foreign-owned LLC (The Vietnam joint venture company)?
+                </div>
+                <div class="toggle-content"><p>The two main factors that lead a foreign investor to choose a JV are: (i)
+                    some business sectors in Vietnam require a JV to establish a commercial presence in Vietnam; and
+                    (ii) the Vietnamese party has a key asset, local know-how and knowledge, or other factors that make
+                    the JV the preferred choice. For example, in real estate development projects, the Vietnamese party
+                    usually has the land use rights, which by law cannot be directly transferred to a foreign investor,
+                    but may be contributed into a JV. </p></div>
+            </div>
+            <div class="toggle-item col-md-6">
+                <div class="toggle-heading clearfix"> 6. What are the Corporate Income Tax (CIT) Rates in Vietnam?</div>
+                <div class="toggle-content"><p>The standard corporate income tax (CIT) rate is 20%, though enterprises
+                    operating in the oil and gas sectors will be subject to rates between 32% and 50%;</p>
+                    <p>Dividends paid by a Vietnamese company to its corporate shareholders will be completely tax
+                        exempt. Furthermore, no withholding tax will be imposed on dividends remitted to overseas
+                        corporate shareholders. For individual shareholders, the withholding tax will be 5%;</p>
+                    <p>Interest payments and royalties paid to non-residents individuals or corporate entities will be
+                        subject to withholding tax of 5% and 10% respectively;</p>
+                    <p>Personal income tax for residents is levied under a progressive system, ranging between 5% and
+                        35%. However, for non-resident individuals, the tax is levied at a flat rate of 20%.</p></div>
+            </div>
+        </div>
+        <div class="pos-btn2"><a class="btn btn-primary" href="/company-formation/faq" title="FAQs"> View more </a>
+        </div>
+    </div>
+</div>
+<div class="padding-block">
+    <div class="container position-relative"><h2>Promotion</h2>
+        <div class="row padding-topdesk">
+            <div class="col-sm-6">
+                <div class="image-box clearfix">
+                    <div class="image"><a href="/promotion/one-ibc-is-now-offering-vietnam-incorporations"
+                                          target="_self" title="One IBC is now offering Vietnam incorporations"> <img
+                            alt="One IBC is now offering Vietnam incorporations"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/one-ibc-now-offering-vietnam-incorporations-t-1569549263.png"
+                            title="One IBC is now offering Vietnam incorporations"> </a></div>
+                    <div class="text"><h3><a href="/promotion/one-ibc-is-now-offering-vietnam-incorporations"
+                                             target="_self" title="One IBC is now offering Vietnam incorporations"> One
+                        IBC is now offering Vietnam incorporations </a></h3>
+                        <p class="hidden-xs color-8d">For this occasion, One IBC offers a special promotion package with
+                            free 3 months virtual office (equivalent US$ 500) and US$ 300 when you set up a company in
+                            Vietnam.</p>
+                        <div class="sticker-detail display-inline"><a class="countries" href="/promotion/vietnam"
+                                                                      target="_self" title="Vietnam"> Vietnam </a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="image-box clearfix">
+                    <div class="image"><a
+                            href="/promotion/one-ibc-club-has-been-established-for-you-more-uses-more-benefits"
+                            target="_self" title="One IBC Club has been established for you. More uses, more benefits">
+                        <img alt="One IBC Club has been established for you. More uses, more benefits"
+                             src="https://dusyzh85wmzqh.cloudfront.net/uploads/oneibc-point-t-1557368633.png"
+                             title="One IBC Club has been established for you. More uses, more benefits"> </a></div>
+                    <div class="text"><h3><a
+                            href="/promotion/one-ibc-club-has-been-established-for-you-more-uses-more-benefits"
+                            target="_self" title="One IBC Club has been established for you. More uses, more benefits">
+                        One IBC Club has been established for you. More uses, more benefits </a></h3>
+                        <p class="hidden-xs color-8d">We are glad to inform you that our One IBC Club has been
+                            established which provides a world of benefits to the One IBC Club’s members.</p></div>
+                </div>
+            </div>
+        </div>
+        <div class="pos-btn"><a class="btn btn-primary" href="/promotion" target="_self" title="View more"> View
+            more </a></div>
+    </div>
+</div>
+<div class="padding-block position-relative color-white">
+    <div class="img-absolute"><img alt="One IBC Club"
+                                   src="https://dusyzh85wmzqh.cloudfront.net/uploads/loyalty-member-1543629971.jpg" title="One IBC Club"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-sm-7"><h2 class="color-white">One IBC Club</h2>
+                <div class="allow-heading-white"><p>There are four rank levels of ONE IBC membership. Advance through
+                    three elite ranks when you meet qualifying criteria. Enjoy elevated rewards and experiences
+                    throughout your journey. Explore the benefits for all levels. Earn and redeem credit points for our
+                    services.</p>
+                    <p><strong>Earning points</strong><br> Earn Credit Points on qualifying purchasing of services.
+                        You’ll earn credit Points for every eligible U.S. dollar spent.</p>
+                    <p><strong>Using points</strong><br> Spend credit points directly for your invoice. 100 credit
+                        points = 1 USD.</p></div>
+            </div>
+            <div class="col-md-4 col-sm-5 textcenter-mobile text-right"><a class="btn btn-primary btn-transparent"
+                                                                           href="/one-ibc-club"
+                                                                           target="_self" title="See All Benefits">See
+                All Benefits</a></div>
+        </div>
+    </div>
+</div>
+<div class="padding-block color-white">
+    <div class="container">
+        <div class="padding-block position-relative">
+            <div class="img-absolute"><img
+                    alt="Partnership & Intermediaries"
+                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/partnership-bg-1543629972.jpg" title="Partnership & Intermediaries"></div>
+            <div class="row">
+                <div class="col-xs-offset-1 col-xs-10"><h2 class="color-white">Partnership & Intermediaries</h2>
+                    <div class="allow-heading-white"><p><strong>Referral Program</strong></p>
+                        <ul>
+                            <li>Become our referer in 3 simple steps and earn up to 12% commission on every client you
+                                introduce to us.
+                            </li>
+                            <li>More Refer, More Earning!</li>
+                        </ul>
+                        <p><strong>Partnership Program</strong></p>
+                        <p>We cover the market with an ever-growing network of business and professional partners that
+                            we actively support in terms of professional support, sales, and marketing.</p></div>
+                    <div class="textcenter-mobile"><a class="btn btn-primary btn-transparent" href="/partnership"
+                                                      target="_self"
+                                                      title="Partnership & Intermediaries">See All Benefits</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-block bg-f3">
+    <div class="container position-relative"><h2>Starting a Business in Vietnam Publications</h2>
+        <div class="row padding-topdesk">
+            <div class="col-sm-4">
+                <div class="article-imgage-box stylemobile">
+                    <div class="image"><a
+                            href="/insight/jurisdiction-update/vietnams-improving-competitiveness-2019-global-competitive-index"
+                            target="_self" title="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index">
+                        <img alt="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index"
+                             src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-vietnams-improving-competitiveness-2019-global-competitive-index-1573553895.png"
+                             title="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index"> </a></div>
+                    <div class="text"><h3><a
+                            href="/insight/jurisdiction-update/vietnams-improving-competitiveness-2019-global-competitive-index"
+                            target="_self" title="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index">
+                        Vietnam’s Improving Competitiveness: 2019 Global Competitive Index </a></h3>
+                        <div class="post-date hidden-xs">12 Nov, 2019, 18:16</div>
+                        <a class="btn btn-read-more"
+                           href="/insight/jurisdiction-update/vietnams-improving-competitiveness-2019-global-competitive-index" target="_self"
+                           title="Vietnam’s Improving Competitiveness: 2019 Global Competitive Index"> Read more </a>
+                        <p class="clearfix"></p>
+                        <div class="small-sticker display-inline"><a class="countries"
+                                                                     href="/insight/jurisdiction-update/vietnam"
+                                                                     target="_self" title="Vietnam"> Vietnam </a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="article-imgage-box stylemobile">
+                    <div class="image"><a
+                            href="/insight/jurisdiction-update/vietnam-the-transformation-of-a-developing-country"
+                            target="_self" title="Vietnam - The transformation of a developing country"> <img
+                            alt="Vietnam - The transformation of a developing country"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/vietnam-the-transformation-t-1567675472.png"
+                            title="Vietnam - The transformation of a developing country"> </a></div>
+                    <div class="text"><h3><a
+                            href="/insight/jurisdiction-update/vietnam-the-transformation-of-a-developing-country"
+                            target="_self" title="Vietnam - The transformation of a developing country"> Vietnam - The
+                        transformation of a developing country </a></h3>
+                        <div class="post-date hidden-xs">03 Sep, 2019, 11:20</div>
+                        <a class="btn btn-read-more"
+                           href="/insight/jurisdiction-update/vietnam-the-transformation-of-a-developing-country" target="_self"
+                           title="Vietnam - The transformation of a developing country"> Read more </a>
+                        <p class="clearfix"></p>
+                        <div class="small-sticker display-inline"><a class="countries"
+                                                                     href="/insight/jurisdiction-update/vietnam"
+                                                                     target="_self" title="Vietnam"> Vietnam </a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="article-imgage-box stylemobile">
+                    <div class="image"><a
+                            href="/insight/jurisdiction-update/comparison-between-limited-liability-company-and-joint-stock-company"
+                            target="_self" title="Comparison between Limited Liability Company and Joint-Stock Company">
+                        <img alt="Comparison between Limited Liability Company and Joint-Stock Company"
+                             src="https://dusyzh85wmzqh.cloudfront.net/uploads/comparison-between-limited-t-1567222214.png"
+                             title="Comparison between Limited Liability Company and Joint-Stock Company"> </a></div>
+                    <div class="text"><h3><a
+                            href="/insight/jurisdiction-update/comparison-between-limited-liability-company-and-joint-stock-company"
+                            target="_self" title="Comparison between Limited Liability Company and Joint-Stock Company">
+                        Comparison between Limited Liability Company and Joint-Stock Company </a></h3>
+                        <div class="post-date hidden-xs">24 Aug, 2019, 11:11</div>
+                        <a class="btn btn-read-more"
+                           href="/insight/jurisdiction-update/comparison-between-limited-liability-company-and-joint-stock-company" target="_self"
+                           title="Comparison between Limited Liability Company and Joint-Stock Company"> Read more </a>
+                        <p class="clearfix"></p>
+                        <div class="small-sticker display-inline"><a class="countries"
+                                                                     href="/insight/jurisdiction-update/vietnam"
+                                                                     target="_self" title="Vietnam"> Vietnam </a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pos-btn"><a class="btn btn-primary" href="/insight/jurisdiction-update" target="_self"
+                                title="View more"> View more </a></div>
+    </div>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '122.162.52.242',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'offshorecompanyformation',
+        'dynx_incorpCountry': 'VN',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Merchant Account Online - FAQs</title>
+    <meta content="Merchant Account Online - FAQs" name="description">
+    <meta content="Merchant Account Online - FAQs" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs">
+    <div class="container"><a href="/" target="_self" title="Home">Home</a> <a href="/merchant-account-online"
+                                                                               target="_self"
+                                                                               title="Merchant Account Online"> Merchant
+        Account Online </a> <a href="/merchant-account-online/faq" target="_self" title="FAQs"> FAQs </a></div>
+</div>
+<div id="slider">
+    <div class="container-fluid nopadding">
+        <div class="carousel slide" data-ride="carousel" id="sliders">
+            <ol class="carousel-indicators">
+                <li class="active" data-slide-to="0" data-target="#sliders"></li>
+                <li data-slide-to="1" data-target="#sliders"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item active ">
+                    <div class="img-slider"><img alt="Prime Location with New Our Officein Singapore"
+                                                 class="hidden-xs"
+                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/change-new-office-singapore-1551673607.png"
+                                                 title="Prime Location with New Our Officein Singapore"> <img
+                            alt="Prime Location with New Our Officein Singapore"
+                            class="hidden-md"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/change-new-office-singapore-t-1551673608.png"
+                            title="Prime Location with New Our Officein Singapore"></div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>Prime Location with New Our Office<br>in Singapore</h1>
+                            <p>Hot Offer to get 3 months FREE of Singapore Virtual Office</p> <a class="btn btn-default"
+                                                                                                 href="/insight/articles/announcement-of-singapore-office-relocation"
+                                                                                                 target="_self"
+                                                                                                 title="Prime Location with New Our Officein Singapore">
+                                Learn More </a></div>
+                    </div>
+                </div>
+                <div class="item ">
+                    <div class="img-slider"><img alt="More Use, More Cashback"
+                                                 class="hidden-xs"
+                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-merchant-account-1545043723.png" title="More Use, More Cashback"> <img
+                            alt="More Use, More Cashback"
+                            class="hidden-md"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-merchant-account-t-1545043724.png" title="More Use, More Cashback"></div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>More Use, More Cashback</h1>
+                            <p>Become loyal clients of us now</p> <a class="btn btn-default"
+                                                                     href="/merchant-account-online" target="_self"
+                                                                     title="More Use, More Cashback"> Learn More </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="menu-back">
+    <div class="container">
+        <div class="MultiCarousel" data-interval="1000" data-slide="1" id="MultiCarousel">
+            <div class="MultiCarousel-inner">
+                <div class="item "><a href="/merchant-account-online/featured" target="_self" title="Featured">
+                    Featured </a></div>
+                <div class="item "><a href="/merchant-account-online/how-to-apply" target="_self" title="How to Apply">
+                    How to Apply </a></div>
+                <div class="item "><a href="/merchant-account-online/fee-and-schedule" target="_self"
+                                      title="Fee and Schedule"> Fee and Schedule </a></div>
+                <div class="item active"><a href="/merchant-account-online/faq" target="_self" title="FAQs"> FAQs </a>
+                </div>
+                <div class="item "><a href="/merchant-account-online/download" target="_self"
+                                      title="Download &amp; Form"> Download & Form </a></div>
+            </div>
+            <button class="leftLst"></button>
+            <button class="rightLst"></button>
+        </div>
+    </div>
+</div>
+<div class="padding-block paddingtop-mobile clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"><h1>FAQs</h1>
+                <div class="content-format">
+                    <div class="toggles toggles-style3">
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 1. Which industries do you service?</div>
+                            <div class="toggle-content"><p>We work with a rather wide range of digital goods and
+                                services providers from games applications, to dating websites and software. What all
+                                our vendors do have in common is that they are growing online businesses that need a
+                                robust to check the prohibited industries you please refer to our content policy.</p>
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 2. Which web browser is compatible to use for World
+                                Payments Corp
+                            </div>
+                            <div class="toggle-content"><p>For Chrome we support version 17 and above.</p>
+                                <p>For Internet Explorer we support version 8 and above.</p>
+                                <p>For Firefox we support version 2 and above.</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 3. Do we need to be PCI certified?</div>
+                            <div class="toggle-content"> All vendors who process, transmit or store card details must be
+                                compliant with the Payment Card Industry Data Security Standard. By partnering with
+                                World Payments Corporation, you will be processing in compliance with the strictest
+                                level of PCI requirements.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 4. Who handles all customer billing related questions
+                                and issues?
+                            </div>
+                            <div class="toggle-content"><p>Direct all of your customers’ billing inquiries and issues
+                                over to us. We will exceed your customers’ service expectations.</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 5. What do I need in order to start selling?</div>
+                            <div class="toggle-content"> First you will need to sign up with World Payments Corporation
+                                by submitting an application. Your application will be processed and your website will
+                                be reviewed by our underwriting team. During the review, we look at your products and
+                                services, review your marketing techniques, understand the pricing and review the
+                                checkout process (don’t forget to add a refund policy and privacy policy). After the
+                                application is approved and your site is up and running, you can start selling with
+                                World Payments Corporation.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 6. How to Apply Vendor Account?</div>
+                            <div class="toggle-content"><h2>Step 1: Registration, receiving information and confirming
+                                order</h2>
+                                <ul>
+                                    <li>Fill out the secure online form at www.worldpaymentscorp.com to register.</li>
+                                    <li>In this step, you must fill in the correct information. World Payments
+                                        Corporation will base the service on the information you provide.
+                                    </li>
+                                    <li>After World Payments Corporation have received your order, you will receive a
+                                        confirmation email.
+                                    </li>
+                                    <li>Update your information if you have made some mistakes.</li>
+                                </ul>
+                                <h2>Step 2: Review your website</h2>
+                                <ul>
+                                    <li>World Payments Corporation will review your website and decide if your website
+                                        can use our services or not. We will check the following.
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li>The terms and conditions of use</li>
+                                    <li>The vendor’s name appears prominently on the site</li>
+                                    <li>Your refund policy is clearly posted</li>
+                                    <li>Your privacy policy is set out</li>
+                                    <li>The product/service offered is clearly described</li>
+                                    <li>Your payment guidelines</li>
+                                </ul>
+                                <h2>Step 3: Provide sandbox account, checking features and built-in web-vendor
+                                    account.</h2>
+                                <ul>
+                                    <li>After reviewing your website, World Payments Corporation will give you a sandbox
+                                        vendor account to check the payment functions of your account.
+                                    </li>
+                                    <li>When this account is operated, we will give a guide to your integrated vendor
+                                        account on your website.
+                                    </li>
+                                </ul>
+                                <h2>Step 4: Activate service</h2>
+                                <ul>
+                                    <li>After integration of your vendor account, World Payments Corporation will
+                                        provide a tool for you to check daily transactions, as well as the fees being
+                                        paid to you.
+                                    </li>
+                                </ul>
+                                <p>&#160;</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 7. What payment methods does World Payments
+                                Corporation offer my customers?
+                            </div>
+                            <div class="toggle-content"> You are free to choose the combination of payment solution
+                                among Visa, Mastercard and American Express. In the future, the variety would increase
+                                based on the needs of our customers
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 8. What currencies does World Payment Corp support?
+                            </div>
+                            <div class="toggle-content"> World Payment Corp support for these main currencies: USD, AUD,
+                                EUR, SGD.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 9. How does World Payments Corp work?</div>
+                            <div class="toggle-content"> World Payments Corp works by allowing sellers to accept online
+                                payment for their goods and services. After you are approved, integrate your website
+                                with World Payments Corp using either our free Plug and Play cart or a shopping cart of
+                                your choice. Your customers will order on your site, and then pay within World Payments
+                                Corp’s secure PCI compliant payment page. When the order is completed successfully, we
+                                will send the customer an order confirmation and then send them back to your website.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 10. What is the A/B testing feature?</div>
+                            <div class="toggle-content"><p>A/B testing allows you to optimize your payment flow
+                                performance by checking what design elements work best with your customers.</p>
+                                <p>For example, create 2 simultaneous payment screens, one with an email field (screen
+                                    A) and one without (screen B). &#160;Compare the results and decide whether adding
+                                    an email field is worth it for your business.</p>
+                                <p>You can compare variant performance over time using a variety of parameters such as
+                                    payment clicks, visitors, conversion rate, approval ratio, volume and actual CPU
+                                    (cent per user/ revenue per user).</p>
+                                <p>Take advantage of this unique and valuable performance tool offered free of charge
+                                    with your World Payments vendor account.</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 11. Can we customize our payment page?</div>
+                            <div class="toggle-content"> One of the main benefits of World Payments is the outstanding
+                                customized checkout experience you can offer your customers. You can easily add your
+                                logo, change the colors and background of the payment screen, add/remove fields and even
+                                make use your own HTML code.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 12. How hard is it to integrate with World Payments?
+                            </div>
+                            <div class="toggle-content"><p>World Payments offers a hosted payment solution, which means
+                                that you are essentially redirecting your customers to our highly converting payment
+                                flow. The benefit is that there is little to no integration required and due to simple
+                                (no programming) customization, customers never feel as if they have left your
+                                store.</p>
+                                <p>Many vendors are able to complete the process on their own in minutes even, but for
+                                    those that need a walk through, our support team is available 24/7.</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 13. How will I get paid?</div>
+                            <div class="toggle-content"><p>Credits to Partner accounts will be accumulated and paid out
+                                on the following schedule:</p>
+                                <p>For all credits created between the 1st to and including the 15th of the month,
+                                    payment will occur 5 business days after the 15th day of the month.</p>
+                                <p>For all credits created between the 16th to and including the last day of the month,
+                                    payment will occur 5 business days after the last day of the month.</p>
+                                <p>Payments will be delivered to you via PayPal in USD. Any money owed to you will be
+                                    paid out twice monthly as long as your balance is above $25 USD. If your balance is
+                                    below $25, it will be held until the next payout period.</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 14. How long does it take to set up the payment
+                                gateway?
+                            </div>
+                            <div class="toggle-content"> It can be done in as fast as 3 working days. Do take note that
+                                this is not inclusive of bank application processes, and can also depend on the
+                                complexity of the customization services you would like for your e-commerce business
+                                model.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 15. Do you supply card terminals for physical shops?
+                            </div>
+                            <div class="toggle-content"> Unfortunately, we do not provide physical credit card
+                                terminals. Since e-commerce is the modern way to go, why not consider using your
+                                smartphone or tablet to start accepting online payments today!
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 16. Do you have a minimum transaction amount?</div>
+                            <div class="toggle-content"> Yes, 0.50USD. We do not have limitation for maximum transaction
+                                amount.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 17. What is Merchant/Vendor discount rate (MDR)?</div>
+                            <div class="toggle-content"><p>It is the percentage of the transaction amount that the
+                                acquiring bank charges to the merchant for providing authorization to accept credit
+                                cards.</p>
+                                <p>World Payments Corp offers the MDR of 2.85 % + USD 0.40 and below.</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 18. Who sets the currency conversion rates?</div>
+                            <div class="toggle-content"> The bank of the cardholder set the exchange rate. World
+                                Payments Corp is the receiving party only.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 19. What are the supporting documents I need to file
+                                against chargeback disputes?
+                            </div>
+                            <div class="toggle-content"> Documents to file against disputes include the delivery receipt
+                                of goods or service, signed contracts or signed items received (whichever is
+                                applicable).
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 20. Do you accept oversea transaction?</div>
+                            <div class="toggle-content"><p>Yes, we do accept payment from oversea too.</p>
+                                <p>Please take note to select "Accept Non 3DS Card" in merchant settings else your WPC
+                                    account will disable oversea transaction.</p>
+                                <p>For security reason, all WPC vendor account are set to accept 3DS Card.</p>
+                                <p>So, how 3-D Secure works?</p>
+                                <p>Click here to read more about our 3D Secure system.</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 21. Do you charge for failed transactions?</div>
+                            <div class="toggle-content"> For failed transaction it mean we could not capture the
+                                transaction. Charges applied only to successful transaction.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 22. How do I cancel my order and get a refund?</div>
+                            <div class="toggle-content"><p>Please contact the store from which you made the purchase.
+                                The store is responsible at all times for any queries relating to the payment and
+                                fulfilment of your order. Their contact details should be displayed on their website,
+                                the store purchase receipt and on the transaction confirmation email.</p>
+                                <p>WPC only provide stores with the ability to accept card payments securely over the
+                                    internet. We do not handle the goods and we are not authorized to cancel orders or
+                                    give refunds.</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 23. How to calculate the FEES per transaction</div>
+                            <div class="toggle-content"><p>For the formula on how to calculate the fees, kindly see the
+                                working breakdown below, which assumes an exchange rate of SGD to USD is 1SGD =
+                                0.73USD.</p>
+                                <h2>For settlement in SGD</h2>
+                                <p>Gross Amount Captured &#160; = 100.00 SGD</p>
+                                <p>Fees (MDR+ Refund fee) &#160;= MDR (100*2.85%) + &#160;(0.40 USD)</p>
+                                <p>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;
+                                    &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; = 2.85 SGD + 0.40
+                                    USD</p>
+                                <p>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;
+                                    &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; = 2.85 SGD + 0.55
+                                    SGD</p>
+                                <p>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;
+                                    &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; = 3.4 SGD</p>
+                                <p>Net Amount = 100.00 - 3.4 = 96.6 SGD</p>
+                                <h2>For settlement in non-SGD</h2>
+                                <p>Gross Amount Captured = 100.00 USD</p>
+                                <p>Fees (MDR+ Refund fee) = MDR (100*3.3%) + &#160;(0.40 USD)</p>
+                                <p>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;
+                                    &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;= 3.30 + 0.4</p>
+                                <p>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;
+                                    &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;= $3.7</p>
+                                <p>Nett Amount = 100.00 - 3.7 = 96.3 USD</p>
+                                <p>Hope this explain</p></div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 24. How long can i expect a refund from merchant?
+                            </div>
+                            <div class="toggle-content"> Once the merchant refund,it will take approximately 15 working
+                                days to reach the originate bank account.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 25. What is the chargeback process like?</div>
+                            <div class="toggle-content"><p>The chargeback process is described below.</p>
+                                <ol>
+                                    <li>Buyer files a chargeback</li>
+                                    <li>WPC receives notification of chargeback</li>
+                                    <li>Bank deducts the chargeback amount from WPC. WPC temporarily holds the
+                                        chargeback amount in the seller's WPC account
+                                    </li>
+                                    <li>WPC emails the seller as soon as possible</li>
+                                    <li>Seller emails proof of purchase to WPC to dispute the chargeback</li>
+                                    <li>WPC disputes the chargeback and awaits resolution from the credit card company
+                                    </li>
+                                    <li>If investigation is resolved in favour of the seller, WPC is reimbursed and
+                                        unhold the chargeback amount in the seller's WPC account.
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 26. When I sell, and get buyers to pay, how long can I
+                                get my money?
+                            </div>
+                            <div class="toggle-content"><p>The whole process:</p>
+                                <ul>
+                                    <li>3 days banking process from customer bank to WPC holding bank</li>
+                                    <li>2 to 3 days for transaction verification</li>
+                                    <li>3 days banking process from WPC holding bank to merchant bank</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 27. How about processing limits, fund reserves and
+                                pay-out times?
+                            </div>
+                            <div class="toggle-content"> There is no limit to the amount you can accept each month/per
+                                transaction through a merchant services provider, and your funds will be transferred to
+                                your bank account on the same schedule, regardless of volume. Normally pay-out is within
+                                1 week for all merchant services providers we offer to you.
+                            </div>
+                        </div>
+                        <div class="toggle-item">
+                            <div class="toggle-heading clearfix"> 28. What are the minimum requirements of an e-commerce
+                                website?
+                            </div>
+                            <div class="toggle-content"><p>Card brands generally require merchants on all platforms (web
+                                pages, apps, invoices or contracts) to have policies that clearly disclose certain
+                                business information and cardholder rights to potential customers. The specific policy
+                                requirements may vary depending on the location where you operate, the card brands you
+                                accept, and your business model.</p>
+                                <h2>Offshore Company Corp requirements</h2>
+                                <p>To help ensure that our merchants maintain the required policies, Offshore Company
+                                    Corp performs periodic reviews of our merchants&rsquo; websites. You can avoid being
+                                    flagged by our risk team by ensuring that the following information is clearly
+                                    disclosed to your customers.</p>
+                                <ul>
+                                    <li>Contact information</li>
+                                    <li>Pricing information</li>
+                                    <li>Refund or cancellation policies</li>
+                                    <li>Privacy policy</li>
+                                    <li>Delivery time frames (if you are shipping physical goods)</li>
+                                    <li>Terms and conditions of service</li>
+                                </ul>
+                                <h2>Contact information </h2>
+                                <p>Any of the following are considered sufficient contact information.</p>
+                                <ul>
+                                    <li>A listed email address</li>
+                                    <li>A listed phone number</li>
+                                    <li>A physical mailing address</li>
+                                    <li>Social media accounts</li>
+                                </ul>
+                                <h2>Pricing information</h2>
+                                <p>Pricing should be made clear to customers on your site before they complete a payment
+                                    with you.</p>
+                                <h3>Custom pricing </h3>
+                                <p>If your pricing is only available in a custom contract or once an invoice has been
+                                    drafted, you'll need to ensure that customers agree to pricing and can easily locate
+                                    your contact information, privacy policy and a refund/cancellation policy in the
+                                    contract or invoice.</p>
+                                <h3>Members-only pricing </h3>
+                                <p>If your pricing and policies are only visible to members on your site, you'll need to
+                                    make it clear that pricing is available upon login. We also recommend that you make
+                                    your contact information, refund/cancellation policy, and privacy policy readily
+                                    available on your site for both members and <br> non-members.</p>
+                                <h3>Donation pricing </h3>
+                                <p>A donation page with preset donation amounts, as well as custom donation options, is
+                                    acceptable for non-profit organisations.</p>
+                                <h3>Mobile payments </h3>
+                                <p>If you only accept payments via a mobile app or mobile website, you&rsquo;ll need to
+                                    either meet all e-commerce website requirements within your mobile platform, or
+                                    provide links to the requirements on your full site.</p>
+                                <h2>Refund and cancellation policies</h2>
+                                <p>No matter what your refund policy is – even if it is that you don't offer refunds –
+                                    it must be present on your website. As a minimum, your refund/cancellation policy
+                                    should detail:</p>
+                                <ul>
+                                    <li>whether or not you provide refunds</li>
+                                    <li>what conditions must be met to be eligible for a refund</li>
+                                    <li>whether there are any fees associated with refunds or cancellations.</li>
+                                </ul>
+                                <h2>Privacy policy</h2>
+                                <p>Your privacy policy can be simple, but it must include the following.</p>
+                                <ul>
+                                    <li>What information you collect from your customers</li>
+                                    <li>What you do with that information</li>
+                                </ul>
+                                <h2>Terms and conditions of service</h2>
+                                <p>This type of agreement typically includes sections that address the following.</p>
+                                <ul>
+                                    <li>Disambiguation/definition of key terms and phrases</li>
+                                    <li>User rights and responsibilities</li>
+                                    <li>Proper or expected usage; potential misuse</li>
+                                    <li>Accountability for online actions, behaviour and conduct</li>
+                                    <li>The use of personal data</li>
+                                    <li>Payment details such as membership or subscription fees</li>
+                                    <li>Opt-out policy describing the procedure for account termination (if available)
+                                    </li>
+                                    <li>Disclaimer/limitation of liability clarifying the site's legal liability for
+                                        damages incurred by users
+                                    </li>
+                                    <li>Whether users will be notified upon modification of terms</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '182.68.2.233',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'merchantaccount',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

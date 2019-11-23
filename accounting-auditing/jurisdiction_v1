@@ -1,0 +1,1428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Accounting &amp; Book Keeping Services | Auditing Service - Jurisdiction Offer</title>
+    <meta content="We provide high quality of accounting and auditing services with regulatory compliance of each jurisdiction. You will be served from A to Z. Call US NOW +852 8199 0825 - Jurisdiction Offer"
+          name="description">
+    <meta content="Accounting, Auditing, Financial Statement, financial report, book keeping - Jurisdiction Offer"
+          name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs">
+    <div class="container"><a href="/" target="_self" title="Home">Home</a> <a href="/accounting-auditing"
+                                                                               target="_self"
+                                                                               title="Accounting &amp; Audit">
+        Accounting & Audit </a> <a href="/accounting-auditing/jurisdiction" target="_self"
+                                   title="Tax – Accounting & Auditing - Jurisdiction Offer"> Tax – Accounting & Auditing
+        - Jurisdiction Offer </a></div>
+</div>
+<div id="slider">
+    <div class="container-fluid nopadding">
+        <div class="carousel slide" data-ride="carousel" id="sliders">
+            <ol class="carousel-indicators">
+                <li class="active" data-slide-to="0" data-target="#sliders"></li>
+                <li data-slide-to="1" data-target="#sliders"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item active ">
+                    <div class="img-slider"><img alt="Prime Location with New Our Officein Singapore"
+                                                 class="hidden-xs"
+                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/change-new-office-singapore-1551673607.png"
+                                                 title="Prime Location with New Our Officein Singapore"> <img
+                            alt="Prime Location with New Our Officein Singapore"
+                            class="hidden-md"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/change-new-office-singapore-t-1551673608.png"
+                            title="Prime Location with New Our Officein Singapore"></div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>Prime Location with New Our Office<br>in Singapore</h1>
+                            <p>Hot Offer to get 3 months FREE of Singapore Virtual Office</p> <a class="btn btn-default"
+                                                                                                 href="/insight/articles/announcement-of-singapore-office-relocation"
+                                                                                                 target="_self"
+                                                                                                 title="Prime Location with New Our Officein Singapore">
+                                Learn More </a></div>
+                    </div>
+                </div>
+                <div class="item ">
+                    <div class="img-slider"><img alt="Accounting & Audit"
+                                                 class="hidden-xs"
+                                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-accounting-auditing-1542020457.png" title="Accounting & Audit"> <img
+                            alt="Accounting & Audit"
+                            class="hidden-md"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/banner-accounting-auditing-t-1542020458.png" title="Accounting & Audit"></div>
+                    <div class="carousel-caption">
+                        <div class="container"><h1>Accounting & Audit</h1>
+                            <p>Local Compliance & Fast Execution</p> <a class="btn btn-default"
+                                                                        href="/accounting-auditing" target="_self"
+                                                                        title="Accounting & Audit"> Learn More </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="menu-back">
+    <div class="container">
+        <div class="MultiCarousel" data-interval="1000" data-slide="1" id="MultiCarousel">
+            <div class="MultiCarousel-inner">
+                <div class="item "><a href="/accounting-auditing" target="_self" title="Featured"> Featured </a></div>
+                <div class="item active"><a href="/accounting-auditing/jurisdiction" target="_self"
+                                            title="Jurisdiction Offer"> Jurisdiction Offer </a></div>
+                <div class="item "><a href="/accounting-auditing/processing" target="_self" title="Process">
+                    Process </a></div>
+                <div class="item "><a href="/accounting-auditing/documents-requirements" target="_self"
+                                      title="Documents requirement"> Documents requirement </a></div>
+                <div class="item "><a href="/accounting-auditing/tax-filing" target="_self" title="Tax Filing"> Tax
+                    Filing </a></div>
+                <div class="item "><a href="/accounting-auditing/bookkeeping-service" target="_self"
+                                      title="Bookkeeping service"> Bookkeeping service </a></div>
+                <div class="item "><a href="/accounting-auditing/faq" target="_self" title="FAQs"> FAQs </a></div>
+                <div class="item "><a href="/accounting-auditing/download" target="_self" title="Download &amp; Form">
+                    Download & Form </a></div>
+            </div>
+            <button class="leftLst"></button>
+            <button class="rightLst"></button>
+        </div>
+    </div>
+</div>
+<div class="banner paddingtop-mobile">
+    <div class="img-absolute hidden-sm hidden-xs"><img
+            alt="Jurisdiction"
+            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/account-audit-banner-jurisdiction-offer.jpg" title="Jurisdiction"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <div class="bg-red"><h1>Jurisdiction Offer</h1>
+                    <p class="allow-heading-white"> Our experienced team of professional accountants, who have vast
+                        experience working in different jurisdictions, which allows us to offer the best solutions and
+                        help to improve your company’s performance by focusing on the key areas and to reduce the
+                        administrative expenses </p></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="toogle-tab">
+    <div class="container">
+        <ul class="row list-unstyled menu-tab">
+            <li class="active col-xs-4 col-sm-2"><a data-toggle="tab" href="#all-locations "> All </a></li>
+            <li class="col-xs-4 col-sm-2"><a data-toggle="tab" href="#1" title="Asia Pacific"> Asia Pacific </a></li>
+            <li class="col-xs-4 col-sm-2"><a data-toggle="tab" href="#2" title="Europe"> Europe </a></li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane fade in active" id="all-locations"><h2>All Locations</h2>
+                <div class="row">
+                    <div class="col-md-4"><p class="text-18"> We at Offshore Company Corp take pride in offering the
+                        entire range of bookkeeping, accounting and auditing services as per the regulatory
+                        requirements. Our registered accountants are well aware of the functionality of the financial
+                        services industry with high standards of objectivity and professional independence. </p></div>
+                    <div class="col-md-7"><h3> Asia Pacific </h3>
+                        <div class="toggles">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Hong Kong" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/hk.png"
+                                        title="Hong Kong"> Hong Kong
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Hong Kong"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/1-accounting-auditing-hong-kong-1544839696.png" title="Hong Kong">
+                                        <p class="padding-left40-top20">Help you prepare, maintain your accounting
+                                            documents and audit by a Certified Public Accountant firm</p></div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn"
+                                                                                     href="/accounting-auditing/jurisdiction/hong-kong"
+                                                                                     target="_self" title="View more">
+                                        View more </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Singapore" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/sg.png"
+                                        title="Singapore"> Singapore
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Singapore"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/3-accounting-auditing-singapore-1544839697.png" title="Singapore">
+                                        <p class="padding-left40-top20">Our specialists assist you to fulfill the
+                                            compliance requirement and keep proper books of accounts, identifying
+                                            tax-efficient strategies</p></div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn"
+                                                                                     href="/accounting-auditing/jurisdiction/singapore"
+                                                                                     target="_self" title="View more">
+                                        View more </a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <h3> Europe </h3>
+                        <div class="toggles">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="United Kingdom"
+                                        src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/gb.png" title="United Kingdom"> United Kingdom
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="United Kingdom"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/1-accounting-auditing-uk-1544839697.png" title="United Kingdom">
+                                        <p class="padding-left40-top20">Prepare account and help to reduce the
+                                            administrative, request UTR number and tax assessment for your company
+                                            allowing you to concentrate on running your business</p></div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn"
+                                                                                     href="/accounting-auditing/jurisdiction/united-kingdom"
+                                                                                     target="_self" title="View more">
+                                        View more </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Malta" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/mt.png"
+                                        title="Malta"> Malta
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Malta"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/4-accounting-auditing-malta-1544839697.png" title="Malta">
+                                        <ul class="padding-left40-top20">
+                                            <li>Only EU member state with full imputation system</li>
+                                            <li>Ideal tax residency status for individuals</li>
+                                            <li>Compliant with EU non-discrimination system</li>
+                                            <li>Gained approval from Organisation for Economic Co-operation and
+                                                Development (OECD)
+                                            </li>
+                                            <li>Extensive network of double taxation treaties, plus benefits even when
+                                                no bilateral treaty in effect
+                                            </li>
+                                            <li>Refundable tax credit scheme – on revenues as dividends to shareholders,
+                                                resident & non-resident
+                                            </li>
+                                            <li>Corporation tax rate: 35% (30% tax refund for a non-resident
+                                                shareholder)
+                                            </li>
+                                            <li>Withholding tax : no witholding tax for non-resident shareholders or
+                                                another company to which dividends are distributed
+                                            </li>
+                                            <li>No anti-CFC rules or legislation are applicable in Malta</li>
+                                            <li>Support registration VAT number</li>
+                                        </ul>
+                                    </div>
+                                    <table class="table table-most">
+                                        <tr class="bg-f3">
+                                            <td><h2 class="text-center">Accounting & Tax services</h2></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="red text-center text-18"><strong>from <span
+                                                    499 class="text-30 value="" currencyValue">US$ 499</span></strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Cyprus" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/cy.png"
+                                        title="Cyprus"> Cyprus
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Cyprus"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/5-accounting-auditing-cyprus-1544839698.png" title="Cyprus">
+                                        <ul class="padding-left40-top20">
+                                            <li>Only EU member state with full imputation system</li>
+                                            <li>Cyprus has adopted International Financial Reporting Standards (IFRS)
+                                            </li>
+                                            <li>Lowest corporation tax in Europe of 12.5%</li>
+                                            <li>Favourable tax regime for Cyprus holding companies, including no tax on
+                                                consolidation, no controlled foreign company (CFC) rules, Exemptions for
+                                                Dividends received from abroad, Foreign PE trading profits & Profits
+                                                from transactions in titles
+                                            </li>
+                                            <li>No taxation on inward or outward dividends and no Capital Gain Tax (CGT)
+                                                on sales of securities. Due to this many security traders have trading
+                                                offices in Cyprus
+                                            </li>
+                                            <li>There are more than 40 double tax treaties (DTT) concluded with other
+                                                countries
+                                            </li>
+                                            <li>Cyprus does not levy a WHT on dividends, interests, and royalties paid
+                                                to non-residents of Cyprus
+                                            </li>
+                                            <li>Except in the case of royalties earned on rights used within Cyprus,
+                                                which are subject to WHT of 10% (5% in the case of cinematograph films)
+                                            </li>
+                                            <li>Support registration VAT number</li>
+                                        </ul>
+                                    </div>
+                                    <table class="table table-most">
+                                        <tr class="bg-f3">
+                                            <td><h2 class="text-center">Accounting & Tax services</h2></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="red text-center text-18"><strong>from <span
+                                                    550 class="text-30 value="" currencyValue">US$ 550</span></strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Switzerland" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/ch.png"
+                                        title="Switzerland"> Switzerland
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Switzerland"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/6-accounting-auditing-switzerland-1544839698.png" title="Switzerland">
+                                        <div class="padding-left40-top20"><p><strong>The Swiss taxation system is highly
+                                            attractive for companies and private persons</strong></p>
+                                            <ul>
+                                                <li>Taxation on three levels ( Federal, Cantonal & Communal taxes )</li>
+                                                <li>Low corporate taxes (Flat rate 8.5% )</li>
+                                                <li>Low taxes for individuals</li>
+                                                <li>Case-by-case treatment in case of expatriates</li>
+                                                <li>Avoiding double taxation</li>
+                                                <li>Lowest value-added tax in Europe (regular VAT is 8%)</li>
+                                                <li>No inheritance taxes for immediate descendants</li>
+                                            </ul>
+                                            <p><strong>Accounting & Tax services offer:</strong></p>
+                                            <ul>
+                                                <li>Bookkeeping</li>
+                                                <li>Preparation Statutory Accounts</li>
+                                                <li>Complying with financial reporting requirements (IFRS or Swiss
+                                                    GAAP)
+                                                </li>
+                                                <li>Interim financial statements</li>
+                                                <li>Financial statement advice</li>
+                                                <li>Consolidations</li>
+                                                <li>Registration of new businesses for tax & VAT</li>
+                                                <li>Tax optimization</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Netherlands" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/nl.png"
+                                        title="Netherlands"> Netherlands
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Netherland"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/9-accounting-auditing-netherland-1544839699.png" title="Netherland">
+                                        <div class="padding-left40-top20"><p><strong>Accounting & Tax services
+                                            offer:</strong></p>
+                                            <ul>
+                                                <li>Bookkeeping</li>
+                                                <li>Preparation of Financial statements (Dutch GAAP)</li>
+                                                <li>Prepare annual accounts (full and abbreviated)</li>
+                                                <li>Prepare corporate income tax returns</li>
+                                                <li>Tax planning</li>
+                                                <li>Filing VAT-returns and reclaiming foreign VAT</li>
+                                                <li>Other financial reports</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Luxembourg" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/lu.png"
+                                        title="Luxembourg"> Luxembourg
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Luxembourg"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/8-accounting-auditing-luxembourg-1544839699.png" title="Luxembourg">
+                                        <div class="padding-left40-top20"><p><strong>Accounting services offer:</strong>
+                                        </p>
+                                            <ul>
+                                                <li>Bookkeeping</li>
+                                                <li>Preparation of Financial statements (IFRS or Luxembourg GAAP)</li>
+                                                <li>Consolidation of group accounts</li>
+                                                <li>Financial Reporting</li>
+                                            </ul>
+                                            <p><strong>Auditing services:</strong></p>
+                                            <ul>
+                                                <li>Statutory audits</li>
+                                            </ul>
+                                            <p><strong>Tax compliance:</strong></p>
+                                            <ul>
+                                                <li>Calculation and/or review of tax provision</li>
+                                                <li>Review of tax assessments</li>
+                                                <li>Contact with the tax authorities</li>
+                                                <li>Preparation of income & wealth tax return</li>
+                                                <li>Support registration VAT number</li>
+                                                <li>Tax consolidation and optimisation</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Gibraltar" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/gi.png"
+                                        title="Gibraltar"> Gibraltar
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Gibraltar"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/7-accounting-auditing-gibraltar-1544839698.png" title="Gibraltar">
+                                        <div class="padding-left40-top20"><p><strong>Accounting & Tax services
+                                            offer:</strong></p>
+                                            <ul>
+                                                <li>Bookkeeping</li>
+                                                <li>Preparation of Financial statements (IFRS)</li>
+                                                <li>Preparation and filing of statutory financial statements</li>
+                                                <li>Preparation of management accounts</li>
+                                                <li>Preparation of Trust accounts</li>
+                                                <li>Preparation of audit files and liaison with auditors</li>
+                                                <li>Completion and filing of Tax Returns</li>
+                                                <li>Completion and filing of Dividend Returns</li>
+                                                <li>Fund accounting</li>
+                                                <li>Support registration VAT number</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="toggles" style="margin-top: -20px">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"> Other Jurisdiction</div>
+                                <div class="toggle-content">
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Contact Us">
+                                        Contact Us </a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="1"><h2>Asia Pacific</h2>
+                <div class="row">
+                    <div class="col-md-4"><p class="text-18"> See more jurisdiction we offer in the Asia Pacific and
+                        choose your favorite jurisdiction </p></div>
+                    <div class="col-md-7">
+                        <div class="toggles">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Hong Kong" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/hk.png"
+                                        title="Hong Kong"> Hong Kong
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Hong Kong"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/1-accounting-auditing-hong-kong-1544839696.png" title="Hong Kong">
+                                        <p class="padding-left40-top20">Help you prepare, maintain your accounting
+                                            documents and audit by a Certified Public Accountant firm</p></div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn"
+                                                                                     href="/accounting-auditing/jurisdiction/hong-kong"
+                                                                                     target="_self" title="View more">
+                                        View more </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Singapore" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/sg.png"
+                                        title="Singapore"> Singapore
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Singapore"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/3-accounting-auditing-singapore-1544839697.png" title="Singapore">
+                                        <p class="padding-left40-top20">Our specialists assist you to fulfill the
+                                            compliance requirement and keep proper books of accounts, identifying
+                                            tax-efficient strategies</p></div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn"
+                                                                                     href="/accounting-auditing/jurisdiction/singapore"
+                                                                                     target="_self" title="View more">
+                                        View more </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"> Other Jurisdiction</div>
+                                <div class="toggle-content">
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Contact Us">
+                                        Contact Us </a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="2"><h2>Europe</h2>
+                <div class="row">
+                    <div class="col-md-4"><p class="text-18"> See more jurisdiction we offer in the Europe and choose
+                        your favorite jurisdiction </p></div>
+                    <div class="col-md-7">
+                        <div class="toggles">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="United Kingdom"
+                                        src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/gb.png" title="United Kingdom"> United Kingdom
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="United Kingdom"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/1-accounting-auditing-uk-1544839697.png" title="United Kingdom">
+                                        <p class="padding-left40-top20">Prepare account and help to reduce the
+                                            administrative, request UTR number and tax assessment for your company
+                                            allowing you to concentrate on running your business</p></div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn"
+                                                                                     href="/accounting-auditing/jurisdiction/united-kingdom"
+                                                                                     target="_self" title="View more">
+                                        View more </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Malta" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/mt.png"
+                                        title="Malta"> Malta
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Malta"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/4-accounting-auditing-malta-1544839697.png" title="Malta">
+                                        <ul class="padding-left40-top20">
+                                            <li>Only EU member state with full imputation system</li>
+                                            <li>Ideal tax residency status for individuals</li>
+                                            <li>Compliant with EU non-discrimination system</li>
+                                            <li>Gained approval from Organisation for Economic Co-operation and
+                                                Development (OECD)
+                                            </li>
+                                            <li>Extensive network of double taxation treaties, plus benefits even when
+                                                no bilateral treaty in effect
+                                            </li>
+                                            <li>Refundable tax credit scheme – on revenues as dividends to shareholders,
+                                                resident & non-resident
+                                            </li>
+                                            <li>Corporation tax rate: 35% (30% tax refund for a non-resident
+                                                shareholder)
+                                            </li>
+                                            <li>Withholding tax : no witholding tax for non-resident shareholders or
+                                                another company to which dividends are distributed
+                                            </li>
+                                            <li>No anti-CFC rules or legislation are applicable in Malta</li>
+                                            <li>Support registration VAT number</li>
+                                        </ul>
+                                    </div>
+                                    <table class="table table-most">
+                                        <tr class="bg-f3">
+                                            <td><h2 class="text-center">Accounting & Tax services</h2></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="red text-center text-18"><strong>from <span
+                                                    499 class="text-30 value="" currencyValue">US$ 499</span></strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Cyprus" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/cy.png"
+                                        title="Cyprus"> Cyprus
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Cyprus"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/5-accounting-auditing-cyprus-1544839698.png" title="Cyprus">
+                                        <ul class="padding-left40-top20">
+                                            <li>Only EU member state with full imputation system</li>
+                                            <li>Cyprus has adopted International Financial Reporting Standards (IFRS)
+                                            </li>
+                                            <li>Lowest corporation tax in Europe of 12.5%</li>
+                                            <li>Favourable tax regime for Cyprus holding companies, including no tax on
+                                                consolidation, no controlled foreign company (CFC) rules, Exemptions for
+                                                Dividends received from abroad, Foreign PE trading profits & Profits
+                                                from transactions in titles
+                                            </li>
+                                            <li>No taxation on inward or outward dividends and no Capital Gain Tax (CGT)
+                                                on sales of securities. Due to this many security traders have trading
+                                                offices in Cyprus
+                                            </li>
+                                            <li>There are more than 40 double tax treaties (DTT) concluded with other
+                                                countries
+                                            </li>
+                                            <li>Cyprus does not levy a WHT on dividends, interests, and royalties paid
+                                                to non-residents of Cyprus
+                                            </li>
+                                            <li>Except in the case of royalties earned on rights used within Cyprus,
+                                                which are subject to WHT of 10% (5% in the case of cinematograph films)
+                                            </li>
+                                            <li>Support registration VAT number</li>
+                                        </ul>
+                                    </div>
+                                    <table class="table table-most">
+                                        <tr class="bg-f3">
+                                            <td><h2 class="text-center">Accounting & Tax services</h2></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="red text-center text-18"><strong>from <span
+                                                    550 class="text-30 value="" currencyValue">US$ 550</span></strong>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Switzerland" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/ch.png"
+                                        title="Switzerland"> Switzerland
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Switzerland"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/6-accounting-auditing-switzerland-1544839698.png" title="Switzerland">
+                                        <div class="padding-left40-top20"><p><strong>The Swiss taxation system is highly
+                                            attractive for companies and private persons</strong></p>
+                                            <ul>
+                                                <li>Taxation on three levels ( Federal, Cantonal & Communal taxes )</li>
+                                                <li>Low corporate taxes (Flat rate 8.5% )</li>
+                                                <li>Low taxes for individuals</li>
+                                                <li>Case-by-case treatment in case of expatriates</li>
+                                                <li>Avoiding double taxation</li>
+                                                <li>Lowest value-added tax in Europe (regular VAT is 8%)</li>
+                                                <li>No inheritance taxes for immediate descendants</li>
+                                            </ul>
+                                            <p><strong>Accounting & Tax services offer:</strong></p>
+                                            <ul>
+                                                <li>Bookkeeping</li>
+                                                <li>Preparation Statutory Accounts</li>
+                                                <li>Complying with financial reporting requirements (IFRS or Swiss
+                                                    GAAP)
+                                                </li>
+                                                <li>Interim financial statements</li>
+                                                <li>Financial statement advice</li>
+                                                <li>Consolidations</li>
+                                                <li>Registration of new businesses for tax & VAT</li>
+                                                <li>Tax optimization</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Netherlands" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/nl.png"
+                                        title="Netherlands"> Netherlands
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Netherland"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/9-accounting-auditing-netherland-1544839699.png" title="Netherland">
+                                        <div class="padding-left40-top20"><p><strong>Accounting & Tax services
+                                            offer:</strong></p>
+                                            <ul>
+                                                <li>Bookkeeping</li>
+                                                <li>Preparation of Financial statements (Dutch GAAP)</li>
+                                                <li>Prepare annual accounts (full and abbreviated)</li>
+                                                <li>Prepare corporate income tax returns</li>
+                                                <li>Tax planning</li>
+                                                <li>Filing VAT-returns and reclaiming foreign VAT</li>
+                                                <li>Other financial reports</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Luxembourg" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/lu.png"
+                                        title="Luxembourg"> Luxembourg
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Luxembourg"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/8-accounting-auditing-luxembourg-1544839699.png" title="Luxembourg">
+                                        <div class="padding-left40-top20"><p><strong>Accounting services offer:</strong>
+                                        </p>
+                                            <ul>
+                                                <li>Bookkeeping</li>
+                                                <li>Preparation of Financial statements (IFRS or Luxembourg GAAP)</li>
+                                                <li>Consolidation of group accounts</li>
+                                                <li>Financial Reporting</li>
+                                            </ul>
+                                            <p><strong>Auditing services:</strong></p>
+                                            <ul>
+                                                <li>Statutory audits</li>
+                                            </ul>
+                                            <p><strong>Tax compliance:</strong></p>
+                                            <ul>
+                                                <li>Calculation and/or review of tax provision</li>
+                                                <li>Review of tax assessments</li>
+                                                <li>Contact with the tax authorities</li>
+                                                <li>Preparation of income & wealth tax return</li>
+                                                <li>Support registration VAT number</li>
+                                                <li>Tax consolidation and optimisation</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"><img
+                                        alt="Gibraltar" src="https://d3nqrmb1lqq5py.cloudfront.net/images/flag/gi.png"
+                                        title="Gibraltar"> Gibraltar
+                                </div>
+                                <div class="toggle-content">
+                                    <div class="full-img bg-f3"><img
+                                            alt="Gibraltar"
+                                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/7-accounting-auditing-gibraltar-1544839698.png" title="Gibraltar">
+                                        <div class="padding-left40-top20"><p><strong>Accounting & Tax services
+                                            offer:</strong></p>
+                                            <ul>
+                                                <li>Bookkeeping</li>
+                                                <li>Preparation of Financial statements (IFRS)</li>
+                                                <li>Preparation and filing of statutory financial statements</li>
+                                                <li>Preparation of management accounts</li>
+                                                <li>Preparation of Trust accounts</li>
+                                                <li>Preparation of audit files and liaison with auditors</li>
+                                                <li>Completion and filing of Tax Returns</li>
+                                                <li>Completion and filing of Dividend Returns</li>
+                                                <li>Fund accounting</li>
+                                                <li>Support registration VAT number</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Require Now">
+                                        Require Now </a></div>
+                                </div>
+                            </div>
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"> Other Jurisdiction</div>
+                                <div class="toggle-content">
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Contact Us">
+                                        Contact Us </a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="3"><h2>America - Caribbean</h2>
+                <div class="row">
+                    <div class="col-md-4"><p class="text-18"> See more jurisdiction we offer in the America - Caribbean
+                        and choose your favorite jurisdiction </p></div>
+                    <div class="col-md-7">
+                        <div class="toggles">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"> Other Jurisdiction</div>
+                                <div class="toggle-content">
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Contact Us">
+                                        Contact Us </a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="4"><h2>Middle East</h2>
+                <div class="row">
+                    <div class="col-md-4"><p class="text-18"> See more jurisdiction we offer in the Middle East and
+                        choose your favorite jurisdiction </p></div>
+                    <div class="col-md-7">
+                        <div class="toggles">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"> Other Jurisdiction</div>
+                                <div class="toggle-content">
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Contact Us">
+                                        Contact Us </a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="5"><h2>Africa</h2>
+                <div class="row">
+                    <div class="col-md-4"><p class="text-18"> See more jurisdiction we offer in the Africa and choose
+                        your favorite jurisdiction </p></div>
+                    <div class="col-md-7">
+                        <div class="toggles">
+                            <div class="toggle-item">
+                                <div class="toggle-heading clearfix"> Other Jurisdiction</div>
+                                <div class="toggle-content">
+                                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/contact-us"
+                                                                                     target="_self" title="Contact Us">
+                                        Contact Us </a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-block">
+    <div class="container position-relative"><h2>Promotion</h2>
+        <div class="row padding-topdesk">
+            <div class="col-sm-6">
+                <div class="image-box clearfix">
+                    <div class="image"><a href="/promotion/zero-rak-ibc-government-fees-for-re-domiciliation"
+                                          target="_self" title="ZERO RAK IBC government fees for Re-Domiciliation"> <img
+                            alt="ZERO RAK IBC government fees for Re-Domiciliation"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/zero-rak-ibc-government-fees-for-re-domiciliation-t-1572935014.png"
+                            title="ZERO RAK IBC government fees for Re-Domiciliation"> </a></div>
+                    <div class="text"><h3><a href="/promotion/zero-rak-ibc-government-fees-for-re-domiciliation"
+                                             target="_self" title="ZERO RAK IBC government fees for Re-Domiciliation">
+                        ZERO RAK IBC government fees for Re-Domiciliation </a></h3>
+                        <p class="hidden-xs color-8d">Have you ever wonder about relocate your company to another
+                            jurisdiction that offers much better benefits for foreigners, in specific, the UAE?</p>
+                        <div class="sticker-detail display-inline"><a class="countries"
+                                                                      href="/promotion/united-arab-emirates"
+                                                                      target="_self" title="United Arab Emirates (UAE)">
+                            United Arab Emirates (UAE) </a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="image-box clearfix">
+                    <div class="image"><a href="/promotion/caribbean-promotion-bvinevis"
+                                          target="_self" title="Caribbean Promotion - BVI/Nevis"> <img
+                            alt="Caribbean Promotion - BVI/Nevis"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/caribbean-promotion-bvinevis-t-1571822265.png" title="Caribbean Promotion - BVI/Nevis"> </a></div>
+                    <div class="text"><h3><a href="/promotion/caribbean-promotion-bvinevis" target="_self"
+                                             title="Caribbean Promotion - BVI/Nevis"> Caribbean Promotion -
+                        BVI/Nevis </a></h3>
+                        <p class="hidden-xs color-8d">One IBC has launched a promotion campaign for company
+                            incorporation in the British Virgin Islands (BVI) or Saint Kitts and Nevis (Nevis) starting
+                            from 24 October 2019 to 22 November 2019.</p>
+                        <div class="sticker-detail display-inline"><a class="countries"
+                                                                      href="/promotion/saint-kitts-and-nevis"
+                                                                      target="_self" title="Saint Kitts and Nevis">
+                            Saint Kitts and Nevis </a></div>
+                        <div class="sticker-detail display-inline"><a class="countries"
+                                                                      href="/promotion/british-virgin-islands"
+                                                                      target="_self" title="British Virgin Islands">
+                            British Virgin Islands </a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pos-btn"><a class="btn btn-primary" href="/promotion" target="_self" title="View more"> View
+            more </a></div>
+    </div>
+</div>
+<div class="padding-block position-relative color-white">
+    <div class="img-absolute"><img alt="One IBC Club"
+                                   src="https://dusyzh85wmzqh.cloudfront.net/uploads/loyalty-member-1543629971.jpg" title="One IBC Club"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-sm-7"><h2 class="color-white">One IBC Club</h2>
+                <div class="allow-heading-white"><p>There are four rank levels of ONE IBC membership. Advance through
+                    three elite ranks when you meet qualifying criteria. Enjoy elevated rewards and experiences
+                    throughout your journey. Explore the benefits for all levels. Earn and redeem credit points for our
+                    services.</p>
+                    <p><strong>Earning points</strong><br> Earn Credit Points on qualifying purchasing of services.
+                        You’ll earn credit Points for every eligible U.S. dollar spent.</p>
+                    <p><strong>Using points</strong><br> Spend credit points directly for your invoice. 100 credit
+                        points = 1 USD.</p></div>
+            </div>
+            <div class="col-md-4 col-sm-5 textcenter-mobile text-right"><a class="btn btn-primary btn-transparent"
+                                                                           href="/one-ibc-club"
+                                                                           target="_self" title="See All Benefits">See
+                All Benefits</a></div>
+        </div>
+    </div>
+</div>
+<div class="padding-block color-white">
+    <div class="container">
+        <div class="padding-block position-relative">
+            <div class="img-absolute"><img
+                    alt="Partnership & Intermediaries"
+                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/partnership-bg-1543629972.jpg" title="Partnership & Intermediaries"></div>
+            <div class="row">
+                <div class="col-xs-offset-1 col-xs-10"><h2 class="color-white">Partnership & Intermediaries</h2>
+                    <div class="allow-heading-white"><p><strong>Referral Program</strong></p>
+                        <ul>
+                            <li>Become our referer in 3 simple steps and earn up to 12% commission on every client you
+                                introduce to us.
+                            </li>
+                            <li>More Refer, More Earning!</li>
+                        </ul>
+                        <p><strong>Partnership Program</strong></p>
+                        <p>We cover the market with an ever-growing network of business and professional partners that
+                            we actively support in terms of professional support, sales, and marketing.</p></div>
+                    <div class="textcenter-mobile"><a class="btn btn-primary btn-transparent" href="/partnership"
+                                                      target="_self"
+                                                      title="Partnership & Intermediaries">See All Benefits</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-block bg-f3">
+    <div class="container position-relative"><h2>Jurisdiction Update</h2>
+        <div class="row padding-topdesk">
+            <div class="col-sm-4">
+                <div class="article-imgage-box stylemobile">
+                    <div class="image"><a
+                            href="/insight/jurisdiction-update/singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses"
+                            target="_self"
+                            title="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses"> <img
+                            alt="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses-1573607545.png"
+                            title="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses"> </a></div>
+                    <div class="text"><h3><a
+                            href="/insight/jurisdiction-update/singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses"
+                            target="_self"
+                            title="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses">
+                        Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses </a></h3>
+                        <div class="post-date hidden-xs">13 Nov, 2019, 09:13</div>
+                        <a class="btn btn-read-more"
+                           href="/insight/jurisdiction-update/singapore-eurasian-economic-union-fta-opens-asia-for-russian-businesses"
+                           target="_self"
+                           title="Singapore-Eurasian Economic Union FTA Opens Asia for Russian Businesses"> Read more </a>
+                        <p class="clearfix"></p>
+                        <div class="small-sticker display-inline"><a class="countries"
+                                                                     href="/insight/jurisdiction-update/singapore"
+                                                                     target="_self" title="Singapore"> Singapore </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="article-imgage-box stylemobile">
+                    <div class="image"><a
+                            href="/insight/jurisdiction-update/taxation-2-countries-removed-from-list-of-non-cooperative-jurisdictions-5-meet-commitments"
+                            target="_self"
+                            title="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments"> <img
+                            alt="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-taxation-2-countries-removed-from-list-of-non-cooperative-jurisdictions-5-meet-commitments-1573554759.png"
+                            title="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments">
+                    </a></div>
+                    <div class="text"><h3><a
+                            href="/insight/jurisdiction-update/taxation-2-countries-removed-from-list-of-non-cooperative-jurisdictions-5-meet-commitments"
+                            target="_self"
+                            title="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments">
+                        Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet
+                        commitments </a></h3>
+                        <div class="post-date hidden-xs">12 Nov, 2019, 18:35</div>
+                        <a class="btn btn-read-more"
+                           href="/insight/jurisdiction-update/taxation-2-countries-removed-from-list-of-non-cooperative-jurisdictions-5-meet-commitments"
+                           target="_self"
+                           title="Taxation: 2 countries removed from list of non-cooperative jurisdictions, 5 meet commitments"> Read more </a>
+                        <p class="clearfix"></p>
+                        <div class="small-sticker display-inline"><a class="countries"
+                                                                     href="/insight/jurisdiction-update/united-arab-emirates"
+                                                                     target="_self" title="United Arab Emirates (UAE)">
+                            United Arab Emirates (UAE) </a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="article-imgage-box stylemobile">
+                    <div class="image"><a
+                            href="/insight/jurisdiction-update/eu-removes-uae-switzerland-mauritius-from-tax-haven-lists"
+                            target="_self" title="EU removes UAE, Switzerland, Mauritius from tax haven lists"> <img
+                            alt="EU removes UAE, Switzerland, Mauritius from tax haven lists"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-eu-removes-uae-switzerland-mauritius-from-tax-haven-lists-1573554385.png"
+                            title="EU removes UAE, Switzerland, Mauritius from tax haven lists"> </a></div>
+                    <div class="text"><h3><a
+                            href="/insight/jurisdiction-update/eu-removes-uae-switzerland-mauritius-from-tax-haven-lists"
+                            target="_self" title="EU removes UAE, Switzerland, Mauritius from tax haven lists"> EU
+                        removes UAE, Switzerland, Mauritius from tax haven lists </a></h3>
+                        <div class="post-date hidden-xs">12 Nov, 2019, 18:27</div>
+                        <a class="btn btn-read-more"
+                           href="/insight/jurisdiction-update/eu-removes-uae-switzerland-mauritius-from-tax-haven-lists" target="_self"
+                           title="EU removes UAE, Switzerland, Mauritius from tax haven lists"> Read more </a>
+                        <p class="clearfix"></p>
+                        <div class="small-sticker display-inline"><a class="countries"
+                                                                     href="/insight/jurisdiction-update/united-arab-emirates"
+                                                                     target="_self" title="United Arab Emirates (UAE)">
+                            United Arab Emirates (UAE) </a></div>
+                        <div class="small-sticker display-inline"><a class="countries"
+                                                                     href="/insight/jurisdiction-update/switzerland"
+                                                                     target="_self" title="Switzerland">
+                            Switzerland </a></div>
+                        <div class="small-sticker display-inline"><a class="countries"
+                                                                     href="/insight/jurisdiction-update/mauritius"
+                                                                     target="_self" title="Mauritius"> Mauritius </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pos-btn"><a class="btn btn-primary" href="/insight/jurisdiction-update" target="_self"
+                                title="View more"> View more </a></div>
+    </div>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '182.68.2.233',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'accountingaudit',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

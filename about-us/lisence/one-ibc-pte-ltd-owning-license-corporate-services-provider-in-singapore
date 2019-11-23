@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>One IBC Pte. Ltd License Corporate Services Provider in Singapore</title>
+    <meta content="One IBC Pte. Ltd - Owning License Corporate Services Provider in Singapore. If you want to have a consultant or any question about your situation or our services, feel free to contact us. We are ready to support you quickly."
+          name="description">
+    <meta content="One IBC Pte. Ltd - Owning License Corporate Services Provider in Singapore" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home"> Home </a> <a href="/about-us" target="_self"
+                                                                                 title="About us"> About us </a> <a
+            href="/about-us/lisence" target="_self" title="License"> License </a> <a class="hidden-xs"
+                                                                                     href="/about-us/lisence/one-ibc-pte-ltd-owning-license-corporate-services-provider-in-singapore"
+                                                                                     target="_self"
+                                                                                     title="One IBC Pte. Ltd - Owning License Corporate Services Provider in Singapore">
+        One IBC Pte. Ltd - Owning License Corporate Services Provider in Singapore </a></div>
+</div>
+<div class="clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-xs-12"><h1>One IBC Pte. Ltd - Owning License Corporate Services Provider in
+                Singapore</h1>
+                <div class="content-format"><p><strong style="font-style:italic;">Dear Valued customers and
+                    Partners,</strong></p>
+                    <p>We are pleased to inform all valued customers and partners that we holding a full official
+                        license for Corporate Service Provider in Singapore licensed by the local Authority Singapore
+                        (ACRA: Accounting and Corporate Regulatory Authority). Our headquarter and the license in the
+                        centre of Singapore. This is proof that we have the strength and expand our network in one of
+                        the tops of choice for businesses as well as satisfy and comply with the regulatory registration
+                        of the local authority in Singapore. We are thus in a position to the full array of corporate
+                        services the clients worldwide would require.</p>
+                    <p><img alt="One IBC Pte. Ltd - Owning License Corporate Services Provider in Singapore"
+                            height="661"
+                            src="https://dusyzh85wmzqh.cloudfront.net/uploads/oneibc-provider-singapore-1540616768.png"
+                            title="One IBC Pte. Ltd - Owning License Corporate Services Provider in Singapore" width="750"/></p>
+                    <p>As a Corporate Service Provider, our professional expertises serve clients undertake company
+                        incorporation, post-incorporation services. We also provide professional corporate services
+                        comply with the legislation and regulatory, financial reporting, auditing, taxation for
+                        companies. We are truly proud that have full legal and available facility and resources to
+                        ensure clients receive our services, when they set up company in Singapore - one of the
+                        financial and economic hubs in the world.</p>
+                    <p><strong>One IBC Pte. Ltd</strong> is committed to our clients and partners, this announcement
+                        demonstrates our efforts for supplying innovative product and service development and
+                        sustainable business growth that commitment. We look forward to continuing growth in Singapore
+                        and globally.</p>
+                    <p><strong>One IBC Pte. Ltd</strong> offers a full list of corporate services. If you want to have a
+                        consultant or any question about your situation or our services, feel free to contact us. We are
+                        ready to support you quickly.</p>
+                    <p>Thanks for your regardings in this official information. We are fully committed to helping our
+                        clients reach the higher potential to develop and grow their business.</p></div>
+            </div>
+            <div class="col-md-4 col-xs-12"><h2 class="text-center"> Other License </h2>
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <div class="blog-title text-center clearfix"><a
+                                href="/about-us/lisence/one-ibc-pte-ltd-owning-certificate-corporate-services-provider-in-singapore-by-acra-2019-2021"
+                                target="_self"
+                                title="One IBC Pte. Ltd - Owning Certificate Corporate Services Provider in Singapore by ACRA 2019 - 2021">
+                            <img alt="One IBC Pte. Ltd - Owning Certificate Corporate Services Provider in Singapore by ACRA 2019 - 2021"
+                                 class="round-grey"
+                                 src="https://dusyzh85wmzqh.cloudfront.net/uploads/corporate-services-provider-singapore-acra-2019-2021-t-1566877127.png"
+                                 title="One IBC Pte. Ltd - Owning Certificate Corporate Services Provider in Singapore by ACRA 2019 - 2021"> </a>
+                            <h3>
+                                <a href="/about-us/lisence/one-ibc-pte-ltd-owning-certificate-corporate-services-provider-in-singapore-by-acra-2019-2021"
+                                   target="_self"
+                                   title="One IBC Pte. Ltd - Owning Certificate Corporate Services Provider in Singapore by ACRA 2019 - 2021">One
+                                    IBC Pte. Ltd - Owning Certificate Corporate Services Provider in Singapore by ACRA
+                                    2019 - 2021</a></h3></div>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <div class="blog-title text-center clearfix"><a
+                                href="/about-us/lisence/one-ibc-was-granted-as-a-service-provider-of-dmcc-free-zone"
+                                target="_self" title="One IBC was granted as a Service Provider of DMCC Free Zone"> <img
+                                alt="One IBC was granted as a Service Provider of DMCC Free Zone"
+                                class="round-grey"
+                                src="https://dusyzh85wmzqh.cloudfront.net/uploads/License-DMCC-t-1557197774.png" title="One IBC was granted as a Service Provider of DMCC Free Zone">
+                        </a>
+                            <h3><a href="/about-us/lisence/one-ibc-was-granted-as-a-service-provider-of-dmcc-free-zone"
+                                   target="_self" title="One IBC was granted as a Service Provider of DMCC Free Zone">One
+                                IBC was granted as a Service Provider of DMCC Free Zone</a></h3></div>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <div class="blog-title text-center clearfix"><a
+                                href="/about-us/lisence/one-ibc-was-granted-certificate-of-registered-agent-in-united-arab-emirate"
+                                target="_self"
+                                title="One IBC was granted Certificate of Registered Agent in United Arab Emirate"> <img
+                                alt="One IBC was granted Certificate of Registered Agent in United Arab Emirate"
+                                class="round-grey"
+                                src="https://dusyzh85wmzqh.cloudfront.net/uploads/oneibc-fze-t-1540608865.png"
+                                title="One IBC was granted Certificate of Registered Agent in United Arab Emirate"> </a>
+                            <h3>
+                                <a href="/about-us/lisence/one-ibc-was-granted-certificate-of-registered-agent-in-united-arab-emirate"
+                                   target="_self"
+                                   title="One IBC was granted Certificate of Registered Agent in United Arab Emirate">One
+                                    IBC was granted Certificate of Registered Agent in United Arab Emirate</a></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="padding-bottom40">
+    <div class="container">
+        <div class="toggles">
+            <div class="toggle-item">
+                <div class="toggle-heading clearfix"> Awards</div>
+                <div class="toggle-content">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="blog-title text-center clearfix"><a
+                                    href="/about-us/awards/one-ibc-limiteds-2019-achievement-of-receiving-ocbc-banks-value-partner-award-in-5-consecutive-years"
+                                    target="_self"
+                                    title="One IBC Limited’s 2019 achievement of receiving OCBC Bank’s Value Partner Award in 5 consecutive years."> <img
+                                    alt="One IBC Limited’s 2019 achievement of receiving OCBC Bank’s Value Partner Award in 5 consecutive years."
+                                    class="round-grey"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/2019-achievement-ocbc-banks-360-1559626479.png"
+                                    title="One IBC Limited’s 2019 achievement of receiving OCBC Bank’s Value Partner Award in 5 consecutive years."> </a>
+                                <h3>
+                                    <a href="/about-us/awards/one-ibc-limiteds-2019-achievement-of-receiving-ocbc-banks-value-partner-award-in-5-consecutive-years"
+                                       target="_self"
+                                       title="One IBC Limited’s 2019 achievement of receiving OCBC Bank’s Value Partner Award in 5 consecutive years.">
+                                        One IBC Limited’s 2019 achievement of receiving OCBC Bank’s Value Partner Award
+                                        in 5 consecutive years. </a></h3></div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="blog-title text-center clearfix"><a
+                                    href="/about-us/awards/one-ibc-awarded-value-partner-2017-2018-from-ocbc"
+                                    target="_self" title="One IBC Awarded Value Partner 2017 - 2018 from OCBC"> <img
+                                    alt="One IBC Awarded Value Partner 2017 - 2018 from OCBC"
+                                    class="round-grey"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/uploads/oneibc-ocbc-2017-t-1540609123.png" title="One IBC Awarded Value Partner 2017 - 2018 from OCBC"> </a>
+                                <h3><a href="/about-us/awards/one-ibc-awarded-value-partner-2017-2018-from-ocbc"
+                                       target="_self" title="One IBC Awarded Value Partner 2017 - 2018 from OCBC"> One
+                                    IBC Awarded Value Partner 2017 - 2018 from OCBC </a></h3></div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="blog-title text-center clearfix"><a
+                                    href="/about-us/awards/one-ibc-proud-as-one-of-top-partners-of-euro-pacific-bank"
+                                    target="_self" title="One IBC - Proud As One Of Top Partners Of Euro Pacific Bank">
+                                <img alt="One IBC - Proud As One Of Top Partners Of Euro Pacific Bank"
+                                     class="round-grey"
+                                     src="https://dusyzh85wmzqh.cloudfront.net/uploads/oneibc-euro-pacific-bank-t-1540614373.png"
+                                     title="One IBC - Proud As One Of Top Partners Of Euro Pacific Bank"> </a>
+                                <h3><a href="/about-us/awards/one-ibc-proud-as-one-of-top-partners-of-euro-pacific-bank"
+                                       target="_self"
+                                       title="One IBC - Proud As One Of Top Partners Of Euro Pacific Bank"> One IBC -
+                                    Proud As One Of Top Partners Of Euro Pacific Bank </a></h3></div>
+                        </div>
+                    </div>
+                    <div class="btn-viewmore btn-red text-center"><a class="btn" href="/about-us/awards" target="_self"
+                                                                     title="View more"> View more </a></div>
+                </div>
+            </div>
+            <div class="toggle-item">
+                <div class="toggle-heading clearfix"> Publications</div>
+                <div class="toggle-content">
+                    <table class="table table-most">
+                        <thead>
+                        <tr>
+                            <th>File name</th>
+                            <th class="text-center"> Download</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>Fees Schedule Singapore</td>
+                            <td class="download"><a
+                                    href="https://dusyzh85wmzqh.cloudfront.net/uploads/One-IBC-Vietnam-Fees-Schedule-Singapore-180919-1568859146.pdf"
+                                    target="_self" title="Download"> <img
+                                    alt="Download"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                        </tr>
+                        <tr>
+                            <td>Fact Sheet Singapore</td>
+                            <td class="download"><a
+                                    href="https://dusyzh85wmzqh.cloudfront.net/uploads/OneIBC-Vietnam-FactSheet-Singapore-25042019-1556249126.pdf"
+                                    target="_self" title="Download"> <img
+                                    alt="Download"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                        </tr>
+                        <tr>
+                            <td>Introduction One IBC Vietnam</td>
+                            <td class="download"><a
+                                    href="https://dusyzh85wmzqh.cloudfront.net/uploads/OneIBC-Vietnam-IntroductionSingapore-25042019-1556249127.pdf"
+                                    target="_self" title="Download"> <img
+                                    alt="Download"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                        </tr>
+                        <tr>
+                            <td>Point Contact Sheet</td>
+                            <td class="download"><a href="" target="_self" title="Download"> <img
+                                    alt="Download"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                        </tr>
+                        <tr>
+                            <td>One IBC Corporate Brochure</td>
+                            <td class="download"><a
+                                    href="https://dusyzh85wmzqh.cloudfront.net/uploads/Profile-OneIBC-2018-1541759736.pdf"
+                                    target="_self" title="Download"> <img
+                                    alt="Download"
+                                    src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-download.png" title="Download"> </a></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="toggle-item">
+                <div class="toggle-heading clearfix"> About Us</div>
+                <div class="toggle-content">
+                    <div class="content-format">
+                        <p>
+                            <iframe allowfullscreen="" frameborder="0" height="450"
+                                    src="https://www.youtube.com/embed/IWAMlrhNVek" width="100%"></iframe>
+                        </p>
+                        <h2>About Us</h2>
+                        <p>Offshore Company Corp was established with specialised services for incorporation and support
+                            services, such as banking support, virtual office and local phone. We are proud to offer our
+                            customers the best, convenient services, solutions and products, with over 32 branches,
+                            representative offices and associated companies in 25 countries around the world.</p>
+                        <h3>Offshore Company Corp – bringing core values to businesses</h3>
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12"><p><img
+                                    align="absmiddle"
+                                    alt="Confidentiality" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/1-about-us-1545019469.svg" title="Confidentiality"
+                                    width="32"/> <strong>Confidentiality</strong></p>
+                                <ul>
+                                    <li>Confidentiality is one of the most important aspects of our work. We guarantee
+                                        the privacy of our customers through three key components.
+                                    </li>
+                                    <li>Our website is completely secure. The data our customers enter on our websites
+                                        is encrypted using SSL 128-bit certificate encryption.
+                                    </li>
+                                    <li>Our IT infrastructure at our offices is fully secure in order to prevent any
+                                        unauthorised access.
+                                    </li>
+                                    <li>Our customer database cannot be printed or exported. So, all the confidential
+                                        data or personal data of our customers is strictly confined to our offices.
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6 col-xs-12"><p><img
+                                    align="absmiddle"
+                                    alt="Competitive price policy" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/2-about-us-1545019470.svg"
+                                    title="Competitive price policy" width="32"/> <strong>Competitive price policy</strong></p>
+                                <ul>
+                                    <li>Our pricing commitment relies on two major principles – be among the most
+                                        competitive and never increase fees.
+                                    </li>
+                                    <li>With holding offices or partnerships in most of the jurisdictions where we
+                                        incorporate companies, we are able to offer prices that are transparent,
+                                        intermediary-free and among the most competitive.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12"><p><img
+                                    align="absmiddle"
+                                    alt="Offshore business experts" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/3-about-us-1545019470.svg"
+                                    title="Offshore business experts" width="32"/> <strong>Offshore business experts</strong></p>
+                                <p>Our clients are well taken care of. A dedicated account manager, specialised in the
+                                    field of company law and administration, will be your point of contact during the
+                                    year and will assist you with your company administration, bank account and any
+                                    other services that we offer. We are committed to always replying to our clients'
+                                    concerns within one business day.</p></div>
+                            <div class="col-md-6 col-xs-12"><p><img
+                                    align="absmiddle"
+                                    alt="Strong executive team" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/4-about-us-1545019470.svg" title="Strong executive team"
+                                    width="32"/> <strong>Strong executive team</strong></p>
+                                <p>Our executive team comprises 30 professionals with expert experience in offshore
+                                    business including:</p>
+                                <ul>
+                                    <li>Incorporation</li>
+                                    <li>Banking</li>
+                                    <li>Virtual office</li>
+                                    <li>Local phone</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12"><p><img
+                                    align="absmiddle"
+                                    alt="Integrity and due diligence" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/5-about-us-1545019470.svg"
+                                    title="Integrity and due diligence" width="32"/> <strong>Integrity and due diligence</strong></p>
+                                <p>For the best interests of our customers, we aim to provide the best business
+                                    standards in a practical and legal way. Being mindful of the laws and regulations on
+                                    the prevention of international money laundering, we implement strict risk-control
+                                    procedures and balances.</p></div>
+                            <div class="col-md-6 col-xs-12">&#160;</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="toggle-item">
+                <div class="toggle-heading clearfix"> Why us</div>
+                <div class="toggle-content">
+                    <div class="content-format">
+                        <p>
+                            <iframe allowfullscreen="" frameborder="0" height="450"
+                                    src="https://www.youtube.com/embed/0B4E35oEin4" width="100%"></iframe>
+                        </p>
+                        <p>
+                            <img align="absmiddle"
+                                 alt="Confidentiality" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/about-us-confidentiality-1540542487.png" title="Confidentiality" width="32">
+                            <strong>Confidentiality</strong></p>
+                        <p>
+                            <img align="absmiddle"
+                                 alt="Competitive price policy" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/about-us-competitive-price-1540542487.png" title="Competitive price policy"
+                                 width="32"> <strong>Competitive price policy</strong></p>
+                        <p>
+                            <img align="absmiddle"
+                                 alt="Offshore business experts" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/about-us-business-experts-1540542486.png"
+                                 title="Offshore business experts" width="32"> <strong>Offshore business experts</strong></p>
+                        <p><img align="absmiddle"
+                                alt="Strong executive team" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/about-us-strong-team-1540542487.png" title="Strong executive team"
+                                width="32"> <strong>Strong executive team</strong></p>
+                        <p>
+                            <img align="absmiddle"
+                                 alt="Integrity and due diligence" height="32" src="https://dusyzh85wmzqh.cloudfront.net/uploads/about-us-integrity -diligence-1540542487.png"
+                                 title="Integrity and due diligence" width="32"> <strong>Integrity and due diligence</strong></p></div>
+                </div>
+            </div>
+            <div class="toggle-item">
+                <div class="toggle-heading clearfix"> Management</div>
+                <div class="toggle-content">
+                    <div class="content-format">
+                        <div class="margin-bt15"><h3 class="title-red"><img
+                                alt="Global expertise, applied locally"
+                                src="https://dusyzh85wmzqh.cloudfront.net/uploads/1-management-1542597407.svg" title="Global expertise, applied locally"/>
+                            Global expertise, applied locally</h3>
+                            <p>Our methodologies have been proven across markets around the globe. No matter where your
+                                business takes you, our consultants have first-hand experience and a keen understanding
+                                of your industry's local and international dynamics, so we can help you think ahead and
+                                gain a competitive advantage as you expand your business around the world.</p></div>
+                        <div class="margin-bt15"><h3 class="title-red"><img
+                                alt="The know-how you need"
+                                src="https://dusyzh85wmzqh.cloudfront.net/uploads/2-management-1542597407.svg" title="The know-how you need"/> The know-how you need</h3>
+                            <p>We have the processes and expertise to solve your business's most complex problems, help
+                                you reduce risk, and gain a competitive advantage. We consistently make the best use of
+                                our collaborative teams of experts – including researchers, engineers, consultants and
+                                business partners – to create innovative solutions that give your business an edge.</p>
+                        </div>
+                        <div class="margin-bt15"><h3 class="title-red"><img
+                                alt="Solutions for the long-term"
+                                src="https://dusyzh85wmzqh.cloudfront.net/uploads/3-management-1542597408.svg" title="Solutions for the long-term"/> Solutions for
+                            the long-term</h3>
+                            <p>We take a long-term view and ensure that any solution we put in place today will
+                                efficiently meet your needs while providing the tools to carry your business into the
+                                future. We draw from our years of experience in developing business and solutions to
+                                help you implement the agile, integrated systems and processes that will help your
+                                business run leaner and smarter as it continues to grow.</p></div>
+                        <div class="margin-bt15"><h3 class="title-red"><img
+                                alt=" Our business experts have many years of experience"
+                                src="https://dusyzh85wmzqh.cloudfront.net/uploads/4-management-1542597408.svg"
+                                title=" Our business experts have many years of experience"/> Our business experts have
+                            many years of experience</h3>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>MR. JIMMY LEE</h2>
+                                                <div class="title-alow-heading">Chief Executive Officer (CEO)</div>
+                                            </div>
+                                            <div class="toggle-content"><p>Over 7 years of growth, One IBC limited has
+                                                tripled its development in customer and incorporation services, all
+                                                thanks to the dedicated leadership and vision of Mr. Jimmy Lee, the
+                                                Founder of One IBC. At his early stage, he has envisioned a scalable
+                                                business with a strong network between partners and his regional
+                                                offices. Along with his expertise in customer service, he also developed
+                                                a healthy relationship with international partners and which later fall
+                                                into plan with the company's global strategy. Jimmy specializes in
+                                                Incorporation services, management and leadership, partnership
+                                                development and global strategy. All together bring the success that One
+                                                IBC has today as one of the best Incorporation service provider in the
+                                                world.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>MR. DIDIER WONG</h2>
+                                                <div class="title-alow-heading">Chief Operations Officer (COO)</div>
+                                            </div>
+                                            <div class="toggle-content"><p>As Chief Operation Director of One IBC
+                                                limited, he is expert in offshore incorporation, financial services, and
+                                                corporate services. Under his dedicated leadership, the teams have
+                                                developed exceptional in customer services and knowledge base in many
+                                                jurisdictions. Didier is committed to ensure daily operations running
+                                                smoothly and on track with the BOD’s vision. He also pursuits in
+                                                Compliance and Risk Management, which he is constantly informed about
+                                                any changes in policies that might affect the business and his clients.
+                                                Together, he contributes to build a strong and compliant business codes
+                                                with transparencies in every process.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix">&#160;</div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>IRENE LO</h2>
+                                                <div class="title-alow-heading">Director, Business Development &amp;
+                                                    Strategy
+                                                </div>
+                                            </div>
+                                            <div class="toggle-content"><p>Irene graduates from the Harvard Business
+                                                School, and hold a prestigious Economic Degree. Combining his knowledge
+                                                from Harvard studies and her extensive experiences with multinational
+                                                clients, she has promoted growth and pursuited opportunities within the
+                                                global business market. Since 2010, she joined One IBC as Chairman and
+                                                contributed to the overall strategic plans. Her valuable assets are her
+                                                vast insights of the challenges, prospects and competitions on the
+                                                international stage presented by emerging markets and new technologies.
+                                                Thanks to this, One IBC and its Board of Director have an international
+                                                overview on what opportunities to conduct business, what risk should be
+                                                mitigated, and what will be the future for the company.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>SZE CHUNG LEE</h2>
+                                                <div class="title-alow-heading">Director, Tax &amp; Audit</div>
+                                            </div>
+                                            <div class="toggle-content"><p>When mention about Financial Services and Tax
+                                                strategy, Sze Chung Lee is always recognized. He joined One IBC Limited
+                                                in 2010 and hold a Certificate of Certified Public Accountants from the
+                                                Hong Kong Institute of Certified Public Accountants (the “HKICPA”),
+                                                which the license no. is P03508. He also served as Deputy Managing
+                                                Partner for our EMEA Area and has been responsible for delivering EMEA's
+                                                markets agenda since 2011. He leads our team for all aspects from
+                                                Compliance, Auditing, Tax strategy and other Finance &amp; Audit
+                                                services. In today's ever-changing tax environment, he committed to
+                                                ensure our promptly and consistent services to all clients worldwide.
+                                                His exceptional advice and strategic tax planning have help many our
+                                                clients achieve their business goal whether to optimize tax, maximize
+                                                investment, and/or stay compliant to different jurisdiction
+                                                policies.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix">&#160;</div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>FRANK ONG</h2>
+                                                <div class="title-alow-heading">Asia regional partner - Singapore
+                                                    office
+                                                </div>
+                                            </div>
+                                            <div class="toggle-content"><p>Frank Ong leads our Asia regional partner,
+                                                our team that supports customers to transform their business
+                                                performance, while also managing risk and monitoring improvements, so
+                                                they can maintain their performance over time.</p>
+                                                <p>Frank joined One IBC Group in 2009 and was appointed Asia regional
+                                                    partner practice, where he led the development of the solutions,
+                                                    methods, tools, learning and knowledge infrastructure. Frank has
+                                                    many years of client-service experience and worked with a number of
+                                                    major clients.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>YANTY KURNIA WATY</h2>
+                                                <div class="title-alow-heading">Corporate Services Manager</div>
+                                            </div>
+                                            <div class="toggle-content"><p>Yanty joined One IBC Group in April 2010 and
+                                                in 2016 was promoted to Corporate Services Manager in Singapore and Asia
+                                                region. She holds a Certificate of Certified Public Accountants (CPA)
+                                                from the Hong Kong Institute of Certified Public Accountants (the
+                                                “HKICPA”), which the license No. is 10655561. She owns Chartered
+                                                Secretary No. 4043338 is both for the United Kingdom and Hong Kong.</p>
+                                                <p>She has responsibility for managing a wide range of corporate
+                                                    strategy, consulting and strategic business development in the
+                                                    offshore corporate industry for clients globally.</p>
+                                                <p>Besides, she has a year of experience in advising on corporate
+                                                    legislation, practice and procedure, managing, mentoring and
+                                                    training more junior corporate services professionals to help our
+                                                    clients get the best from our services in managing good their
+                                                    company in the international market.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix">&#160;</div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>JENNY HUA</h2>
+                                                <div class="title-alow-heading">Formation services Manager</div>
+                                            </div>
+                                            <div class="toggle-content"><p>Joining ONE IBC in 2016, with deep knowledge
+                                                of international incorporation procedure in various countries, Jenny
+                                                plays a crucial role in staff orientation and development of Formation
+                                                Department of One IBC. She always updates latest changes and regulations
+                                                from Company Registrars, Governments in order to provide clients prompt
+                                                and valuable services.</p>
+                                                <p>ONE IBC values Jenny's outstanding contributions and thorough
+                                                    knowledge which make her one of the most brilliant managers and the
+                                                    brain of the incorporation services.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>LISA HUANG</h2>
+                                                <div class="title-alow-heading">Senior Advisor Manager</div>
+                                            </div>
+                                            <div class="toggle-content"><p>Lisa Huang is a Senior Advisor Manager with
+                                                ten years of experience in entrepreneurship, management, business &amp;
+                                                tax planning, financial analysis. She has the breadth and depth of
+                                                experience &amp; knowledge of consulting clients with all types of
+                                                business activities for incorporation, tax planning or other related
+                                                matters to quickly understand entrepreneurs' businesses and craft the
+                                                most suitable solutions in optimizing benefits of business.</p>
+                                                <p>As an Expert with skilled thoughts, successful experience in
+                                                    instructing and working with thousands of clients around the
+                                                    world.to offer helpful business structure, She has been supporting
+                                                    successfully to meet all requirements from clients in different
+                                                    scope of services, She is proud of being as an extremely
+                                                    accomplished Specialist in solving all problems and finding the best
+                                                    business solutions to improve entrepreneurs’ efficiency.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix">&#160;</div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>ALEX PH</h2>
+                                                <div class="title-alow-heading">Banking support Manager</div>
+                                            </div>
+                                            <div class="toggle-content"><p>Alex Ph, is one of our enthusiastic members,
+                                                who is a leader of our banking team. She can be considered as an
+                                                energetic, proactive individual, hence, she is chosen to take
+                                                responsibilities to drive a group of dedicated people to support clients
+                                                to solve their international payments problem.</p>
+                                                <p>She has cooperated with our company for many years now, and led the
+                                                    development of the banking services. She has open-minded eyes to
+                                                    perceive weakness and key problems that occurring on the daily
+                                                    basis. Her strength also expands further by anticipating the
+                                                    potential risks and monitors business improvements</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>DOMINIC</h2>
+                                                <div class="title-alow-heading">Global Advisory practice</div>
+                                            </div>
+                                            <div class="toggle-content"><p>Dominic Vu is one of our dedicated members
+                                                and leads our Global Advisory practice. He can be recognized as our
+                                                “business magician”, since his main responsibilities are supporting
+                                                customers to transform their overall business performance.</p>
+                                                <p>He has joined our company since 2008, and led the development of the
+                                                    solutions, methods, tools, learning and knowledge infrastructure. He
+                                                    has keen eyes to identify weakness and key problems that occurring
+                                                    on the daily basis. His expertises also expand further by reviewing
+                                                    the potential risks and monitoring business improvements.</p>
+                                                <p>One IBC itself and its clients’ business can sustain their
+                                                    performance over time are all thank to his contribution and
+                                                    advise.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clearfix">&#160;</div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>BRENDA V</h2>
+                                                <div class="title-alow-heading">Accounting &amp; Tax filling Manager
+                                                </div>
+                                            </div>
+                                            <div class="toggle-content"><p>Brenda is the Manager responsible for
+                                                Accounting and Tax Filing Department based in Hong Kong, she has been a
+                                                crucial member of One IBC Hong Kong since 2015.</p>
+                                                <p>The Accounting and Tax Filing Department aims to do bookkeeping,
+                                                    prepare annual financial reports and assist clients in filing tax.
+                                                    Brenda is a professional Tax Preparer with more than 4 years of
+                                                    experience in preparing and filing Tax Return as well as consulting
+                                                    customers with related tax matters.</p>
+                                                <p>She also acquires excellent customer service and strong ability to
+                                                    communicate with different types of clients. Altogether, she has
+                                                    supported One IBC's clients in preparing and tax filing to comply
+                                                    with local jurisdictions.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="toggles toggles-style2 toggles-style3">
+                                        <div class="toggle-item">
+                                            <div class="toggle-heading text-center clearfix"><h2>HU LEE</h2>
+                                                <div class="title-alow-heading">Chief Information Officer</div>
+                                            </div>
+                                            <div class="toggle-content"><p>Hu Lee joined One IBC in October 2010 as the
+                                                Chief Information Officer. As the CIO, Hu is chargeable for the overall
+                                                control of One IBC IT strategy and implementation globally, making sure
+                                                One IBC has an international-elegance, incorporated IT infrastructure to
+                                                meet the expanding desires of our clients.</p>
+                                                <p>Hu has a track record in delivering digital transformation programs
+                                                    and has an extremely good record directing cross-functional
+                                                    international teams to deliver business strategy, purchaser
+                                                    solutions, innovation and profitable growth for global businesses in
+                                                    particularly aggressive digital, technological and commercial
+                                                    fields.</p>
+                                                <p>His knowledge of mentality and manner of doing commercial enterprise,
+                                                    facilitate and make certain the smooth functioning of the
+                                                    coordination between the clients and the partners of the company for
+                                                    the supply of immigration, company incorporation, real property,
+                                                    financial and other corporate services.</p></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '122.162.158.29',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'aboutus',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

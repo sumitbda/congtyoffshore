@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Register</title>
+    <meta content="Register" name="description">
+    <meta content="Register" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = true; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/setup.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/intlTelInput.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li><select id="selCurrency" name="selCurrency" style="width: 100px">
+                    <option amount="1.34189900"
+                            codeCurrency="AUD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="3"> AUD
+                    </option>
+                    <option amount="1.01412000"
+                            codeCurrency="CHF" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="6"> CHF
+                    </option>
+                    <option amount="0.94398100" codeCurrency="EUR"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="52"> EUR
+                    </option>
+                    <option amount="0.80329900" codeCurrency="GBP"
+                            data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="2"> GBP
+                    </option>
+                    <option amount="7.75530100"
+                            codeCurrency="HKD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="5"> HKD
+                    </option>
+                    <option amount="1.42780100"
+                            codeCurrency="SGD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="4"> SGD
+                    </option>
+                    <option amount="1.00000000"
+                            codeCurrency="USD" data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="1"> USD
+                    </option>
+                </select></li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home">Home</a> <a href="/register" target="_self"
+                                                                               title="Register">Register</a></div>
+</div>
+<div class="login-form">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12"><h1>Register</h1>
+                <p></p>
+                <form action="" class="login" method="post" name="register-form">
+                    <div class="form-group "><label>Full Name <span class="text-danger">*</span></label> <input
+                            class="form-control" maxlength="255" name="txtName" placeholder="Full Name" type="text"
+                            value="">
+                        <p class="msg-name error"></p></div>
+                    <div class="form-group "><label>Email Address <span class="text-danger">*</span></label> <input
+                            class="form-control" maxlength="255" name="txtEmail" placeholder="Email Address" type="text"
+                            value="">
+                        <p class="msg-email error"></p></div>
+                    <div class="form-group relative "><label>Password <span class="text-danger">*</span></label> <span
+                            class="warning-capslock" hidden>Warning: <strong>CAPS Lock</strong> is on</span> <input
+                            class="form-control pass" maxlength="255" name="txtPassword" placeholder="Password"
+                            type="password">
+                        <div class="eyes"><img
+                                alt="Show/hide password"
+                                data-icon-hide="https://dusyzh85wmzqh.cloudfront.net/frontend/images/eye-icon-close.png" data-icon-show="https://dusyzh85wmzqh.cloudfront.net/frontend/images/eye-icon.png"
+                                src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/eye-icon-close.png"
+                                title="Show/hide password">
+                        </div>
+                        <p class="msg-pass error"></p></div>
+                    <div class="form-group relative "><label>Confirm Password <span class="text-danger">*</span></label>
+                        <input class="form-control pass" maxlength="255" name="txtCPassword" placeholder="Confirm Password"
+                               type="password">
+                        <p class="msg-repass error"></p></div>
+                    <div class="form-group "><label>Phone Number <span class="text-danger">*</span></label>
+                        <div class="form-group clearfix"><input id="txt_iso2" name="txt_iso2" type="hidden"> <input
+                                class="form-control" id="txtPhone" name="txtPhone" placeholder="Type your Phone Number" type="text"
+                                value=""> <input id="txt_phone_number" name="txt_phone_number"
+                                                                             type="hidden" value=""></div>
+                        <p class="msg-phone error"></p></div>
+                    <div class="form-group"><label>Skype ID </label> <input class="form-control" maxlength="255" name="txtSkype"
+                                                                            placeholder="Skype ID" type="text"
+                                                                            value=""></div>
+                    <div class="form-group"><label>Shipping Address <span class="text-danger">*</span></label>
+                        <div class="row">
+                            <div class="form-group col-md-6 "><select class="form-control" id="slcAddressCountry"
+                                                                      name="slcAddressCountry">
+                                <option value="">Select a country</option>
+                                <option value='26'>Albania</option>
+                                <option value='102'>Algeria</option>
+                                <option value='27'>American Samoa</option>
+                                <option value='162'>Andorra</option>
+                                <option value='234'>Angola</option>
+                                <option value='1'>Anguilla</option>
+                                <option value='28'>Antarctica</option>
+                                <option value='29'>Antigua and Barbuda</option>
+                                <option value='30'>Argentina</option>
+                                <option value='31'>Armenia</option>
+                                <option value='32'>Aruba</option>
+                                <option value='33'>Australia</option>
+                                <option value='34'>Austria</option>
+                                <option value='35'>Azerbaijan</option>
+                                <option value='36'>Bahrain</option>
+                                <option value='235'>Bangladesh</option>
+                                <option value='13'>Barbados</option>
+                                <option value='37'>Belarus</option>
+                                <option value='38'>Belgium</option>
+                                <option value='3'>Belize</option>
+                                <option value='161'>Benin</option>
+                                <option value='39'>Bermuda</option>
+                                <option value='40'>Bhutan</option>
+                                <option value='41'>Bolivia</option>
+                                <option value='42'>Bosnia and Herzegovina</option>
+                                <option value='163'>Botswana</option>
+                                <option value='43'>Brazil</option>
+                                <option value='4'>British Virgin Islands</option>
+                                <option value='5'>Brunei</option>
+                                <option value='44'>Bulgaria</option>
+                                <option value='164'>Burkina Faso</option>
+                                <option value='166'>Burundi</option>
+                                <option value='45'>Cambodia</option>
+                                <option value='167'>Cameroon</option>
+                                <option value='46'>Canada</option>
+                                <option value='168'>Cape Verde</option>
+                                <option value='14'>Cayman Islands</option>
+                                <option value='169'>Central African Republic</option>
+                                <option value='170'>Chad</option>
+                                <option value='47'>Chile</option>
+                                <option value='48'>China</option>
+                                <option value='49'>Christmas Island</option>
+                                <option value='50'>Cocos (Keeling) Islands</option>
+                                <option value='51'>Colombia</option>
+                                <option value='171'>Comoros</option>
+                                <option value='172'>Congo, Democratic Republic of the</option>
+                                <option value='173'>Congo, Republic of the</option>
+                                <option value='52'>Cook Islands</option>
+                                <option value='53'>Costa Rica</option>
+                                <option value='54'>Cote d'Ivoire</option>
+                                <option value='55'>Croatia</option>
+                                <option value='56'>Cuba</option>
+                                <option value='174'>Curacao</option>
+                                <option value='15'>Cyprus</option>
+                                <option value='57'>Czech Republic</option>
+                                <option value='6'>Delaware (United States of America)</option>
+                                <option value='58'>Denmark</option>
+                                <option value='59'>Djibouti</option>
+                                <option value='7'>Dominica</option>
+                                <option value='60'>Dominican Republic</option>
+                                <option value='61'>East Timor</option>
+                                <option value='62'>Ecuador</option>
+                                <option value='175'>Egypt</option>
+                                <option value='63'>El Salvador</option>
+                                <option value='176'>Equatorial Guinea</option>
+                                <option value='177'>Eritrea</option>
+                                <option value='64'>Estonia</option>
+                                <option value='178'>Ethiopia</option>
+                                <option value='65'>Falkland Islands</option>
+                                <option value='66'>Faroe Islands</option>
+                                <option value='67'>Fiji</option>
+                                <option value='68'>Finland</option>
+                                <option value='69'>France</option>
+                                <option value='236'>French Guiana</option>
+                                <option value='237'>French Polynesia</option>
+                                <option value='70'>French Southern Territories</option>
+                                <option value='179'>Gabon</option>
+                                <option value='180'>Gambia, The</option>
+                                <option value='71'>Georgia</option>
+                                <option value='72'>Germany</option>
+                                <option value='181'>Ghana</option>
+                                <option value='16'>Gibraltar</option>
+                                <option value='74'>Greece</option>
+                                <option value='75'>Greenland</option>
+                                <option value='76'>Grenada</option>
+                                <option value='77'>Guadeloupe</option>
+                                <option value='78'>Guam</option>
+                                <option value='79'>Guatemala</option>
+                                <option value='182'>Guinea</option>
+                                <option value='183'>Guinea-Bissau</option>
+                                <option value='73'>Guyana</option>
+                                <option value='80'>Haiti</option>
+                                <option value='81'>Heard Island and Mcdonald Islands</option>
+                                <option value='82'>Honduras</option>
+                                <option value='17'>Hong Kong</option>
+                                <option value='83'>Hungary</option>
+                                <option value='84'>Iceland</option>
+                                <option selected='selected' value='85'>India</option>
+                                <option value='86'>Indonesia</option>
+                                <option value='185'>Iran</option>
+                                <option value='186'>Iraq</option>
+                                <option value='87'>Ireland</option>
+                                <option value='88'>Israel</option>
+                                <option value='89'>Italy</option>
+                                <option value='187'>Jamaica</option>
+                                <option value='90'>Japan</option>
+                                <option value='245'>Jersey</option>
+                                <option value='188'>Jordan</option>
+                                <option value='189'>Kazakhstan</option>
+                                <option value='190'>Kenya</option>
+                                <option value='191'>Kiribati</option>
+                                <option value='91'>Korea, North</option>
+                                <option value='92'>Korea, South</option>
+                                <option value='192'>Kosovo</option>
+                                <option value='193'>Kuwait</option>
+                                <option value='93'>Kyrgyzstan</option>
+                                <option value='18'>Labuan, Malaysia</option>
+                                <option value='94'>Laos</option>
+                                <option value='95'>Latvia</option>
+                                <option value='194'>Lebanon</option>
+                                <option value='195'>Lesotho</option>
+                                <option value='196'>Liberia</option>
+                                <option value='197'>Libya</option>
+                                <option value='96'>Liechtenstein</option>
+                                <option value='97'>Lithuania</option>
+                                <option value='98'>Luxembourg</option>
+                                <option value='99'>Macau</option>
+                                <option value='100'>Macedonia</option>
+                                <option value='198'>Madagascar</option>
+                                <option value='199'>Malawi</option>
+                                <option value='101'>Malaysia</option>
+                                <option value='103'>Maldives</option>
+                                <option value='104'>Mali</option>
+                                <option value='19'>Malta</option>
+                                <option value='8'>Marshall Islands</option>
+                                <option value='200'>Mauritania</option>
+                                <option value='20'>Mauritius</option>
+                                <option value='241'>Mayotte</option>
+                                <option value='105'>Mexico</option>
+                                <option value='106'>Micronesia, Federated States of</option>
+                                <option value='107'>Moldova</option>
+                                <option value='201'>Monaco</option>
+                                <option value='108'>Mongolia</option>
+                                <option value='242'>Montenegro</option>
+                                <option value='109'>Montserrat</option>
+                                <option value='202'>Morocco</option>
+                                <option value='203'>Mozambique</option>
+                                <option value='110'>Myanmar</option>
+                                <option value='204'>Namibia</option>
+                                <option value='111'>Nauru</option>
+                                <option value='112'>Nepal</option>
+                                <option value='21'>Netherlands</option>
+                                <option value='113'>Netherlands Antilles</option>
+                                <option value='114'>New Caledonia</option>
+                                <option value='115'>New Zealand</option>
+                                <option value='116'>Nicaragua</option>
+                                <option value='205'>Niger</option>
+                                <option value='243'>Nigeria</option>
+                                <option value='240'>Niue</option>
+                                <option value='117'>Norfolk Island</option>
+                                <option value='118'>Northern Mariana Islands</option>
+                                <option value='119'>Norway</option>
+                                <option value='206'>Oman</option>
+                                <option value='207'>Pakistan</option>
+                                <option value='120'>Palau</option>
+                                <option value='208'>Palestinian Territories</option>
+                                <option value='22'>Panama</option>
+                                <option value='121'>Papua New Guinea</option>
+                                <option value='122'>Paraguay</option>
+                                <option value='123'>Peru</option>
+                                <option value='124'>Philippines</option>
+                                <option value='125'>Pitcairn Islands</option>
+                                <option value='126'>Poland</option>
+                                <option value='127'>Portugal</option>
+                                <option value='128'>Puerto Rico (U.S. territory)</option>
+                                <option value='209'>Qatar</option>
+                                <option value='129'>ReUNI0N</option>
+                                <option value='130'>Romania</option>
+                                <option value='131'>Russia</option>
+                                <option value='210'>Rwanda</option>
+                                <option value='132'>Saint Helena</option>
+                                <option value='133'>Saint Kitts and Nevis</option>
+                                <option value='134'>Saint Lucia</option>
+                                <option value='135'>Saint Pierre and Miquelon</option>
+                                <option value='11'>Saint Vincent and the Grenadines</option>
+                                <option value='9'>Samoa</option>
+                                <option value='137'>San Marino</option>
+                                <option value='211'>Sao Tome and Principe</option>
+                                <option value='212'>Saudi Arabia</option>
+                                <option value='213'>Senegal</option>
+                                <option value='138'>Serbia</option>
+                                <option value='10'>Seychelles</option>
+                                <option value='214'>Sierra Leone</option>
+                                <option value='23'>Singapore</option>
+                                <option value='215'>Sint Maarten</option>
+                                <option value='139'>Slovakia</option>
+                                <option value='140'>Slovenia</option>
+                                <option value='141'>Solomon Islands</option>
+                                <option value='216'>Somalia</option>
+                                <option value='142'>South Africa</option>
+                                <option value='143'>South Georgia and the South Sandwich Islands</option>
+                                <option value='217'>South Sudan</option>
+                                <option value='144'>Spain</option>
+                                <option value='218'>Sri Lanka</option>
+                                <option value='219'>Sudan</option>
+                                <option value='145'>Suriname</option>
+                                <option value='220'>Swaziland</option>
+                                <option value='146'>Sweden</option>
+                                <option value='147'>Switzerland</option>
+                                <option value='221'>Syria</option>
+                                <option value='148'>Taiwan</option>
+                                <option value='222'>Tajikistan</option>
+                                <option value='223'>Tanzania</option>
+                                <option value='149'>Thailand</option>
+                                <option value='2'>The Bahamas</option>
+                                <option value='224'>Togo</option>
+                                <option value='150'>Tonga</option>
+                                <option value='151'>Trinidad and Tobago</option>
+                                <option value='225'>Tunisia</option>
+                                <option value='226'>Turkey</option>
+                                <option value='227'>Turkmenistan</option>
+                                <option value='152'>Turks and Caicos Islands</option>
+                                <option value='153'>Tuvalu</option>
+                                <option value='154'>U.S. Virgin Islands</option>
+                                <option value='228'>Uganda</option>
+                                <option value='155'>Ukraine</option>
+                                <option value='12'>United Arab Emirates (UAE)</option>
+                                <option value='24'>United Kingdom</option>
+                                <option value='246'>United States of America</option>
+                                <option value='156'>Uruguay</option>
+                                <option value='230'>Uzbekistan</option>
+                                <option value='157'>Vanuatu</option>
+                                <option value='158'>Vatican City</option>
+                                <option value='159'>Venezuela</option>
+                                <option value='160'>Vietnam</option>
+                                <option value='238'>Wallis and Futuna Islands</option>
+                                <option value='239'>Western Sahara</option>
+                                <option value='231'>Yemen</option>
+                                <option value='232'>Zambia</option>
+                                <option value='233'>Zimbabwe</option>
+                            </select>
+                                <p class="msg-address-country error"></p></div>
+                            <div class="form-group col-md-6 "><input class="form-control" id="txtAddress" maxlength="255"
+                                                                     name="txtAddress" placeholder="Shipping Address"
+                                                                     type="text" value=""/>
+                                <p class="msg-address error"></p></div>
+                        </div>
+                    </div>
+                    <div class="form-group clearfix">
+                        <div class="have-account pull-left">Already have an account? <a class="" href="/login"
+                                                                                        target="_self"
+                                                                                        title="Sign In"><strong>Sign
+                            In</strong> </a></div>
+                        <button class="btn btn-submit btn-primary pull-right" name="btnCreateaccount" type="submit">
+                            Create your account
+                        </button>
+                    </div>
+                    <P class="agree">By clicking Create an account, you agree to our <a
+                            href="https://www.congtyoffshore.com/info/universal-terms-of-service"
+                            target="_blank" title="Terms of Service">Terms of Service</a> and confirm that you have read
+                        our <a href="https://www.congtyoffshore.com/info/privacy-policy" target="_blank"
+                               title="Privacy Policy">Privacy Policy</a>.</P></form>
+            </div>
+        </div>
+    </div>
+</div>
+<script> commands.push(function () {
+    $(document).ready(function () {
+        var regisTel = $('input[name=txtPhone]');
+        regisTel.intlTelInput({
+            initialCountry: "in",
+            preferredCountries: ["in"],
+            formatOnDisplay: true,
+            utilsScript: "https://dusyzh85wmzqh.cloudfront.net/frontend/js/utils.min.js"
+        });
+        regisTel.intlTelInput("setNumber", "");
+        var isValidNumber = true;
+        regisTel.blur(function () {
+            var phone_number = regisTel.intlTelInput('getNumber');
+            $('input[name=txt_phone_number]').val(phone_number);
+            isValidNumber = regisTel.intlTelInput('isValidNumber');
+        });
+        var country_data = regisTel.intlTelInput('getSelectedCountryData');
+        $('input[name=txt_iso2]').val(country_data.iso2);
+        $('form[name=register-form]').submit(function (event) {
+            var valid = true;
+            if ($('input[name=txtName]').val() == '') {
+                valid = false;
+                $('.msg-name').text('Please Enter Your Full Name.');
+                $('input[name=txtName]').parent().addClass("has-error");
+            } else {
+                $('.msg-name').text('');
+                $('input[name=txtName]').parent().removeClass("has-error");
+            }
+            if ($('input[name=txtEmail]').val() == '') {
+                valid = false;
+                $('.msg-email').text('Please Enter a email.');
+                $('input[name=txtEmail]').parent().addClass("has-error");
+            } else if (!emailValid($('input[name=txtEmail]').val())) {
+                valid = false;
+                $('.msg-email').text('Email is invalid.');
+                $('input[name=txtEmail]').parent().addClass("has-error");
+            } else {
+                $('.msg-email').text('');
+                $('input[name=txtEmail]').parent().removeClass("has-error");
+            }
+            if ($('input[name=txtPassword]').val() == '') {
+                valid = false;
+                $('input[name=txtPassword]').parent().addClass("has-error");
+                $('.msg-pass').text('Please enter password.');
+            } else {
+                $('.msg-pass').text('');
+                $('input[name=txtPassword]').parent().removeClass("has-error");
+            }
+            if ($('input[name=txtCPassword]').val() == '') {
+                $('input[name=txtCPassword]').parent().addClass("has-error");
+                $('.msg-repass').text('Please enter confirm Password.');
+                valid = false;
+            } else {
+                if ($('input[name=txtCPassword]').val() !== $('input[name=txtPassword]').val()) {
+                    $('input[name=txtPassword]').parent().addClass("has-error");
+                    $('input[name=txtCPassword]').parent().addClass("has-error");
+                    $('.msg-repass').text('Confirm Password is not match.');
+                    valid = false;
+                } else {
+                    $('.msg-repass').text('');
+                    $('input[name=txtCPassword]').parent().removeClass("has-error");
+                    $('input[name=txtPassword]').parent().removeClass("has-error");
+                }
+            }
+            if ($('input[name=txtPhone]').val() == '') {
+                valid = false;
+                $('.msg-phone').text('Please Enter a phone number.');
+                $('input[name=txtPhone]').parent().addClass("has-error");
+            } else if (!isValidNumber) {
+                valid = false;
+                $('.msg-phone').text('Your phone number is invalid.');
+                $('input[name=txtPhone]').parent().addClass("has-error");
+            } else {
+                $('.msg-phone').text('');
+                $('input[name=txtPhone]').parent().removeClass("has-error");
+            }
+            if ($("select#slcAddressCountry option:checked").val() == 0) {
+                $('.msg-address-country').text('Please enter shipping address country.');
+                $('#slcAddressCountry').parent().addClass("has-error");
+                valid = false;
+            } else {
+                $('.msg-address-country').text('');
+                $('#slcAddressCountry').parent().removeClass("has-error");
+            }
+            if ($('input[name=txtAddress]').val() == '') {
+                valid = false;
+                $('.msg-address').text('Type your address');
+                $('input[name=txtAddress]').parent().addClass("has-error");
+            } else {
+                $('.msg-address').text('');
+                $('input[name=txtAddress]').parent().removeClass("has-error");
+            }
+            if (!valid) {
+                event.preventDefault();
+            }
+            if (valid) {
+                $('#l-loading').show();
+                $('button[name=btnCreateaccount]').prop('disabled', true);
+            }
+        });
+        $("input[name=txtPassword]").keypress(function (e) {
+            var s = String.fromCharCode(e.which);
+            if (s.toUpperCase() === s && s.toLowerCase() !== s && !e.shiftKey) {
+                $(".warning-capslock").show();
+            } else {
+                $(".warning-capslock").hide();
+            }
+        });
+    });
+}); </script>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.congtyoffshore.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.congtyoffshore.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.congtyoffshore.com/structure">One IBC structure</a>
+                    for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/main-1.0.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/intlTelInput.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/login-contactus.min.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        'dynx_userIp': '182.68.2.233',
+        'dynx_userID': '',
+        'dynx_userEmail': '',
+        'dynx_userCountry': 'IN',
+        'dynx_location': 'IN',
+        'dynx_pagetype': 'login',
+        'dynx_incorpCountry': '',
+        'dynx_platform': 'desktop',
+        'dynx_languageCode': 'en',
+        'dynx_currency': 'USD'
+    });
+} </script>
+<script type="text/javascript"> function formatState(state) {
+    if (!state.id) {
+        return state.text;
+    }
+    var $state = $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" title="' + state.text.trim() + '" alt="' + state.text.trim() + '" /> ' + state.text + '</span>');
+    return $state;
+}
+
+$("#selCurrency").select2({templateResult: formatState, templateSelection: formatState}); </script>
+</body>
+</html>

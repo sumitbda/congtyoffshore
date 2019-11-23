@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+    <meta content="#e60000" name="theme-color"/>
+    <title>Make Payment | Secure Online Payment | Corporate Services</title>
+    <meta content="Method of payment: Credit Card Or Paypal is processed by Paypal which you can use. After your payment is made, you will receive an email for confirmation of the payment."
+          name="description">
+    <meta content="payment, make payment, online payment, paypal, visa cards" name="keywords">
+    <script type="text/javascript"> var WEB_URL = "/en/", commands = [];
+    var codeSS = 'USD';
+    var amountSS = 1.00000000;
+    var symbolLeftSS = 'US$';
+    var convertLink = false; </script>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/common-1.7.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/css/setup.min.css" rel="stylesheet">
+    <link href="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2mp.min.css" rel="stylesheet"
+          type="text/css"/>
+    <link href="https://dusyzh85wmzqh.cloudfront.net/shared/css/jquery-ui-1.12.1.min.css" media="screen"
+          rel="stylesheet" type="text/css"/>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W6FF6DK');</script>
+</head>
+<body>
+<noscript>
+    <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W6FF6DK" style="display:none;visibility:hidden"
+            width="0"></iframe>
+</noscript>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <ul class="list-inline ul-top">
+                <li>
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> EN
+                            </button>
+                        </div>
+                    </form>
+                </li>
+                <li class="notification">
+                    <form class="option-btn">
+                        <div class="dropdown">
+                            <button class="btn btn-default new-noti dropdown-toggle" data-toggle="dropdown"
+                                    type="button"><span class="noti-style"></span></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="user-top">
+                    <form class="option-btn"><a class="btn btn-default user" href="/login" target="_self"
+                                                title="Login"></a></form>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-navigation scroll-fixed">
+        <div class="container">
+            <div class="navigation-wrap"><a class="logo" href="/" target="_self" title="Offshore Company Corp"> <img
+                    alt="Offshore Company Corp" height="45" src="logo.png" title="Offshore Company Corp"
+                    width="154"> </a>
+                <ul class="list-inline menu-bar" id="menu-bar">
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                                Company Formation <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label> Company Formation </label></li>
+                                <li><a href="/company-formation" tabindex="-1" target="_self"
+                                       title="Offshore Company Formation"> Featured </a></li>
+                                <li><a href="/company-formation/jurisdiction" tabindex="-1" target="_self"
+                                       title="Jurisdictions"> Jurisdictions </a></li>
+                                <li><a href="/company-formation/how-to-set-up" tabindex="-1" target="_self"
+                                       title="How To Set Up"> How To Set Up </a></li>
+                                <li><a href="/company-formation/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/company-formation/nominee" tabindex="-1" target="_self" title="Nominee">
+                                    Nominee </a></li>
+                                <li><a href="/company-formation/change-agent" tabindex="-1" target="_self"
+                                       title="Change Agent"> Change Agent </a></li>
+                                <li><a href="/company-formation/company-renewal" tabindex="-1" target="_self"
+                                       title="Company Renewal"> Company Renewal </a></li>
+                                <li><a href="/company-formation/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/company-formation/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> Open
+                                Bank Account <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>Open Bank Account</label></li>
+                                <li><a href="/open-bank-account" tabindex="-1" target="_self" title="Open Bank Account">
+                                    Featured </a></li>
+                                <li><a href="/open-bank-account/how-it-work" tabindex="-1" target="_self"
+                                       title="How to Open Bank Account"> How to Open Bank Account </a></li>
+                                <li><a href="/open-bank-account/fees" tabindex="-1" target="_self" title="Fees">
+                                    Fees </a></li>
+                                <li><a href="/open-bank-account/bank-account-requirements" tabindex="-1" target="_self"
+                                       title="Bank Account Requirements"> Bank Account Requirements </a></li>
+                                <li><a href="/open-bank-account/faq" tabindex="-1" target="_self" title="FAQs">
+                                    FAQs </a></li>
+                                <li><a href="/open-bank-account/download" tabindex="-1" target="_self"
+                                       title="Download &amp; Form"> Download & Form </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> All
+                                Services <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>All Services</label></li>
+                                <li><a href="/accounting-auditing" tabindex="-1" target="_self"
+                                       title="Tax &ndash; Accounting &amp; Auditing"> Tax – Accounting & Auditing </a>
+                                </li>
+                                <li><a href="/merchant-account-online" tabindex="-1" target="_self"
+                                       title="Merchant Account Online"> Merchant Account Online </a></li>
+                                <li><a href="/shelf-companies" tabindex="-1" target="_self" title="Shelf Company"> Shelf
+                                    Company </a></li>
+                                <li><a href="/serviced-office" tabindex="-1" target="_self" title="Serviced Office">
+                                    Serviced Office </a></li>
+                                <li><a href="/intellectual-property-service" tabindex="-1" target="_self"
+                                       title="Intellectual Property Service"> Intellectual Property Service </a></li>
+                                <li><a href="/trust-foundation-service" tabindex="-1" target="_self"
+                                       title="Trust &amp; Foundation Service"> Trust & Foundation Service </a></li>
+                                <li><a href="/business-licensing" tabindex="-1" target="_self"
+                                       title="Business Licensing"> Business Licensing </a></li>
+                                <li><a href="/company-strike-off" tabindex="-1" target="_self"
+                                       title="Company Strike Off"> Company Strike Off </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle change-opacity" data-toggle="dropdown"
+                                    type="button"><img
+                                    alt="New" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/icon-news.png"
+                                    title="New"> One IBC Club <sup>TM</sup> <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>One IBC Club <sup>TM</sup></label></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Member Benefits"> Member
+                                    Benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="Tiers and benefits">
+                                    Tiers and benefits </a></li>
+                                <li><a href="/one-ibc-club" tabindex="-1" target="_self" title="How it works"> How it
+                                    works </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button"> More
+                                <span class="caret"></span></button>
+                            <ul class="dropdown-menu dropdown-style3">
+                                <li class="title-navigation"><label>News Update - About Us</label></li>
+                                <li><a href="/promotion" tabindex="-1" target="_self" title="Promotion"> Promotion </a>
+                                </li>
+                                <li><a href="/about-us" tabindex="-1" target="_self" title="About Us"> About Us </a>
+                                </li>
+                                <li><a href="/contact-us" tabindex="-1" target="_self" title="Contact Us"> Contact
+                                    Us </a></li>
+                                <li><a href="/partnership" tabindex="-1" target="_self"
+                                       title="Partnership &amp; Intermediaries"> Partnership & Intermediaries </a></li>
+                                <li><a href="/insight" tabindex="-1" target="_self" title="Insights"> Insights </a></li>
+                                <li><a href="/faq" tabindex="-1" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <a class="setup" href="/register" target="_self" title="Set Up Now"> Set Up Now </a>
+                <div class="dropdown search-form">
+                    <button class="btn-search dropdown-toggle" data-toggle="dropdown" type="button"></button>
+                    <ul class="dropdown-menu dropdown-style3">
+                        <li>
+                            <form action="/search" id="frmSearchHeader" method="get"><input class="form-control searchsuggest"
+                                                                                            id="txtSearchHeader"
+                                                                                            maxlength="255"
+                                                                                            name="keyword"
+                                                                                            placeholder="Type and press enter to search"
+                                                                                            type="search">
+                                <button class="btn" onclick="return checkformheader()" type="submit"></button>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <a class="icon-bar" href="javascript:void(0);"></a></div>
+        </div>
+    </div>
+</header>
+<div class="icon-gotop"><img alt="Scroll" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/scroll-top.png"
+                             title="Scroll"></div>
+<script> var orderURL = '/make-payment';
+var lLoading = null;
+commands.push(function () {
+    lLoading = $("#l-loading");
+}); </script>
+<div class="breadcrumbs pos-relative">
+    <div class="container"><a href="/" target="_self" title="Home">Home</a> <a href="#" target="_self"
+                                                                               title="Make Payment">Make Payment</a>
+    </div>
+</div>
+<div class="setup-wrap paddingtop-mobile">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"><h1 class="step-title">Secure Online Payment</h1>
+                <div class="alert alert-danger" id="load-form-message" style="display:none"></div>
+                <form action="" id="payment-form" method="post">
+                    <div class="row">
+                        <div class="col-md-5 col-sm-12 col-xs-12">
+                            <div class="setup-groups payment-for">
+                                <div class="row">
+                                    <div class="form-group col-sm-8"><label for="id_amount">Amount</label> <input
+                                            class="form-control" id="id_amount" maxlength="10" name="amount"
+                                            placeholder="E.g: 19.00" type="text" value="">
+                                        <div class="error" id="amount-error"></div>
+                                    </div>
+                                    <div class="form-group col-sm-4"><label for="currency">Currency</label> <select
+                                            class="form-control is-valid" id="currency" name="currency">
+                                        <option amount="1.34189900"
+                                                data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/AUD.png" symbolLeft="AU$" value="AUD">AUD
+                                        </option>
+                                        <option amount="1.01412000"
+                                                data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/CHF.png" symbolLeft="CHF" value="CHF">CHF
+                                        </option>
+                                        <option amount="0.94398100"
+                                                data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/EUR.png" symbolLeft="€" value="EUR">EUR
+                                        </option>
+                                        <option amount="0.80329900"
+                                                data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/GBP.png" symbolLeft="£" value="GBP">GBP
+                                        </option>
+                                        <option amount="7.75530100"
+                                                data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/HKD.png" symbolLeft="HK$" value="HKD">HKD
+                                        </option>
+                                        <option amount="1.42780100"
+                                                data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/SGD.png" symbolLeft="SG$" value="SGD">SGD
+                                        </option>
+                                        <option amount="1.00000000"
+                                                data-img-src="https://d3nqrmb1lqq5py.cloudfront.net/images/currency/USD.png" selected symbolLeft="US$" value="USD">USD
+                                        </option>
+                                    </select></div>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="title">Payment for</div>
+                                <div class="checkbox"><label> <input class="checkbox-payment-for" id="government" name="government"
+                                                                     type="checkbox" value="government"/>
+                                    <span class="checkmark"></span> Government Fee </label></div>
+                                <div class="checkbox"><label> <input class="checkbox-payment-for" id="incorporation"
+                                                                     name="incorporation" type="checkbox"
+                                                                     value="incorporate"/> <span
+                                        class="checkmark"></span> Incorporation </label></div>
+                                <div class="checkbox"><label> <input class="checkbox-payment-for" id="banking-support" name="banking"
+                                                                     type="checkbox" value="banking"/>
+                                    <span class="checkmark"></span> Open Bank Account Support </label></div>
+                                <div class="checkbox"><label> <input class="checkbox-payment-for" id="merchant" name="merchant"
+                                                                     type="checkbox" value="merchant"/>
+                                    <span class="checkmark"></span> Apply Merchant Account Online </label></div>
+                                <div class="checkbox"><label> <input class="checkbox-payment-for" id="office-phone"
+                                                                     name="office-phone" type="checkbox"
+                                                                     value="office-phone"/> <span
+                                        class="checkmark"></span> Virtual Office & Local Phone Number </label></div>
+                                <div class="checkbox"><label> <input class="checkbox-payment-for" id="other" name="other"
+                                                                     type="checkbox" value="other"/> <span
+                                        class="checkmark"></span> Others </label></div>
+                                <div class="error" id="payment-for-error"></div>
+                                <div class="form-group"><label class="form-label">Note (Maximum 50 characters)</label>
+                                    <input autocomplete="off" class="form-control" id="id_note" maxlength="50"
+                                           name="note" placeholder="Type your note" value="">
+                                    <div class="error" id="note-error"></div>
+                                </div>
+                            </div>
+                            <div class="setup-groups">
+                                <div class="form-title">One IBC Credit points</div>
+                                <p>To use your One IBC Credit points, you must to <strong><a class="red"
+                                                                                             href="https://www.offshorecompanycorp.com/login"
+                                                                                             title="Login">Login</a> /
+                                    <a class="red" href="https://www.offshorecompanycorp.com/register" title="Register">Register</a></strong>
+                                    first!</p></div>
+                        </div>
+                        <div class="col-md-7 col-sm-12 col-xs-12 pull-left">
+                            <div class="setp-content">
+                                <div class="setup-groups">
+                                    <div class="form-title">Select your payment method</div>
+                                    <div class="row payment-methods">
+                                        <div class="col-md-5 col-sm-5 col-xs-12 method-item payment-method-option active">
+                                            <div class="checkbox"><label> <input checked="checked"
+                                                                                 data-show-point="yes" id="input-method-credit_card"
+                                                                                 type="radio"
+                                                                                 value="credit_card"> <img
+                                                    alt="Credit or Debit Card"
+                                                    src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/payment-credit-or-debit-card.svg" title="Credit or Debit Card">
+                                                <div class="card-name">Credit or Debit Card</div>
+                                            </label></div>
+                                        </div>
+                                        <div class="col-md-7 col-sm-7 col-xs-12 method-item payment-method-option">
+                                            <div class="checkbox"><label> <input data-show-point="yes" id="input-method-paypal"
+                                                                                 type="radio" value="paypal">
+                                                <img alt="PayPal"
+                                                     src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/payment-paypal.svg" title="PayPal">
+                                                <div class="card-name">PayPal</div>
+                                            </label></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="payment-contents">
+                                    <div class="payment-content-item active">
+                                        <div class="setup-groups">
+                                            <div class="form-title">Credit Card or Debit Card Info</div>
+                                            <div class="form-group card-number"><label for="input_card_number">Card
+                                                Number</label> <input class="form-control" id="input_card_number"
+                                                                      maxlength="19"
+                                                                      placeholder="●●●● ●●●● ●●●● ●●●●" type="text">
+                                                <div class="icon-card"><img
+                                                        alt="Card Number"
+                                                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/card-type.png" title="Card Number"></div>
+                                                <div class="error error_input"></div>
+                                            </div>
+                                            <div class="form-goup card-type-box">
+                                                <ul class="card-type-card clearfix">
+                                                    <li><img alt="Visa"
+                                                             class="creditcard_visa"
+                                                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/pay-type-visa-card.png" title="Visa"></li>
+                                                    <li><img alt="Master Card"
+                                                             class="creditcard_master"
+                                                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/pay-type-master-card.png" title="Master Card"></li>
+                                                    <li><img alt="American Express"
+                                                             class="creditcard_amex"
+                                                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/pay-type-american-express.png" title="American Express"></li>
+                                                </ul>
+                                            </div>
+                                            <div class="expiried-date-ccv-code clearfix">
+                                                <div class="form-group expiried-date"><label class="form-label form-block"
+                                                                                             for="input_expired_month">Expiry
+                                                    Date</label>
+                                                    <div class="clearfix"><select class="form-control"
+                                                                                  id="input_expired_month">
+                                                        <option value="">Month</option>
+                                                        <option value="1">1</option>
+                                                        <option value="2">2</option>
+                                                        <option value="3">3</option>
+                                                        <option value="4">4</option>
+                                                        <option value="5">5</option>
+                                                        <option value="6">6</option>
+                                                        <option value="7">7</option>
+                                                        <option value="8">8</option>
+                                                        <option value="9">9</option>
+                                                        <option value="10">10</option>
+                                                        <option value="11">11</option>
+                                                        <option value="12">12</option>
+                                                    </select> <select class="form-control" id="input_expired_year">
+                                                        <option value="">Year</option>
+                                                        <option value="2019">2019</option>
+                                                        <option value="2020">2020</option>
+                                                        <option value="2021">2021</option>
+                                                        <option value="2022">2022</option>
+                                                        <option value="2023">2023</option>
+                                                        <option value="2024">2024</option>
+                                                        <option value="2025">2025</option>
+                                                        <option value="2026">2026</option>
+                                                        <option value="2027">2027</option>
+                                                        <option value="2028">2028</option>
+                                                        <option value="2029">2029</option>
+                                                        <option value="2030">2030</option>
+                                                        <option value="2031">2031</option>
+                                                        <option value="2032">2032</option>
+                                                        <option value="2033">2033</option>
+                                                        <option value="2034">2034</option>
+                                                        <option value="2035">2035</option>
+                                                        <option value="2036">2036</option>
+                                                        <option value="2037">2037</option>
+                                                        <option value="2038">2038</option>
+                                                        <option value="2039">2039</option>
+                                                        <option value="2040">2040</option>
+                                                        <option value="2041">2041</option>
+                                                        <option value="2042">2042</option>
+                                                        <option value="2043">2043</option>
+                                                        <option value="2044">2044</option>
+                                                        <option value="2045">2045</option>
+                                                        <option value="2046">2046</option>
+                                                        <option value="2047">2047</option>
+                                                        <option value="2048">2048</option>
+                                                    </select></div>
+                                                    <div class="error error_input"></div>
+                                                </div>
+                                                <div class="form-group ccv-code"><label for="input_card_cvv2">CVV <span
+                                                        class="pt-popover" data-content="&lt;h3&gt;What is a Credit card Verification Value number (CVV/CVC)?&lt;/h3&gt; The Credit card Verification Value is a security feature which appears on every credit card. This number is used in order to ascertain the identity and to prevent fraud. It is located on the back panel of your card. &lt;h3&gt;Where can I find the Credit card Verification Value number (CVV/CVC)?&lt;/h3&gt; They are the last 3 digits in the signature box on the card's back panel.&lt;br /&gt; &lt;img alt=&quot;CVV&quot; src=&quot;https://d3kly9zxll5iq0.cloudfront.net/uploads/1428984239-visa_mastercard_cvv.png&quot; /&gt;" data-original-title="CVV"
+                                                        data-placement="left"
+                                                        data-toggle="popover" title=""><strong>[ ? ]</strong></span></label>
+                                                    <input class="form-control" id="input_card_cvv2" placeholder="CVV"
+                                                           type="text">
+                                                    <div class="error error_input"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="setup-groups billing-information">
+                                            <div class="form-title">Billing Information</div>
+                                            <div class="form-group"><label for="input_first_name">First Name</label>
+                                                <input class="form-control" id="input_first_name" placeholder="Type your first name"
+                                                       type="text">
+                                                <div class="error error_input"></div>
+                                            </div>
+                                            <div class="form-group"><label for="input_last_name">Last Name</label>
+                                                <input class="form-control" id="input_last_name" placeholder="Type your last name"
+                                                       type="text">
+                                                <div class="error error_input"></div>
+                                            </div>
+                                            <div class="form-group"><label for="input_country">Country</label> <select
+                                                    class="form-control" id="input_country">
+                                                <option value='AF'>Afghanistan</option>
+                                                <option value='AX'>ÅLand Islands</option>
+                                                <option value='AL'>Albania</option>
+                                                <option value='DZ'>Algeria</option>
+                                                <option value='AS'>American Samoa</option>
+                                                <option value='AD'>Andorra</option>
+                                                <option value='AO'>Angola</option>
+                                                <option value='AI'>Anguilla</option>
+                                                <option value='AQ'>Antarctica</option>
+                                                <option value='AG'>Antigua and Barbuda</option>
+                                                <option value='AR'>Argentina</option>
+                                                <option value='AM'>Armenia</option>
+                                                <option value='AW'>Aruba</option>
+                                                <option value='AC'>Ascension Island</option>
+                                                <option value='AU'>Australia</option>
+                                                <option value='AT'>Austria</option>
+                                                <option value='AZ'>Azerbaijan</option>
+                                                <option value='BS'>Bahamas</option>
+                                                <option value='BH'>Bahrain</option>
+                                                <option value='BD'>Bangladesh</option>
+                                                <option value='BB'>Barbados</option>
+                                                <option value='BY'>Belarus</option>
+                                                <option value='BE'>Belgium</option>
+                                                <option value='BZ'>Belize</option>
+                                                <option value='BJ'>Benin</option>
+                                                <option value='BM'>Bermuda</option>
+                                                <option value='BT'>Bhutan</option>
+                                                <option value='BO'>Bolivia</option>
+                                                <option value='BA'>Bosnia and Herzegovina</option>
+                                                <option value='BW'>Botswana</option>
+                                                <option value='BV'>Bouvet Island</option>
+                                                <option value='BR'>Brazil</option>
+                                                <option value='IO'>British Indian Ocean Territory</option>
+                                                <option value='VG'>British Virgin Islands</option>
+                                                <option value='BN'>Brunei</option>
+                                                <option value='BG'>Bulgaria</option>
+                                                <option value='BF'>Burkina Faso</option>
+                                                <option value='BI'>Burundi</option>
+                                                <option value='KH'>Cambodia</option>
+                                                <option value='CM'>Cameroon</option>
+                                                <option value='CA'>Canada</option>
+                                                <option value='IC'>Canary Islands</option>
+                                                <option value='CV'>Cape Verde</option>
+                                                <option value='KY'>Cayman Islands</option>
+                                                <option value='CF'>Central African Republic</option>
+                                                <option value='TD'>Chad</option>
+                                                <option value='CL'>Chile</option>
+                                                <option value='CN'>China</option>
+                                                <option value='CX'>Christmas Island</option>
+                                                <option value='CC'>Clipperton Island</option>
+                                                <option value='CO'>Colombia</option>
+                                                <option value='KM'>Comoros</option>
+                                                <option value='CG'>Congo - Brazzaville</option>
+                                                <option value='CD'>Congo - Kinshasa</option>
+                                                <option value='CK'>Cook Islands</option>
+                                                <option value='CR'>Costa Rica</option>
+                                                <option value='CI'>Côte d’Ivoire</option>
+                                                <option value='HR'>Croatia</option>
+                                                <option value='CU'>Cuba</option>
+                                                <option value='CW'>Curacao</option>
+                                                <option value='CY'>Cyprus</option>
+                                                <option value='CZ'>Czech Republic</option>
+                                                <option value='DK'>Denmark</option>
+                                                <option value='DJ'>Djibouti</option>
+                                                <option value='DM'>Dominica</option>
+                                                <option value='DO'>Dominican Republic</option>
+                                                <option value='TL'>East Timor</option>
+                                                <option value='EC'>Ecuador</option>
+                                                <option value='EG'>Egypt</option>
+                                                <option value='SV'>El Salvador</option>
+                                                <option value='GQ'>Equatorial Guinea</option>
+                                                <option value='ER'>Eritrea</option>
+                                                <option value='EE'>Estonia</option>
+                                                <option value='ET'>Ethiopia</option>
+                                                <option value='FK'>Falkland Islands</option>
+                                                <option value='FO'>Faroe Islands</option>
+                                                <option value='FJ'>Fiji</option>
+                                                <option value='FI'>Finland</option>
+                                                <option value='FR'>France</option>
+                                                <option value='GF'>French Guiana</option>
+                                                <option value='PF'>French Polynesia</option>
+                                                <option value='TF'>French Southern Territories</option>
+                                                <option value='GA'>Gabon</option>
+                                                <option value='GM'>Gambia</option>
+                                                <option value='GE'>Georgia</option>
+                                                <option value='DE'>Germany</option>
+                                                <option value='GH'>Ghana</option>
+                                                <option value='GI'>Gibraltar</option>
+                                                <option value='GR'>Greece</option>
+                                                <option value='GL'>Greenland</option>
+                                                <option value='GD'>Grenada</option>
+                                                <option value='GP'>Guadeloupe</option>
+                                                <option value='GU'>Guam</option>
+                                                <option value='GT'>Guatemala</option>
+                                                <option value='GG'>Guernsey</option>
+                                                <option value='GN'>Guinea</option>
+                                                <option value='GW'>Guinea-Bissau</option>
+                                                <option value='GY'>Guyana</option>
+                                                <option value='HT'>Haiti</option>
+                                                <option value='HM'>Heard Island and McDonald Islands</option>
+                                                <option value='HN'>Honduras</option>
+                                                <option value='HK'>Hong Kong</option>
+                                                <option value='HU'>Hungary</option>
+                                                <option value='IS'>Iceland</option>
+                                                <option value='IN'>India</option>
+                                                <option value='ID'>Indonesia</option>
+                                                <option value='IR'>Iran</option>
+                                                <option value='IQ'>Iraq</option>
+                                                <option value='IE'>Ireland</option>
+                                                <option value='IM'>Isle Of Man</option>
+                                                <option value='IL'>Israel</option>
+                                                <option value='IT'>Italy</option>
+                                                <option value='JM'>Jamaica</option>
+                                                <option value='JP'>Japan</option>
+                                                <option value='JE'>Jersey</option>
+                                                <option value='JO'>Jordan</option>
+                                                <option value='KZ'>Kazakhstan</option>
+                                                <option value='KE'>Kenya</option>
+                                                <option value='KI'>Kiribati</option>
+                                                <option value='XK'>Kosovo</option>
+                                                <option value='KW'>Kuwait</option>
+                                                <option value='KG'>Kyrgyzstan</option>
+                                                <option value='LA'>Laos</option>
+                                                <option value='LV'>Latvia</option>
+                                                <option value='LB'>Lebanon</option>
+                                                <option value='LS'>Lesotho</option>
+                                                <option value='LR'>Liberia</option>
+                                                <option value='LY'>Libya</option>
+                                                <option value='LI'>Liechtenstein</option>
+                                                <option value='LT'>Lithuania</option>
+                                                <option value='LU'>Luxembourg</option>
+                                                <option value='MO'>Macau</option>
+                                                <option value='MK'>Macedonia</option>
+                                                <option value='MG'>Madagascar</option>
+                                                <option value='MW'>Malawi</option>
+                                                <option value='MY'>Malaysia</option>
+                                                <option value='MV'>Maldives</option>
+                                                <option value='ML'>Mali</option>
+                                                <option value='MT'>Malta</option>
+                                                <option value='MH'>Marshall Islands</option>
+                                                <option value='MQ'>Martinique</option>
+                                                <option value='MR'>Mauritania</option>
+                                                <option value='MU'>Mauritius</option>
+                                                <option value='YT'>Mayotte</option>
+                                                <option value='MX'>Mexico</option>
+                                                <option value='FM'>Micronesia</option>
+                                                <option value='MD'>Moldova</option>
+                                                <option value='MC'>Monaco</option>
+                                                <option value='MN'>Mongolia</option>
+                                                <option value='ME'>Montenegro</option>
+                                                <option value='MS'>Montserrat</option>
+                                                <option value='MA'>Morocco</option>
+                                                <option value='MZ'>Mozambique</option>
+                                                <option value='MM'>Myanmar</option>
+                                                <option value='NA'>Namibia</option>
+                                                <option value='NR'>Nauru</option>
+                                                <option value='NP'>Nepal</option>
+                                                <option value='NL'>Netherlands</option>
+                                                <option value='AN'>Netherlands Antilles</option>
+                                                <option value='NC'>New Caledonia</option>
+                                                <option value='NZ'>New Zealand</option>
+                                                <option value='NI'>Nicaragua</option>
+                                                <option value='NE'>Niger</option>
+                                                <option value='NG'>Nigeria</option>
+                                                <option value='NU'>Niue</option>
+                                                <option value='NF'>Norfolk Island</option>
+                                                <option value='KP'>North Korea</option>
+                                                <option value='MP'>Northern Mariana Islands</option>
+                                                <option value='NO'>Norway</option>
+                                                <option value='OM'>Oman</option>
+                                                <option value='PK'>Pakistan</option>
+                                                <option value='PW'>Palau</option>
+                                                <option value='PS'>Palestine</option>
+                                                <option value='PA'>Panama</option>
+                                                <option value='PG'>Papua New Guinea</option>
+                                                <option value='PY'>Paraguay</option>
+                                                <option value='PE'>Peru</option>
+                                                <option value='PH'>Philippines</option>
+                                                <option value='PN'>Pitcairn</option>
+                                                <option value='PL'>Poland</option>
+                                                <option value='PT'>Portugal</option>
+                                                <option value='PR'>Puerto Rico</option>
+                                                <option value='QA'>Qatar</option>
+                                                <option value='RE'>Reunion</option>
+                                                <option value='RO'>Romania</option>
+                                                <option value='RU'>Russia</option>
+                                                <option value='RW'>Rwanda</option>
+                                                <option value='BL'>Saint BarthÉLemy</option>
+                                                <option value='SH'>Saint Helena</option>
+                                                <option value='KN'>Saint Kitts and Nevis</option>
+                                                <option value='LC'>Saint Lucia</option>
+                                                <option value='MF'>Saint Martin (French Part)</option>
+                                                <option value='PM'>Saint Pierre and Miquelon</option>
+                                                <option value='VC'>Saint Vincent and the Grenadines</option>
+                                                <option value='WS'>Samoa</option>
+                                                <option value='SM'>San Marino</option>
+                                                <option value='ST'>Sao Tome and Principe</option>
+                                                <option value='SA'>Saudi Arabia</option>
+                                                <option value='SN'>Senegal</option>
+                                                <option value='RS'>Serbia</option>
+                                                <option value='CS'>Serbia and Montenegro</option>
+                                                <option value='SC'>Seychelles</option>
+                                                <option value='SL'>Sierra Leone</option>
+                                                <option value='SG'>Singapore</option>
+                                                <option value='SX'>Sint Maarten (Dutch Part)</option>
+                                                <option value='SK'>Slovakia</option>
+                                                <option value='SI'>Slovenia</option>
+                                                <option value='SB'>Solomon Islands</option>
+                                                <option value='SO'>Somalia</option>
+                                                <option value='ZA'>South Africa</option>
+                                                <option value='GS'>South Georgia and the South Sandwich Islands</option>
+                                                <option value='KR'>South Korea</option>
+                                                <option value='SS'>South Sudan</option>
+                                                <option value='ES'>Spain</option>
+                                                <option value='LK'>Sri Lanka</option>
+                                                <option value='SD'>Sudan</option>
+                                                <option value='SR'>Suriname</option>
+                                                <option value='SJ'>Svalbard and Jan Mayen</option>
+                                                <option value='SZ'>Swaziland</option>
+                                                <option value='SE'>Sweden</option>
+                                                <option value='CH'>Switzerland</option>
+                                                <option value='SY'>Syria</option>
+                                                <option value='TW'>Taiwan</option>
+                                                <option value='TJ'>Tajikistan</option>
+                                                <option value='TZ'>Tanzania</option>
+                                                <option value='TH'>Thailand</option>
+                                                <option value='TG'>Togo</option>
+                                                <option value='TK'>Tokelau</option>
+                                                <option value='TO'>Tonga</option>
+                                                <option value='TT'>Trinidad and Tobago</option>
+                                                <option value='TA'>Tristan da Cunha</option>
+                                                <option value='TN'>Tunisia</option>
+                                                <option value='TR'>Turkey</option>
+                                                <option value='TM'>Turkmenistan</option>
+                                                <option value='TC'>Turks and Caicos Islands</option>
+                                                <option value='TV'>Tuvalu</option>
+                                                <option value='UM'>U.S. Outlying Islands</option>
+                                                <option value='VI'>U.S. Virgin Islands</option>
+                                                <option value='UG'>Uganda</option>
+                                                <option value='UA'>Ukraine</option>
+                                                <option value='AE'>United Arab Emirates</option>
+                                                <option value='GB'>United Kingdom</option>
+                                                <option value='US'>United States</option>
+                                                <option value='UY'>Uruguay</option>
+                                                <option value='UZ'>Uzbekistan</option>
+                                                <option value='VU'>Vanuatu</option>
+                                                <option value='VA'>Vatican</option>
+                                                <option value='VE'>Venezuela</option>
+                                                <option value='VN'>Vietnam</option>
+                                                <option value='WF'>Wallis and Futuna</option>
+                                                <option value='EH'>Western Sahara</option>
+                                                <option value='YE'>Yemen</option>
+                                                <option value='ZM'>Zambia</option>
+                                                <option value='ZW'>Zimbabwe</option>
+                                            </select>
+                                                <div class="error error_input"></div>
+                                            </div>
+                                            <div class="form-group row_states" style="display: none"><label
+                                                    for="slb_states">State</label> <select class="form-control"
+                                                                                           id="slb_states"> </select>
+                                                <div class="error error_input"></div>
+                                            </div>
+                                            <div class="form-group"><label for="input_address">Address</label> <input
+                                                    class="form-control" id="input_address" placeholder="Type your address"
+                                                    type="text">
+                                                <div class="error error_input"></div>
+                                            </div>
+                                            <div class="form-group"><label class="form-label" for="input_city">City/County</label>
+                                                <input class="form-control" id="input_city" placeholder="Type your city/county"
+                                                       value="">
+                                                <div class="error error_input"></div>
+                                            </div>
+                                            <div class="form-group row_state"><label for="input_state">State/Province/Region</label>
+                                                <input class="form-control" id="input_state" placeholder="Type your state/province/region"
+                                                       type="text">
+                                                <div class="error error_input"></div>
+                                            </div>
+                                            <div class="form-group"><label for="input_zipcode">ZIP/Postal code</label>
+                                                <input class="form-control" id="input_zipcode" placeholder="Type your postal code"
+                                                       type="text">
+                                                <div class="error error_input"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="payment-content-item">
+                                        <div class="setup-groups"><strong>Method of payment: Paypal Or Credit
+                                            Card</strong> is processed by Paypal which you can use <img
+                                                alt="Paypal Or Credit Card"
+                                                src="/frontend/images/paypal-method-small.jpg"/> or Paypal account.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="alert alert-danger" id="form-message" style="display:none"> Please review and
+                                correct the required field(s)!
+                            </div>
+                            <div class="text-center"><input name="csrfmiddlewaretoken"
+                                                            type="hidden"
+                                                            value="I49ofucoHFfw0WjiRL67c4zgaAJF5ysHyjrpqOx5iz4=">
+                                <button class="btn btn-submit" id="gtm_makePayment_step1" type="submit">Proceed to
+                                    payment
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+                <script type="text/javascript"> var kMethodDirect = 'credit_card';
+                var kMethodPaypal = 'paypal';
+                var urlGetStates = '/make-payment?action=getStates';
+                var methodID = kMethodDirect;
+                var isSubmited = false;
+
+                function checkSpecialCharacter(value) {
+                    return value.indexOf('(') !== -1 || value.indexOf(')') !== -1 || value.indexOf('{') !== -1 || value.indexOf('}') !== -1 || value.indexOf('<') !== -1 || value.indexOf('>') !== -1 || value.indexOf('\\') !== -1 || value.indexOf('"') !== -1 || value.indexOf(';') !== -1;
+                }
+
+                function is_number(s) {
+                    var isWhole_re = /^\s*\d+\s*$/;
+                    return String(s).search(isWhole_re) !== -1;
+                }
+
+                function prettyCardNumber(s) {
+                    return s.replace(/\-/g, '').replace(/ /g, "");
+                }
+
+                function enableBillingInfo(value) {
+                    $('#input_first_name').prop('disabled', value);
+                    $('#input_last_name').prop('disabled', value);
+                    $('#input_country').prop('disabled', value);
+                    $('#input_address').prop('disabled', value);
+                    $('#input_city').prop('disabled', value);
+                    $('#input_state').prop('disabled', value);
+                    $('#slb_states').prop('disabled', value);
+                    $('#input_zipcode').prop('disabled', value);
+                    $('#input_card_number').prop('disabled', value);
+                    $('#input_expired_month').prop('disabled', value);
+                    $('#input_expired_year').prop('disabled', value);
+                    $('#input_card_cvv2').prop('disabled', value);
+                }
+
+                function checkAndMarkInput(input) {
+                    var correct = true;
+                    input.parent().find('.error_input').addClass("alert alert-danger");
+                    if (input.val().trim() === '') {
+                        input.parent().find('.error_input').html("This field is required!");
+                        correct = false;
+                    } else if (checkSpecialCharacter(input.val())) {
+                        input.parent().find('.error_input').html("This field contain special characters.");
+                        correct = false;
+                    } else {
+                        input.parent().find('.error_input').removeClass("alert alert-danger");
+                        input.parent().find('.error_input').html('');
+                        input.parent().removeClass("has-error");
+                    }
+                    return correct;
+                }
+
+                function checkAndMarkInputExpired(input_month, input_year) {
+                    var correct = true;
+                    var month_parent_parent = input_month.parent().parent();
+                    month_parent_parent.find('.error_input').html('');
+                    month_parent_parent.find('.error_input').addClass("alert alert-danger");
+                    if (input_month.val().trim() === '' && input_year.val().trim() === '') {
+                        month_parent_parent.find('.error_input').html("Month & year are required");
+                        correct = false;
+                    } else if (input_month.val().trim() === '') {
+                        month_parent_parent.find('.error_input').html("Month is required");
+                        correct = false;
+                    } else if (input_year.val().trim() === '') {
+                        month_parent_parent.find('.error_input').html("Year is required");
+                        correct = false;
+                    } else {
+                        month_parent_parent.find('.error_input').removeClass("alert alert-danger");
+                        month_parent_parent.find('.error_input').html('');
+                    }
+                    return correct;
+                }
+
+                function checkAndMarkInputCardNumber(input) {
+                    var $creditcard_master = $('.creditcard_master');
+                    var $creditcard_visa = $('.creditcard_visa');
+                    var $creditcard_amex = $('.creditcard_amex');
+                    var correct = true;
+                    input.parent().find('.error_input').html('');
+                    input.parent().find('.error_input').addClass("alert alert-danger");
+                    var pretty_val = prettyCardNumber(input.val());
+                    $('.creditcard_master').css('opacity', 1);
+                    $('.creditcard_visa').css('opacity', 1);
+                    $('.creditcard_amex').css('opacity', 1);
+                    if (pretty_val == '') {
+                        input.parent().find('.error_input').html("This field is required!");
+                        correct = false;
+                    } else if (!checkCreditCard(pretty_val, "Visa") && !checkCreditCard(pretty_val, "MasterCard") && !checkCreditCard(pretty_val, "AmEx")) {
+                        $('.creditcard_master').css('opacity', 0.3);
+                        $('.creditcard_visa').css('opacity', 0.3);
+                        $('.creditcard_amex').css('opacity', 0.3);
+                        correct = false;
+                        input.parent().find('.error_input').html("Card number is invalid");
+                    } else {
+                        $('.creditcard_master').css('opacity', 0.3);
+                        $('.creditcard_visa').css('opacity', 0.3);
+                        $('.creditcard_amex').css('opacity', 0.3);
+                        if (checkCreditCard(pretty_val, "Visa")) {
+                            $('.creditcard_visa').css('opacity', 1);
+                        } else if (checkCreditCard(pretty_val, "MasterCard")) {
+                            $('.creditcard_master').css('opacity', 1);
+                        } else if (checkCreditCard(pretty_val, "AmEx")) {
+                            $('.creditcard_amex').css('opacity', 1);
+                        }
+                        input.parent().find('.error_input').removeClass("alert alert-danger");
+                        input.parent().find('.error_input').html('');
+                    }
+                    return true;
+                }
+
+                function checkAndMarkInputCardCVV(input) {
+                    var correct = true;
+                    input.parent().find('.error_input').addClass("alert alert-danger");
+                    if (input.val() === '') {
+                        input.parent().find('.error_input').html("This field is required!");
+                        correct = false;
+                    } else if (!is_number(input.val()) || (input.val().length != 3 && input.val().length != 4)) {
+                        input.parent().find('.error_input').html('CVV not correct');
+                        correct = false;
+                    } else {
+                        input.parent().find('.error_input').removeClass("alert alert-danger");
+                        input.parent().find('.error_input').html('');
+                    }
+                    return correct;
+                }
+
+                function addPaymentMethodToForm($form, methodId) {
+                    $form.append($('<input type="hidden" name="pay-method">').val(methodId));
+                }
+
+                function checkBillingInformation(e) {
+                    if (isSubmited) {
+                        e.preventDefault();
+                        return;
+                    }
+                    lLoading.show();
+                    var $formMessage = $('#form-message');
+                    $formMessage.hide();
+                    var correct = true;
+                    $('#billing_info').find('.error_input').html('');
+                    correct = correct & checkAndMarkInput($('#input_first_name'));
+                    correct = correct & checkAndMarkInput($('#input_last_name'));
+                    correct = correct & checkAndMarkInput($('#input_country'));
+                    correct = correct & checkAndMarkInput($('#input_address'));
+                    correct = correct & checkAndMarkInput($('#input_city'));
+                    correct = correct & checkAndMarkInput($('#input_zipcode'));
+                    correct = correct & checkAndMarkInputCardNumber($('#input_card_number'));
+                    correct = correct & checkAndMarkInputCardCVV($('#input_card_cvv2'));
+                    correct = correct & checkAndMarkInputExpired($('#input_expired_month'), $('#input_expired_year'));
+                    var country = $('#input_country').val();
+                    var arrCountry = ['US', 'CA', 'IT', 'NL'];
+                    if (jQuery.inArray(country, arrCountry) != -1) {
+                        correct = correct & checkAndMarkInput($('#slb_states'));
+                    } else {
+                        correct = correct & checkAndMarkInput($('#input_state'));
+                    }
+                    var card_type = '';
+                    var pretty_val = $('#input_card_number').val().replace(/\-/g, '');
+                    if (checkCreditCard(pretty_val, "Visa")) {
+                        card_type = 'Visa';
+                    } else if (checkCreditCard(pretty_val, "MasterCard")) {
+                        card_type = 'MasterCard';
+                    } else if (checkCreditCard(pretty_val, "AmEx")) {
+                        card_type = 'AmEx';
+                    } else {
+                        correct = false;
+                    }
+                    var $form = $('#payment-form');
+                    if (correct) {
+                        addPaymentMethodToForm($form, methodID);
+                        $form.append($('<input type="hidden" name="billing_first_name">').val($('#input_first_name').val()));
+                        $form.append($('<input type="hidden" name="billing_last_name">').val($('#input_last_name').val()));
+                        $form.append($('<input type="hidden" name="billing_country">').val($('#input_country').val()));
+                        $form.append($('<input type="hidden" name="billing_country_name">').val($('#input_country').find("option:selected").text()));
+                        $form.append($('<input type="hidden" name="billing_address1">').val($('#input_address').val()));
+                        $form.append($('<input type="hidden" name="billing_city">').val($('#input_city').val()));
+                        $form.append($('<input type="hidden" name="billing_zip">').val($('#input_zipcode').val()));
+                        $form.append($('<input type="hidden" name="card_number">').val(prettyCardNumber($('#input_card_number').val())));
+                        $form.append($('<input type="hidden" name="card_expired">').val($('#input_expired_month').val() + $('#input_expired_year').val()));
+                        $form.append($('<input type="hidden" name="card_expired_month">').val($('#input_expired_month').val()));
+                        $form.append($('<input type="hidden" name="card_expired_year">').val($('#input_expired_year').val()));
+                        $form.append($('<input type="hidden" name="card_cvv2">').val($('#input_card_cvv2').val()));
+                        if ($.inArray(country, arrCountry) != -1) {
+                            $form.append($('<input type="hidden" name="billing_state">').val($('#slb_states').val()));
+                        } else {
+                            $form.append($('<input type="hidden" name="billing_state">').val($('#input_state').val()));
+                        }
+                        $form.append($('<input type="hidden" name="card_type">').val(card_type));
+                        enableBillingInfo(true);
+                        isSubmited = true;
+                    } else {
+                        lLoading.hide();
+                        e.preventDefault();
+                        $formMessage.show();
+                    }
+                }
+
+                function formatState(state) {
+                    if (!state.id) {
+                        return state.text;
+                    }
+                    return $('<span><img src="' + state.element.getAttribute('data-img-src') + '" class="img-flag" alt="' + state.text + '"/>' + state.text + '</span>');
+                }
+
+                commands.push(function () {
+                    $(document).ready(function () {
+                        $('#currency').select2({templateResult: formatState, templateSelection: formatState});
+                        $('.payment-method-option').click(function () {
+                            var $input = $(this).find('input:radio');
+                            methodID = $input.val();
+                        });
+                        $('#input_first_name').blur(function () {
+                            checkAndMarkInput($(this));
+                        });
+                        $('#input_last_name').blur(function () {
+                            checkAndMarkInput($(this));
+                        });
+                        $('#input_country').blur(function () {
+                            checkAndMarkInput($(this));
+                        });
+                        $('#input_address').blur(function () {
+                            checkAndMarkInput($(this));
+                        });
+                        $('#input_city').blur(function () {
+                            checkAndMarkInput($(this));
+                        });
+                        $('#input_state').blur(function () {
+                            checkAndMarkInput($(this));
+                        });
+                        $('#input_zipcode').blur(function () {
+                            checkAndMarkInput($(this));
+                        });
+                        $('#slb_states').blur(function () {
+                            checkAndMarkInput($(this));
+                        });
+                        $('#input_card_number').blur(function () {
+                            checkAndMarkInputCardNumber($(this));
+                        });
+                        $('#input_card_cvv2').blur(function () {
+                            checkAndMarkInputCardCVV($(this));
+                        });
+                        $('#input_card_number').keyup(function () {
+                            var cardNumber = $('#input_card_number').val().trim();
+                            if (cardNumber.length > 0) {
+                                $('.creditcard_visa').css('opacity', 0.3);
+                                $('.creditcard_master').css('opacity', 0.3);
+                                $('.creditcard_amex').css('opacity', 0.3);
+                                if (cardNumber.indexOf('4') == 0) {
+                                    $('.creditcard_visa').css('opacity', 1);
+                                } else if (cardNumber.indexOf('5') == 0) {
+                                    $('.creditcard_master').css('opacity', 1);
+                                } else if (cardNumber.indexOf('3') == 0) {
+                                    $('.creditcard_amex').css('opacity', 1);
+                                }
+                            } else {
+                                $('.creditcard_master').css('opacity', 1);
+                                $('.creditcard_visa').css('opacity', 1);
+                                $('.creditcard_amex').css('opacity', 1);
+                            }
+                        });
+                        $('#input_expired_month').change(function () {
+                            checkAndMarkInputExpired($('#input_expired_month'), $('#input_expired_year'));
+                        });
+                        $('#input_expired_year').change(function () {
+                            checkAndMarkInputExpired($('#input_expired_month'), $('#input_expired_year'));
+                        });
+                        var _please_select = "Please select";
+                        $('#input_country').change(function () {
+                            var country = $('#input_country').val();
+                            if (country) {
+                                $.ajax({
+                                    type: 'POST',
+                                    url: urlGetStates,
+                                    data: {country_code: country},
+                                    success: function (html) {
+                                        if (html.length > 1) {
+                                            $('.row_state').hide();
+                                            $('#slb_states').html('<option value="">' + _please_select + '</option>' + html);
+                                            $('.row_states').show();
+                                        } else {
+                                            $('#input_state').val('');
+                                            $('.row_state').show();
+                                            $('.row_states').hide();
+                                        }
+                                    }
+                                });
+                            }
+                        });
+                        var amount = $("#id_amount");
+                        var isValidAmount = true;
+                        var isValidPayFor = true;
+                        var totalPayFor = 0;
+                        var note = $("#id_note");
+                        var isValidNote = true;
+                        var formMsg = $("#form-message");
+                        var checkboxPayment = $(".checkbox-payment-for");
+                        var checkboxPoint = $("#use_oneibc_point");
+                        var message = "";
+                        amount.on("change blur", function () {
+                            var self = $(this);
+                            var value = self.prop("value");
+                            if (LValidator.validNumber(value) == false) {
+                                $("#amount-error").text("Enter a number!");
+                                $("#amount-error").addClass("alert alert-danger");
+                                isValidAmount = false;
+                            } else {
+                                $("#amount-error").text("");
+                                $("#amount-error").removeClass("alert alert-danger");
+                                isValidAmount = true;
+                            }
+                        });
+                        note.on("change blur", function () {
+                            var self = $(this);
+                            var value = self.prop("value");
+                            if (value.length < 1) {
+                                $('#note-error').text("This field is required!");
+                                $('#note-error').addClass("alert alert-danger");
+                                isValidNote = false;
+                            } else {
+                                $('#note-error').text("");
+                                $('#note-error').removeClass("alert alert-danger");
+                                isValidNote = true;
+                            }
+                        });
+                        checkboxPayment.on("change blur", function () {
+                            totalPayFor = $(':checkbox:checked').length;
+                            if (totalPayFor > 0) {
+                                $('#payment-for-error').text("");
+                                $('#payment-for-error').removeClass("alert alert-danger");
+                            } else {
+                                $('#payment-for-error').text("Please check the type of your payment!");
+                                $('#payment-for-error').addClass("alert alert-danger");
+                            }
+                        });
+                        checkboxPoint.on("change", function () {
+                            if ($('#use_oneibc_point').prop("checked") && $('#currency').val() != "USD") {
+                                $('#checkpoint-for-error').text("Invalid currency. Please select currency USD to use One IBC Credit points!");
+                                $('#checkpoint-for-error').addClass("alert alert-danger");
+                            } else {
+                                $('#checkpoint-for-error').text("");
+                                $('#checkpoint-for-error').removeClass("alert alert-danger");
+                            }
+                        });
+                        var validateForm = function () {
+                            amount.trigger("blur");
+                            note.trigger("blur");
+                            var checked = false;
+                            checkboxPayment.each(function () {
+                                var self = $(this);
+                                if (self.prop("checked")) {
+                                    formMsg.hide();
+                                    checked = true;
+                                    isValidPayFor = true;
+                                    return false;
+                                }
+                            });
+                            if (!checked) {
+                                $('#payment-for-error').text("Please check the type of your payment!");
+                                $('#payment-for-error').addClass("alert alert-danger");
+                                isValidPayFor = false;
+                            }
+                            var point = true;
+                            if ($('#use_oneibc_point').prop("checked") && $('#currency').val() != "USD") {
+                                $('#checkpoint-for-error').text("Invalid currency. Please select currency USD to use One IBC Credit points!");
+                                $('#checkpoint-for-error').addClass("alert alert-danger");
+                                point = false;
+                            } else {
+                                $('#checkpoint-for-error').text("");
+                                $('#checkpoint-for-error').removeClass("alert alert-danger");
+                                point = true;
+                            }
+                            return isValidAmount && isValidNote && checked && point;
+                        };
+                        $('#payment-form').submit(function (event) {
+                            var validateSuccess = validateForm();
+                            if (!validateSuccess) {
+                                message = "Please review and correct the required field(s)!";
+                                formMsg.html(message);
+                                formMsg.addClass("alert alert-danger");
+                                formMsg.show();
+                                event.preventDefault();
+                                return;
+                            }
+                            switch (methodID) {
+                                case kMethodDirect:
+                                    checkBillingInformation(event);
+                                    break;
+                                case kMethodPaypal:
+                                    lLoading.show();
+                                    var $form = $('#payment-form');
+                                    addPaymentMethodToForm($form, methodID);
+                                    break;
+                                default:
+                                    break;
+                            }
+                        });
+                    });
+                }); </script>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6"><h2>About Us</h2>
+                <p> We are always proud of being an experienced Financial and Corporate Services provider in the
+                    international market. We provide the best and most competitive value to you as valued customers to
+                    transform your goals into a solution with a clear action plan. Our Solution, Your Success. </p>
+            </div>
+            <div class="col-md-5 col-md-offset-1"><a class="btn btn-primary btn-transparent" href="/about-us"
+                                                     title="Read more"> Read more </a></div>
+        </div>
+    </div>
+</div>
+<footer id="footer">
+    <div class="footer-link">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/about-us" target="_self" title="About Us"> About Us </a></li>
+                                <li><a href="/info/universal-terms-of-service" target="_self"
+                                       title="Universal Terms Of Service"> Universal Terms Of Service </a></li>
+                                <li><a href="/info/legal-agreements" target="_self" title="Legal Agreements"> Legal
+                                    Agreements </a></li>
+                                <li><a href="/info/privacy-policy" target="_self" title="Privacy Policy"> Privacy
+                                    Policy </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/info/payment-guidelines" target="_self" title="Payment Guidelines">
+                                    Payment Guidelines </a></li>
+                                <li><a href="/info/fatf-sanctioned-countries" target="_self"
+                                       title="FATF Sanctioned Countries"> FATF Sanctioned Countries </a></li>
+                                <li><a href="/info/one-ibc-safeguard" target="_self" title="One IBC Safeguard"> One IBC
+                                    Safeguard </a></li>
+                                <li><a href="/info/legal-disclaimer" target="_self" title="Legal Disclaimer"> Legal
+                                    Disclaimer </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/download" target="_self" title="Download Documents"> Download
+                                    Documents </a></li>
+                                <li><a href="/shelf-companies" target="_self" title="Shelf Companies"> Shelf
+                                    Companies </a></li>
+                                <li><a href="/countries" target="_self" title="Countries / Jurisdictions"> Countries /
+                                    Jurisdictions </a></li>
+                                <li><a href="/glossary" target="_self" title="Glossary"> Glossary </a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <ul>
+                                <li><a href="/make-payment" target="_self" title="Make Payment"> Make Payment </a></li>
+                                <li><a href="/structure" target="_self" title="One IBC Structure"> One IBC
+                                    Structure </a></li>
+                                <li><a href="/faq" target="_self" title="FAQs"> FAQs </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-support">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12"><h3><img
+                        alt="Call Us" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-phone-icon.png"
+                        title="Call Us"> Call Us:</h3></div>
+                <div class="col-md-4">
+                    <ul>
+                        <li class="text-right"><a href="tel:+85230519188?call" target="_self" title="Hong Kong"> <img
+                                alt="Hong Kong"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-hongkong-1541472701.svg" title="Hong Kong" width="22"> <span class="location">Hong Kong:</span>
+                            +852 3051 9188</a></li>
+                        <li class="text-right"><a href="tel:+61390185385?call" target="_self" title="Australia"><img
+                                alt="Australia"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-aus-1541472700.svg" title="Australia" width="22"><span class="location">Australia:</span>
+                            +61 390 185 385</a></li>
+                        <li class="text-right"><a href="tel:+442071931138?call" target="_self"
+                                                  title="United Kingdom"><img
+                                alt="United Kingdom"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-uk-1541472701.svg" title="United Kingdom" width="22"><span
+                                class="location">United Kingdom:</span> +44 207 193 1138 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+6565919991?call" target="_self" title="Singapore"><img
+                                alt="Singapore"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-singapore-1541472701.svg" title="Singapore" width="22"><span class="location">Singapore:</span>
+                            +65 6591 9991</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self" title="United States"><img
+                                alt="United States"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-usa-1540541212.svg" title="United States" width="22"><span class="location">United States:</span>
+                            +1 917 267 8538</a></li>
+                        <li class="text-right"><a href="tel:+19172678538?call" target="_self"
+                                                  title="British Virgin Islands"><img
+                                alt="British Virgin Islands"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-bvi-1541814181.svg" title="British Virgin Islands" width="22"><span
+                                class="location">British Virgin Islands:</span> +1 917 267 8538 </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 ">
+                    <ul>
+                        <li class="text-right"><a href="tel:+37052664444?call" target="_self" title="Lithuania"><img
+                                alt="Lithuania"
+                                height="12" src="https://dusyzh85wmzqh.cloudfront.net/uploads/flag-lithuania-1565683326.svg" title="Lithuania" width="22"><span class="location">Lithuania:</span>
+                            +370 5266 4444 </a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=6593266888"><img
+                                align="absmiddle"
+                                alt="Whatapp" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-phone-1545358106.png" title="Whatapp"> <span class="location"> </span>+65 932
+                            66888</a></li>
+                        <li><a href="viber://chat?number=+6593266888"><img
+                                align="absmiddle" alt="Viber"
+                                height="20" src="https://dusyzh85wmzqh.cloudfront.net/uploads/icon-viber-1545358106.png" title="Viber" width="20"><span class="location"> </span>
+                            +65 932 66888</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-support-more">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12"><a href="/info/worldwide-phone-support" target="_self"
+                                              title="View more support phone"> View more support phone <img
+                            alt="View more support phone"
+                            src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-arrow-down.png" title="View more support phone"> </a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <ul class="footer-method">
+                <li><img alt="Visa" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-visa.svg"
+                         title="Visa"></li>
+                <li><img alt="Master Card" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-master.svg"
+                         title="Master Card"></li>
+                <li><img alt="American Express"
+                         src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-amex.svg" title="American Express"></li>
+                <li><img alt="Paypal" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-paypal.svg"
+                         title="Paypal"></li>
+                <li>
+                    <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en"
+                       onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.offshorecompanycorp.com&lang=en','name','width=600,height=400')"
+                       target="popup">
+                        <img alt="Symantec"
+                             src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-norton-secure.svg" title="Symantec"> </a></li>
+                <li><a href="https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=" onclick="window.open('https://sealserver.trustwave.com/cert.php?customerId=&size=105x54&style=','name','width=600,height=400')"
+                       target="popup">
+                    <img alt="Trustwave" src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-trustwave.svg"
+                         title="Trustwave"> </a></li>
+            </ul>
+            <div class="row">
+                <div class="col-md-12"><img
+                        alt="Offshore Company Corp - Brand name of One IBC Limited"
+                        height="18"
+                        src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/footer-copyright-icon.png" title="Offshore Company Corp - Brand name of One IBC Limited" width="18"> Copyright
+                    ©1997 - 2018 Offshore Company Corp - A brand of One IBC Limited ("Trust or Company Service
+                    Provider"), Incorporated in the Hong Kong SAR with limited liability and One IBC Pte. Ltd
+                    ("Corporate Service Providers"), Incorporated in Republic of Singapore with limited liability.
+                    Leading Offshore Company Formation & Licensing Solutions. All Rights Reserved. Each member firm of
+                    One IBC network is legally separate and independent entities affiliated with One IBC AG (“One IBC”),
+                    a Swiss entity. Please see <a href="https://www.offshorecompanycorp.com/structure">One IBC
+                        structure</a> for further details.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="l-loading"
+     style="position: fixed;z-index: 10000;top: 0px;left: 0px;width: 100%;height: 100%;background: #fff;filter: alpha(opacity=85);opacity: 1;background: rgba(255, 255,255,0);text-align: center; color:#f00;display:none;">
+    <div style="background-color: #FDF7CC;border: 1px solid #FDC86C;border-radius: 4px;padding: 1px;margin: 20px auto;width: 50%;">
+        <img alt='Processing...' src="https://dusyzh85wmzqh.cloudfront.net/frontend/images/waiting.gif"
+             style="vertical-align:middle;position: relative;z-index: 10001;" title='Processing...'/>Processing...
+    </div>
+</div>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-1.12.4.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/bootstrap.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/jquery-ui-1.12.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/suggest-1.1.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/languageMsg.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/style-1.6.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/select2/select2.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/frontend/js/creditcard.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/json3.min.js"></script>
+<script src="https://dusyzh85wmzqh.cloudfront.net/shared/js/l-validate-util.js"></script>
+<script> for (var __i = 0; __i < commands.length; __i++) {
+    commands[__i]();
+}
+if (typeof (dataLayer) === 'object') {
+    dataLayer.push({
+        "dynx_userIp": "171.79.57.48",
+        "dynx_userID": "",
+        "dynx_userEmail": "",
+        "dynx_userCountry": "IN",
+        "dynx_location": "IN",
+        "dynx_pagetype": "makepayment-step1",
+        "dynx_incorpCountry": "",
+        "dynx_platform": "desktop",
+        "dynx_languageCode": "en",
+        "dynx_transactionId": "",
+        "dynx_paymentId": "",
+        "dynx_paymentMethod": "",
+        "dynx_totalvalue": "",
+        "dynx_currency": "",
+        "dynx_paymentFor": "",
+        "dynx_paymentNote": "",
+        "dynx_orderId": ""
+    });
+} </script>
+</body>
+</html>
